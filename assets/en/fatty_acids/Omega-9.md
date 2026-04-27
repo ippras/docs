@@ -1,10 +1,16 @@
-# Omega -9
+# Omega-9 Fatty Acids
 
-* **Abbreviation**: ω-9, n-9
-* **Description**: Indicates the level of unsaturated fatty acids in the body, which are non-essential but offer significant health benefits.
-    * *Cardiovascular Health*: Omega-9 fatty acids contribute to heart health by helping to reduce "bad" cholesterol (LDL) while increasing "good" cholesterol (HDL). This action helps prevent the buildup of arterial plaque and can aid in managing blood pressure.
-    * *Anti-Inflammatory Properties*: These fatty acids have anti-inflammatory effects and can help modulate the body's inflammatory response, which is linked to many chronic diseases.
-    * *Non-Essential Production*: Unlike omega-3 and omega-6, omega-9 fatty acids are not classified as essential because the body can produce them from other unsaturated fats.
-* **Value**: While there are no strict intake guidelines because the body produces Omega-9 on its own, replacing saturated fats with monounsaturated fats (Omega-9) in the diet is considered beneficial for health.
-* **Links**:
-    [Mohamed2022](https://doi.org/10.1186/s43141-022-00329-0 "Omega-9 fatty acids: potential roles in inflammation and cancer management")
+$$\sum n-9$$
+
+---
+
+* **Abbreviation**: $\omega$-9, n-9
+* **Synonyms**: Omega-9 fats, n-9 fatty acids
+* **Description**: Represents a family of unsaturated fatty acids that have a final carbon-carbon double bond in the omega-9 position (the ninth bond from the methyl end of the fatty acid chain). The most common and abundant omega-9 fatty acid is oleic acid (C18:1).
+    * *Nutritional Health*: Unlike omega-3 and omega-6, omega-9 fatty acids are non-essential because the human body can synthesize them from other unsaturated fats. However, consuming them in place of saturated fats offers significant health benefits. They contribute to cardiovascular health by reducing "bad" low-density lipoprotein (LDL) cholesterol while maintaining "good" high-density lipoprotein (HDL) cholesterol. They also help modulate the body's inflammatory response and improve insulin sensitivity.
+    * *Biodiesel Properties*: Because omega-9 fatty acids are predominantly monounsaturated (e.g., oleic acid), feedstocks rich in them are highly desirable for biodiesel production. They offer an optimal compromise between cold flow properties (preventing the fuel from gelling at low temperatures) and oxidation stability (resisting degradation over time), while maintaining a good cetane number (CN) for efficient ignition.
+
+## References
+
+* [Moser (2010)](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+* [Mohamed (2022)](https://doi.org/10.1186/s43141-022-00329-0 "Omega-9 fatty acids: potential roles in inflammation and cancer management")

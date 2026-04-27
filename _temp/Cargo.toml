@@ -1,0 +1,12 @@
+[package]
+name = "docs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# icu = { git = "https://github.com/JustFly1984/icu4x", branch = "feature/messageformat-v2", features = [
+#     "unstable",
+# ] }
+# icu = { version = "2.2.0", features = ["unstable"] }
+# icu_provider = "2.2.0"
+# icu_provider_adapters = "2.2.0"

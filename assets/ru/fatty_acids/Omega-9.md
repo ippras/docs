@@ -1,10 +1,16 @@
-# Omega -9
+# Омега-9 жирные кислоты
 
-* **Abbreviation**: ω-9, n-9
-* **Description**: Indicates the level of unsaturated fatty acids in the body, which are non-essential but offer significant health benefits.
-    * *Cardiovascular Health*: Omega-9 fatty acids contribute to heart health by helping to reduce "bad" cholesterol (LDL) while increasing "good" cholesterol (HDL). This action helps prevent the buildup of arterial plaque and can aid in managing blood pressure.
-    * *Anti-Inflammatory Properties*: These fatty acids have anti-inflammatory effects and can help modulate the body's inflammatory response, which is linked to many chronic diseases.
-    * *Non-Essential Production*: Unlike omega-3 and omega-6, omega-9 fatty acids are not classified as essential because the body can produce them from other unsaturated fats.
-* **Value**: While there are no strict intake guidelines because the body produces Omega-9 on its own, replacing saturated fats with monounsaturated fats (Omega-9) in the diet is considered beneficial for health.
-* **Links**:
-    [Mohamed2022](https://doi.org/10.1186/s43141-022-00329-0 "Omega-9 fatty acids: potential roles in inflammation and cancer management")
+$$\sum n-9$$
+
+---
+
+* **Аббревиатура**: $\omega$-9, n-9
+* **Синонимы**: Омега-9 жиры, n-9 жирные кислоты
+* **Описание**: Представляет собой семейство ненасыщенных жирных кислот, у которых последняя двойная углерод-углеродная связь находится в положении омега-9 (девятая связь от метильного конца цепи жирной кислоты). Наиболее распространенной омега-9 жирной кислотой является олеиновая кислота (C18:1).
+    * *Влияние на здоровье (нутрициология)*: В отличие от омега-3 и омега-6, омега-9 жирные кислоты не являются незаменимыми, поскольку организм человека может синтезировать их из других ненасыщенных жиров. Тем не менее, их употребление вместо насыщенных жиров приносит значительную пользу для здоровья. Они способствуют здоровью сердечно-сосудистой системы, снижая уровень "плохого" холестерина липопротеинов низкой плотности (ЛПНП) и поддерживая уровень "хорошего" холестерина липопротеинов высокой плотности (ЛПВП). Они также помогают модулировать воспалительную реакцию организма и улучшают чувствительность к инсулину.
+    * *Свойства биодизеля*: Поскольку омега-9 жирные кислоты в основном являются мононенасыщенными (например, олеиновая кислота), сырье с их высоким содержанием крайне предпочтительно для производства биодизеля. Они обеспечивают оптимальный компромисс между низкотемпературными свойствами (предотвращая загустевание топлива при низких температурах) и окислительной стабильностью (устойчивостью к деградации с течением времени), сохраняя при этом хорошее цетановое число (CN) для эффективного воспламенения.
+
+## References
+
+* [Moser (2010)](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+* [Mohamed (2022)](https://doi.org/10.1186/s43141-022-00329-0 "Omega-9 fatty acids: potential roles in inflammation and cancer management")

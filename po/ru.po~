@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-07T10:34:37+03:00\n"
+"POT-Creation-Date: 2026-05-07T10:53:02+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -21,8 +21,8 @@ msgid "Introduction"
 msgstr "Введение"
 
 #: src/SUMMARY.md:5 src/FattyAcids/index.md:1
-msgid "Fatty acids parameters"
-msgstr "Параметры жирных кислот"
+msgid "Fatty acids metrics"
+msgstr "Метрики жирных кислот"
 
 #: src/SUMMARY.md:6 src/SUMMARY.md:60 src/FattyAcids/Primitive/index.md:1
 #: src/Triacylglycerols/Primitive/index.md:1
@@ -273,8 +273,8 @@ msgid "Selectivity factor"
 msgstr "Коэффициент селективности"
 
 #: src/SUMMARY.md:59 src/Triacylglycerols/index.md:1
-msgid "Triacylglycerols parameters"
-msgstr "Параметры триацилглицеринов"
+msgid "Triacylglycerols metrics"
+msgstr "Метрики триацилглицеринов"
 
 #: src/FattyAcids/Primitive/c16.md:6 src/FattyAcids/Primitive/c18.md:6
 #: src/FattyAcids/Primitive/c18c9.md:6 src/FattyAcids/Primitive/c18c9c12.md:6

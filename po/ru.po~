@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-07T10:53:02+03:00\n"
+"POT-Creation-Date: 2026-05-07T11:16:01+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -333,6 +333,7 @@ msgstr "П"
 #: src/FattyAcids/Sum/ByChainLength/VeryLong.md:10
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:10
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:11
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:20
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:10
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:10
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:10
@@ -362,7 +363,7 @@ msgstr "гексадекановая кислота"
 #: src/FattyAcids/Sum/ByChainLength/VeryLong.md:14
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:14
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:15
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:20
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:34
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:14
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:14
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:13
@@ -1635,41 +1636,82 @@ msgstr ""
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:10
 msgid "2UFA"
-msgstr ""
+msgstr "2ННЖК"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:11
 msgid "3UFA"
-msgstr ""
+msgstr "3ННЖК"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:12
 msgid "4UFA"
-msgstr ""
+msgstr "4ННЖК"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:13
 msgid "5UFA"
-msgstr ""
+msgstr "5ННЖК"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:14
 msgid "6UFA"
-msgstr ""
+msgstr "6ННЖК"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:15
 msgid "7UFA"
-msgstr ""
+msgstr "7ННЖК"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:16
 msgid "8UFA"
-msgstr ""
+msgstr "8ННЖК"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:17
 msgid "9UFA"
-msgstr ""
+msgstr "9ННЖК"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:18
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:32
 msgid "..."
 msgstr "..."
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:22
+msgid "Monounsaturated (monoenoic)"
+msgstr "Мононеасыщенные (моноены)"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:23
+msgid "Diunsaturated (dienoic)"
+msgstr "Динеасыщенные (диены)"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:24
+msgid "Triunsaturated (trienoic)"
+msgstr "Тринеасыщенные (триены)"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:25
+msgid "Tetraunsaturated (tetraenoic)"
+msgstr "Тетранеасыщенные (тетраены)"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:26
+msgid "Pentaunsaturated (pentaenoic)"
+msgstr "Пентанеасыщенные (пентаены)"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:27
+msgid "Hexaunsaturated (hexaenoic)"
+msgstr "Гексанеасыщенные (гексаены)"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:28
+msgid "Heptaunsaturated (heptaenoic)"
+msgstr "Гептанеасыщенные (гептаены)"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:29
+msgid "Octaunsaturated (octaenoic)"
+msgstr "Октанеасыщенные (октаены)"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:30
+msgid "Nonaunsaturated (nonaenoic)"
+msgstr "Нонанеасыщенные (нонаены)"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:31
+msgid "Decaunsaturated (decaenoic)"
+msgstr "Деканеасыщенные (декаены)"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:36
 msgid ""
 "Represents the sum of all fatty acids that contain exactly N unsaturated "
 "bond in their hydrocarbon chain."

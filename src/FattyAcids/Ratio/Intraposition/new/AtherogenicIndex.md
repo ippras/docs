@@ -1,0 +1,36 @@
+# Atherogenic index
+
+`nutritional`
+
+<!-- i18n:skip -->
+$$AI = \frac{C12:0 + 4 \times C14:0 + C16:0}{\sum MUFA + \sum PUFA[\omega-6] + \sum PUFA[\omega-3]}$$
+<!-- i18n:skip -->
+$$AI = \frac{C12:0 + 4 \times C14:0 + C16:0 + C18:0}{\sum MUFA + \sum PUFA[\omega-6] + \sum PUFA[\omega-3]}$$
+<!-- i18n:skip -->
+$$\frac{12:0 + 4 \cdot 14:0 + 16:0}{\sum UFA}$$
+
+## Abbreviations
+
+- AI
+- IA
+
+## Synonyms
+
+- Index of atherogenicity
+
+## Description
+
+Represents the atherogenic index, which indicates the relationship between the main saturated fatty acids (which have a pro-atherogenic effect) and unsaturated fatty acids (which have an anti-atherogenic effect). 
+
+**Nutritional potential**:
+
+From a human health perspective, the AI value should be as low as possible. This index evaluates the risk of cardiovascular diseases by comparing fatty acids that promote lipid and plaque accumulation in blood vessels (such as lauric C12:0, myristic C14:0, and palmitic C16:0 acids) against those that inhibit plaque accumulation and lower levels of phospholipids and cholesterol (MUFAs and PUFAs). Consuming foods with a lower AI is highly recommended as it can contribute to the reduction of total cholesterol and low-density lipoprotein (LDL) cholesterol in human plasma.
+
+*(Note: The formula provided in the source text includes Stearic acid (C18:0) in the numerator, reflecting the specific methodology used by the authors for this calculation).*
+
+## References
+
+<!-- i18n:skip -->
+- [Ulbricht et al. (1991)]: https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors"
+<!-- i18n:skip -->
+- [Kralik et al. (2025)]: https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs"

@@ -13,6 +13,8 @@ Assesses the impact of diet on cardiovascular health (CVH).
 
 ## References
 
+- [Yousefi et al. (2012)](https://doi.org/10.1016/j.meatsci.2012.05.004)
+
 <!-- i18n:skip -->
 - [Alvarenga et al. (2014)](https://doi.org/10.1017/S1751731114000093 "49")
 <!-- i18n:skip -->

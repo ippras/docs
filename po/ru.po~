@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-07T11:16:01+03:00\n"
+"POT-Creation-Date: 2026-05-07T11:24:37+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -363,7 +363,7 @@ msgstr "гексадекановая кислота"
 #: src/FattyAcids/Sum/ByChainLength/VeryLong.md:14
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:14
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:15
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:34
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:44
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:14
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:14
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:13
@@ -1667,51 +1667,91 @@ msgid "9UFA"
 msgstr "9ННЖК"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:18
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:32
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:42
 msgid "..."
 msgstr "..."
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:22
-msgid "Monounsaturated (monoenoic)"
-msgstr "Мононеасыщенные (моноены)"
+msgid "Monounsaturated"
+msgstr "Мононеасыщенные"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:23
-msgid "Diunsaturated (dienoic)"
-msgstr "Динеасыщенные (диены)"
+msgid "monoenoics, if only double bonds are present"
+msgstr "моноены, если присутствуют только двойные связи"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:24
-msgid "Triunsaturated (trienoic)"
-msgstr "Тринеасыщенные (триены)"
+msgid "Diunsaturated"
+msgstr "Динеасыщенные"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:25
-msgid "Tetraunsaturated (tetraenoic)"
-msgstr "Тетранеасыщенные (тетраены)"
+msgid "dienoics, if only double bonds are present"
+msgstr "диены, если присутствуют только двойные связи"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:26
-msgid "Pentaunsaturated (pentaenoic)"
-msgstr "Пентанеасыщенные (пентаены)"
+msgid "Triunsaturated"
+msgstr "Тринеасыщенные"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:27
-msgid "Hexaunsaturated (hexaenoic)"
-msgstr "Гексанеасыщенные (гексаены)"
+msgid "trienoics, if only double bonds are present"
+msgstr "триены, если присутствуют только двойные связи"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:28
-msgid "Heptaunsaturated (heptaenoic)"
-msgstr "Гептанеасыщенные (гептаены)"
+msgid "Tetraunsaturated"
+msgstr "Тетранеасыщенные"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:29
-msgid "Octaunsaturated (octaenoic)"
-msgstr "Октанеасыщенные (октаены)"
+msgid "tetraenoics, if only double bonds are present"
+msgstr "тетраены, если присутствуют только двойные связи"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:30
-msgid "Nonaunsaturated (nonaenoic)"
-msgstr "Нонанеасыщенные (нонаены)"
+msgid "Pentaunsaturated"
+msgstr "Пентанеасыщенные"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:31
-msgid "Decaunsaturated (decaenoic)"
-msgstr "Деканеасыщенные (декаены)"
+msgid "pentaenoics, if only double bonds are present"
+msgstr "пентаены, если присутствуют только двойные связи"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:32
+msgid "Hexaunsaturated"
+msgstr "Гексанеасыщенные"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:33
+msgid "hexaenoics, if only double bonds are present"
+msgstr "гексаены, если присутствуют только двойные связи"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:34
+msgid "Heptaunsaturated"
+msgstr "Гептанеасыщенные"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:35
+msgid "heptaenoics, if only double bonds are present"
+msgstr "гептаены, если присутствуют только двойные связи"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:36
+msgid "Octaunsaturated"
+msgstr "Октанеасыщенные"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:37
+msgid "octaenoics, if only double bonds are present"
+msgstr "октаены, если присутствуют только двойные связи"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:38
+msgid "Nonaunsaturated"
+msgstr "Нонанеасыщенные"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:39
+msgid "nonaenoics, if only double bonds are present"
+msgstr "нонаены, если присутствуют только двойные связи"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:40
+msgid "Decaunsaturated"
+msgstr "Деканеасыщенные"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:41
+msgid "decaenoics, if only double bonds are present"
+msgstr "декаены, если присутствуют только двойные связи"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:46
 msgid ""
 "Represents the sum of all fatty acids that contain exactly N unsaturated "
 "bond in their hydrocarbon chain."
@@ -2363,3 +2403,6 @@ msgid ""
 "effects of medium-chain triglycerides: potential agents in the prevention of "
 "obesity\")"
 msgstr ""
+
+#~ msgid "Monounsaturated (monoenoic)"
+#~ msgstr "Мононеасыщенные (моноены)"

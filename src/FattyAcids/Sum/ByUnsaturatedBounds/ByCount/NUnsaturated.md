@@ -19,26 +19,26 @@ $$\sum NUFA$$
 
 ## Synonyms
 
-- Monounsaturated
-    - monoenoics, if only double bonds are present
-- Diunsaturated
-    - dienoics, if only double bonds are present
-- Triunsaturated
-    - trienoics, if only double bonds are present
-- Tetraunsaturated
-    - tetraenoics, if only double bonds are present
-- Pentaunsaturated
-    - pentaenoics, if only double bonds are present
-- Hexaunsaturated
-    - hexaenoics, if only double bonds are present
-- Heptaunsaturated
-    - heptaenoics, if only double bonds are present
-- Octaunsaturated
-    - octaenoics, if only double bonds are present
-- Nonaunsaturated
-    - nonaenoics, if only double bonds are present
-- Decaunsaturated
-    - decaenoics, if only double bonds are present
+- Monounsaturated fatty acids
+    - monoenoic fatty acids, if only double bonds are present
+- Diunsaturated fatty acids
+    - dienoic fatty acids, if only double bonds are present
+- Triunsaturated fatty acids
+    - trienoic fatty acids, if only double bonds are present
+- Tetraunsaturated fatty acids
+    - tetraenoic fatty acids, if only double bonds are present
+- Pentaunsaturated fatty acids
+    - pentaenoic fatty acids, if only double bonds are present
+- Hexaunsaturated fatty acids
+    - hexaenoic fatty acids, if only double bonds are present
+- Heptaunsaturated fatty acids
+    - heptaenoic fatty acids, if only double bonds are present
+- Octaunsaturated fatty acids
+    - octaenoic fatty acids, if only double bonds are present
+- Nonaunsaturated fatty acids
+    - nonaenoic fatty acids, if only double bonds are present
+- Decaunsaturated fatty acids
+    - decaenoic fatty acids, if only double bonds are present
 - ...
 
 ## Description

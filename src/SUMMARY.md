@@ -44,6 +44,11 @@
 
   - [Ratio](./FattyAcids/Ratio/README.md)
     - [Intraposition ratio](./FattyAcids/Ratio/Intraposition/README.md)
+      - [Atherogenic index](./FattyAcids/Ratio/Intraposition/new/AtherogenicIndex.md)
+      - [Nutritional value index](./FattyAcids/Ratio/Intraposition/new/NutritionalValueIndex.md)
+      - [Thrombogenic index](./FattyAcids/Ratio/Intraposition/new/ThrombogenicIndex.md)
+      - [Saturation index](./FattyAcids/Ratio/Intraposition/new/SaturationIndex.md)
+
       - [Fish lipid quality](./FattyAcids/Ratio/Intraposition/FishLipidQuality.md)
       - [Health-promoting index](./FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md)
       - [Hypocholesterolemic to hypercholesterolemic fatty acids](./FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md)

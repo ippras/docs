@@ -3,19 +3,20 @@
 `nutritional`
 
 <!-- i18n:skip -->
-$$\frac{14:0 + 16:0 + 18:0}{0.5 \cdot \sum MUFA + 0.5 \cdot \sum PUFA[\omega-6] + 3 \cdot \sum PUFA[\omega-3] + \frac{\sum PUFA[\omega-3]}{\sum PUFA[\omega-6]}}$$
+$$\frac{C14:0 + C16:0 + C18:0}{0.5 \cdot \sum MUFA + 0.5 \cdot \sum PUFA[\omega-6] + 3 \cdot \sum PUFA[\omega-3] + \frac{\sum PUFA[\omega-3]}{\sum PUFA[\omega-6]}}$$
 
 ## Abbreviations
 
+- IT
 - TI
 
 ## Synonyms
 
-- Index of Thrombogenicity
+- Index of thrombogenicity
 
 ## Description
 
-Represents the Thrombogenic index, which characterizes the thrombogenic potential of fatty acids. It defines the ratio between pro-thrombogenic saturated fatty acids and anti-thrombogenic unsaturated fatty acids.
+Represents the thrombogenic index, which characterizes the thrombogenic potential of fatty acids. It defines the ratio between pro-thrombogenic saturated fatty acids and anti-thrombogenic unsaturated fatty acids.
 
 **Nutritional potential**:
 
@@ -24,8 +25,8 @@ From a human health perspective, the TI value should be as low as possible. This
 ## References
 
 <!-- i18n:skip -->
-- [Ulbricht  et al. (1991)]: https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors"
+- {{#include ../../../../References.md:Ulbricht et al. 1991}}
 <!-- i18n:skip -->
-- [Watson  et al. (2009)]: https://doi.org/10.1016/S0140-6736(09)60040-4 "Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited"
+- {{#include ../../../../References.md:Watson  et al. 2009}}
 <!-- i18n:skip -->
-- [Kralik et al. (2025)]: https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs"
+- {{#include ../../../../References.md:Kralik et al. 2025}}

@@ -20,8 +20,8 @@ From a human health perspective, a higher NVI value is considered more favorable
 ## References
 
 <!-- i18n:skip -->
-- [Banskalieva et al. (2000)]: https://doi.org/10.1016/s0921-4488(00)00128-0 "Fatty acid composition of goat muscles and fat depots: a review"
+- {{#include ../../../../References.md:Banskalieva et al., 2000}}
 <!-- i18n:skip -->
-- [Chen et al. (2016)]: https://doi.org/10.5713/ajas.15.0840 "Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens"
+- {{#include ../../../../References.md:Chen et al., 2016}}
 <!-- i18n:skip -->
-- [Kralik et al. (2025)]: https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs"
+- {{#include ../../../../References.md:Kralik et al., 2025}}

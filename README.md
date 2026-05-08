@@ -41,3 +41,8 @@ MDBOOK_BOOK__LANGUAGE=ru mdbook serve
 ```
 msgcat po/ru.po -o po/ru.po
 ```
+
+```
+<!-- ANCHOR:  -->
+<!-- ANCHOR_END:  -->
+```

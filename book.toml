@@ -14,6 +14,12 @@ after = ["links"]
 [build]
 extra-watch-dirs = ["po"]
 
+[output.html.redirect]
+"/References.md" = "./src/References.md"
+"/References.html" = "./src/References.html"
+
+[output.markdown]
+
 [output.html]
 additional-css = ["theme/css/language-picker.css"]
 git-repository-url = "https://github.com/ippras/docs"

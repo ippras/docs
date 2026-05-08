@@ -46,3 +46,7 @@ msgcat po/ru.po -o po/ru.po
 <!-- ANCHOR:  -->
 <!-- ANCHOR_END:  -->
 ```
+
+- {{#include ./src/References.md:Chen et al., 2020}}
+- {{#include ./src/References.md:Dal Bosco et al., 2022}}
+- {{#include ./src/References.md:Kralik et al., 2025}}

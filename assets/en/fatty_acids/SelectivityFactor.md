@@ -20,4 +20,4 @@ It provides a comparative measure of how strongly a specific fatty acid competes
 
 ## References
 
-- [Верещагин, 1972, стр. 176](https://doi.org/10.1007/978-1-4419-7145-6_15 "Биохимия триглицеридов")
+- [Верещагин, 1972, стр. 176](https://doi.org/404.html "Биохимия триглицеридов")

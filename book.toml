@@ -14,7 +14,7 @@ after = ["links"]
 [build]
 extra-watch-dirs = ["po"]
 
-# [output.markdown]
+[output.markdown]
 
 [output.html]
 additional-css = ["theme/css/language-picker.css"]

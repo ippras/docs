@@ -12,9 +12,16 @@ MDBOOK_OUTPUT='{"xgettext": {"depth": 3}}' \
   mdbook build -d po
 ```
 
-```
-LANGUAGES="en ru" \
-  ./build.sh
+```sh
+for language in en ru; do
+    echo "::group::Building $language translation"
+    # Set language and adjust site URL. Clear the redirects
+    # since they are in sync with the source files, not the
+    # translation.
+    MDBOOK_BOOK__LANGUAGE=$language \
+    mdbook build -d book/$language
+    echo "::endgroup::"
+done
 ```
 
 ## Initialize a New Translation

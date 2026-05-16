@@ -1,6 +1,6 @@
 # Degree of unsaturation
 
-$$DU = w_{monounsaturated} + 2 * w_{polyunsaturated(2)} + 3 * w_{polyunsaturated(3)} + 4 * w_{polyunsaturated(4)}$$
+$$DU = 1-UFA + 2 * 2-UFA + 3 * 3-UFA + 4 * 4-UFA$$
 
 ## Abbreviations
 

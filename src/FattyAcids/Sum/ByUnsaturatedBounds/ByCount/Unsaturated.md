@@ -26,4 +26,4 @@ In fuel applications, a higher proportion of unsaturated fatty acids significant
 ## References
 
 - [Mensink _et al._, 2003](https://doi.org/10.1093/ajcn/77.5.1146 "Effects of dietary fatty acids and carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 controlled trials")
-- [Moser _et al._, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

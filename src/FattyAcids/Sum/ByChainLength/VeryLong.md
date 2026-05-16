@@ -27,4 +27,4 @@ In fuel applications, the presence of VLCFAs significantly increases the kinemat
 
 - [Wanders _et al._, 2010](https://doi.org/10.1016/j.ymgme.2004.08.016 "Peroxisomes, lipid metabolism, and peroxisomal disorders")
 - [Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 "Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis")
-- [Moser _et al._, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

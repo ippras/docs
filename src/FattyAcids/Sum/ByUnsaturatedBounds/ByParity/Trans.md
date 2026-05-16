@@ -26,7 +26,7 @@ In fuel applications, the straight-chain structure of trans fatty acids makes th
 ## References
 
 - [Mozaffarian _et al._, 2006](https://doi.org/10.1056/NEJMra054035 "Trans Fatty Acids and Cardiovascular Disease")
-- [Moser _et al._, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
 - [Paiva _et al._, 2016](https://doi.org/10.1016/j.foodres.2016.08.007 "Paiva (2016)")
 - [Farajzadeh Alan _et al._, 2019](https://doi.org/10.1002/fsn3.1231 "Farajzadeh Alan (2019)")

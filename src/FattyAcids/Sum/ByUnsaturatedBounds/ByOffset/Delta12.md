@@ -24,5 +24,5 @@ Because delta 12 fatty acids in nature are almost exclusively polyunsaturated (t
 
 ## References
 
-- [Okuley et al., 1994](https://doi.org/10.1105/tpc.6.1.147 "Arabidopsis FAD2 gene encodes the enzyme that is essential for polyunsaturated lipid synthesis")
-- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Okuley _et al._, 1994](https://doi.org/10.1105/tpc.6.1.147 "Arabidopsis FAD2 gene encodes the enzyme that is essential for polyunsaturated lipid synthesis")
+- [Moser _et al._, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-08T12:13:23+03:00\n"
+"POT-Creation-Date: 2026-05-16T21:39:19+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -24,7 +24,8 @@ msgstr "Введение"
 msgid "Fatty acids metrics"
 msgstr "Метрики жирных кислот"
 
-#: src/SUMMARY.md:6 src/SUMMARY.md:68 src/FattyAcids/Primitive/index.md:1
+#: src/SUMMARY.md:6 src/SUMMARY.md:75 src/index.md:11
+#: src/FattyAcids/Primitive/index.md:1
 #: src/Triacylglycerols/Primitive/index.md:1
 msgid "Primitive"
 msgstr "Примитивы"
@@ -89,8 +90,8 @@ msgstr "Лигноцериновая жирная кислота"
 msgid "Nervonic fatty acid"
 msgstr "Нервоновая жирная кислота"
 
-#: src/SUMMARY.md:20 src/SUMMARY.md:70 src/FattyAcids/Sum/index.md:1
-#: src/Triacylglycerols/Sum/index.md:1
+#: src/SUMMARY.md:20 src/SUMMARY.md:77 src/index.md:16
+#: src/FattyAcids/Sum/index.md:1 src/Triacylglycerols/Sum/index.md:1
 msgid "Sum"
 msgstr "Суммы"
 
@@ -206,100 +207,269 @@ msgstr "Сумма по шаблону ненасыщенных связей"
 msgid "Conjugated fatty acids"
 msgstr "Сопряжённые жирные кислоты"
 
-#: src/SUMMARY.md:45 src/SUMMARY.md:72 src/FattyAcids/Ratio/index.md:1
-#: src/Triacylglycerols/Ratio/index.md:1
+#: src/SUMMARY.md:45 src/SUMMARY.md:79 src/index.md:27
+#: src/FattyAcids/Ratio/index.md:1 src/Triacylglycerols/Ratio/index.md:1
 msgid "Ratio"
 msgstr "Отношения"
 
-#: src/SUMMARY.md:46 src/SUMMARY.md:56 src/FattyAcids/Ratio/index.md:3
-#: src/FattyAcids/Ratio/HypocholesterolemicToHypercholesterolemic.md:1
-#: src/FattyAcids/Ratio/Intraposition/index.md:9
+#: src/SUMMARY.md:46 src/FattyAcids/Ratio/Metabolic/index.md:1
+msgid "Metabolic"
+msgstr "Метаболизм"
+
+#: src/SUMMARY.md:47 src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:1
+#, fuzzy
+msgid "Delta 9 desaturase index"
+msgstr "Дельта 9 жирные кислоты"
+
+#: src/SUMMARY.md:48 src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:1
+msgid "Elongase index"
+msgstr ""
+
+#: src/SUMMARY.md:49 src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:1
+msgid "Kinetic activity index"
+msgstr ""
+
+#: src/SUMMARY.md:50 src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:1
+msgid "Thioesterase index"
+msgstr ""
+
+#: src/SUMMARY.md:51 src/FattyAcids/Ratio/Nutritional/index.md:1
+msgid "Nutritional"
+msgstr ""
+
+#: src/SUMMARY.md:52 src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:1
+msgid "Atherogenic index"
+msgstr ""
+
+#: src/SUMMARY.md:53 src/SUMMARY.md:61
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:1
+#: src/FattyAcids/Ratio/Intraposition/index.md:5
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:1
+msgid "Fish lipid quality"
+msgstr ""
+
+#: src/SUMMARY.md:54 src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:1
+msgid "Health promoting index"
+msgstr ""
+
+#: src/SUMMARY.md:55
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:1
+#, fuzzy
+msgid "Hypocholesterolemic to hypercholesterolemic index"
+msgstr ""
+"Снижающие уровень холестерина жирные кислоты к повышающим уровень "
+"холестерина жирным кислотам"
+
+#: src/SUMMARY.md:56
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:1
+msgid "Nutritional value index"
+msgstr ""
+
+#: src/SUMMARY.md:57 src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:1
+msgid "Saturation index"
+msgstr ""
+
+#: src/SUMMARY.md:58 src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:1
+msgid "Thrombogenic index"
+msgstr ""
+
+#: src/SUMMARY.md:60
+#, fuzzy
+msgid "Intraposition"
+msgstr "Внутрипозиционные отношения"
+
+#: src/SUMMARY.md:62 src/FattyAcids/Ratio/Intraposition/index.md:7
+#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:1
+msgid "Health-promoting index"
+msgstr ""
+
+#: src/SUMMARY.md:63 src/FattyAcids/Ratio/Intraposition/index.md:9
 #: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:1
 msgid "Hypocholesterolemic to hypercholesterolemic fatty acids"
 msgstr ""
 "Снижающие уровень холестерина жирные кислоты к повышающим уровень "
 "холестерина жирным кислотам"
 
-#: src/SUMMARY.md:48 src/FattyAcids/Ratio/index.md:7
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:1
-msgid "Atherogenic index"
-msgstr ""
-
-#: src/SUMMARY.md:49 src/FattyAcids/Ratio/index.md:9
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:1
-msgid "Nutritional value index"
-msgstr ""
-
-#: src/SUMMARY.md:50 src/FattyAcids/Ratio/index.md:11
-#: src/FattyAcids/Ratio/SaturationIndex.md:1
-msgid "Saturation index"
-msgstr ""
-
-#: src/SUMMARY.md:51 src/FattyAcids/Ratio/index.md:13
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:1
-msgid "Thrombogenic index"
-msgstr ""
-
-#: src/SUMMARY.md:53
-msgid "Intraposition ratio"
-msgstr "Внутрипозиционные отношения"
-
-#: src/SUMMARY.md:54 src/FattyAcids/Ratio/Intraposition/index.md:5
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:1
-msgid "Fish lipid quality"
-msgstr ""
-
-#: src/SUMMARY.md:55 src/FattyAcids/Ratio/Intraposition/index.md:7
-#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:1
-msgid "Health-promoting index"
-msgstr ""
-
-#: src/SUMMARY.md:57 src/FattyAcids/Ratio/AtherogenicIndex.md:17
+#: src/SUMMARY.md:64 src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:17
 #: src/FattyAcids/Ratio/Intraposition/index.md:11
 #: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:1
 msgid "Index of atherogenicity"
 msgstr "Индекс атерогенности"
 
-#: src/SUMMARY.md:58 src/FattyAcids/Ratio/ThrombogenicIndex.md:15
+#: src/SUMMARY.md:65 src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:15
 #: src/FattyAcids/Ratio/Intraposition/index.md:13
 #: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:1
 msgid "Index of thrombogenicity"
 msgstr "Индекс тромбогенности"
 
-#: src/SUMMARY.md:59 src/FattyAcids/Ratio/Intraposition/index.md:15
+#: src/SUMMARY.md:66 src/FattyAcids/Ratio/Intraposition/index.md:15
 #: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:1
 msgid "Linoleic fatty acid to α-Linolenic fatty acid"
 msgstr "Линолевая жирная кислота к α-линоленовой жирной кислоте"
 
-#: src/SUMMARY.md:60 src/FattyAcids/Ratio/Intraposition/index.md:17
+#: src/SUMMARY.md:67 src/FattyAcids/Ratio/Intraposition/index.md:17
 #: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:1
 msgid "Polyunsaturated omega -6 to polyunsaturated omega -3 fatty acids"
 msgstr ""
 "Полинеасыщенные омега -6 жирные кислоты к полинеасыщенные омега -3 жирным "
 "кислотам"
 
-#: src/SUMMARY.md:61 src/FattyAcids/Ratio/Intraposition/index.md:19
+#: src/SUMMARY.md:68 src/FattyAcids/Ratio/Intraposition/index.md:19
 #: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:1
 msgid "Polyunsaturated to saturated fatty acids"
 msgstr "Полинеасыщенные жирные кислоты к насыщенным жирным кислотам"
 
-#: src/SUMMARY.md:63
-msgid "Interposition ratio"
+#: src/SUMMARY.md:70
+#, fuzzy
+msgid "Interposition metrics"
 msgstr "Межпозиционные отношения"
 
-#: src/SUMMARY.md:64 src/Interposition/index.md:5
+#: src/SUMMARY.md:71 src/Interposition/index.md:5
 #: src/Interposition/EnrichmentFactor.md:1
 msgid "Enrichment factor"
 msgstr "Коэффициент обогащения"
 
-#: src/SUMMARY.md:65 src/Interposition/index.md:6
+#: src/SUMMARY.md:72 src/Interposition/index.md:6
 #: src/Interposition/SelectivityFactor.md:1
 msgid "Selectivity factor"
 msgstr "Коэффициент селективности"
 
-#: src/SUMMARY.md:67 src/Triacylglycerols/index.md:1
+#: src/SUMMARY.md:74 src/Triacylglycerols/index.md:1
 msgid "Triacylglycerols metrics"
 msgstr "Метрики триацилглицеринов"
+
+#: src/index.md:3
+msgid ""
+"Lipids are more than just an energy source or building blocks for cellular "
+"membranes. They represent a complex language through which the body "
+"communicates its metabolic status, health, environmental adaptation, and "
+"nutritional quality. With the rapid advancement of lipidomics and nutrition "
+"science, the volume of data regarding fatty acids and their derivatives has "
+"grown exponentially. However, this abundance of data brings a challenge of "
+"systematization: how do we organize hundreds of individual molecules, their "
+"groups, and complex biomarkers (indices) into a single, logically consistent "
+"framework?"
+msgstr ""
+
+#: src/index.md:5
+msgid ""
+"The book **\"Lipid expressions\"** offers an elegant solution to this "
+"problem. It is not merely a reference guide, but a rigorous mathematical and "
+"logical framework that translates the biological diversity of lipids into "
+"the language of clear formulas and expressions."
+msgstr ""
+
+#: src/index.md:7
+msgid ""
+"The architecture of this book is built on a bottom-up principle—moving from "
+"the simple to the complex. We have divided all lipid expressions into three "
+"fundamental components: **Primitive**, **Sum**, and **Ratio**. This "
+"structure allows for the algorithmic calculation of any nutritional or "
+"metabolic index, no matter how complex."
+msgstr ""
+
+#: src/index.md:9
+msgid "The Architecture of Lipid expressions"
+msgstr ""
+
+#: src/index.md:13
+msgid ""
+"These are the basic \"building blocks\" of lipidomics—individual molecules "
+"that cannot be decomposed into simpler components within our framework. In "
+"the **Fatty Acids** section, primitives are specific acids with precise "
+"indications of carbon chain length and double bond positions: palmitic "
+"($C16:0$), oleic ($C18:1\\[\\\\omega-9\\]$), eicosapentaenoic ($C20:5\\[\\"
+"\\omega-3\\]$), and others. Primitives represent the raw data obtained "
+"directly from chromatographic analysis."
+msgstr ""
+
+#: src/index.md:18
+msgid ""
+"The second level of abstraction. In biology and medicine, we rarely evaluate "
+"each fatty acid in isolation; more often, we are interested in their "
+"classes. **Sum** expressions group primitives based on specific "
+"classification criteria:"
+msgstr ""
+
+#: src/index.md:19
+msgid ""
+"**By chain length**: short chain (SCFA), medium chain (MCFA), long chain "
+"(LCFA), and very long chain (VLCFA) fatty acids."
+msgstr ""
+
+#: src/index.md:20
+msgid ""
+"**By count of unsaturated bonds**: saturated (SFA), monounsaturated (MUFA), "
+"and polyunsaturated (PUFA)."
+msgstr ""
+
+#: src/index.md:21
+msgid ""
+"**By offset of the first unsaturated**: The well-known Omega -3, Omega -6, "
+"and Omega -9 families."
+msgstr ""
+
+#: src/index.md:22
+msgid "**By pattern and parity**: Conjugated and trans fatty acids."
+msgstr ""
+
+#: src/index.md:23
+msgid ""
+"**Specific combinations**: For example, the sum of the most important marine "
+"fatty acids (EPA + DHA)."
+msgstr ""
+
+#: src/index.md:25
+msgid ""
+"Sums transform an array of raw data into meaningful biological categories."
+msgstr ""
+
+#: src/index.md:29
+msgid ""
+"The highest level of abstraction, where mathematics meets physiology. "
+"**Ratio** expressions demonstrate the relationships between primitives and/"
+"or sums. This is where biomarkers are born, evaluating food quality or "
+"metabolic states. This section is divided into two logical branches:"
+msgstr ""
+
+#: src/index.md:30
+msgid ""
+"_Nutritional_: Evaluate the impact of dietary lipids on human health. This "
+"includes the Atherogenic Index, Thrombogenic Index, Fish Lipid Quality, "
+"Health-Promoting Index, and others."
+msgstr ""
+
+#: src/index.md:31
+msgid ""
+"_Metabolic_: Assess the activity of the body's endogenous enzyme systems, "
+"such as elongases (Elongase Index) and desaturases (Delta 9 Desaturase "
+"Index), as well as the Kinetic Activity Index."
+msgstr ""
+
+#: src/index.md:33
+msgid "Who is this book for?"
+msgstr ""
+
+#: src/index.md:35
+msgid ""
+"\"Lipids Expressions\" is designed for researchers in lipidomics, food "
+"chemistry, nutrition, and bioinformatics. Software developers creating "
+"laboratory analysis tools will find ready-to-use logic for writing "
+"algorithms. Scientists and medical professionals will gain a clear, "
+"structured reference base for health and metabolic indices."
+msgstr ""
+
+#: src/FattyAcids/index.md:3
+msgid "[Primitive](Primitive/README.md)"
+msgstr "[Primitive](Primitive/README.md)"
+
+#: src/FattyAcids/index.md:4
+msgid "[Sum](Sum/README.md)"
+msgstr "[Sum](Sum/README.md)"
+
+#: src/FattyAcids/index.md:5
+msgid "[Ratio](Ratio/README.md)"
+msgstr "[Ratio](Ratio/README.md)"
 
 #: src/FattyAcids/Primitive/c16.md:6 src/FattyAcids/Primitive/c18.md:6
 #: src/FattyAcids/Primitive/c18c9.md:6 src/FattyAcids/Primitive/c18c9c12.md:6
@@ -326,11 +496,17 @@ msgstr "Метрики триацилглицеринов"
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:6
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:6
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:6
-#: src/FattyAcids/Ratio/HypocholesterolemicToHypercholesterolemic.md:10
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:10
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:8
-#: src/FattyAcids/Ratio/SaturationIndex.md:8
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:8
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:14
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:8
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:8
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:8
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:10
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:8
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:10
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:10
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:8
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:8
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:8
 #: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:6
 #: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:6
 #: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:6
@@ -368,9 +544,14 @@ msgstr "П"
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:10
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:10
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:11
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:15
-#: src/FattyAcids/Ratio/SaturationIndex.md:13
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:13
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:19
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:12
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:12
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:12
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:15
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:12
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:13
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:13
 #: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:10
 #: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:10
 msgid "Synonyms"
@@ -406,11 +587,17 @@ msgstr "гексадекановая кислота"
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:13
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:14
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:15
-#: src/FattyAcids/Ratio/HypocholesterolemicToHypercholesterolemic.md:14
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:19
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:12
-#: src/FattyAcids/Ratio/SaturationIndex.md:17
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:17
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:23
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:16
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:16
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:16
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:19
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:16
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:14
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:14
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:12
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:17
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:17
 #: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:14
 #: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:10
 #: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:10
@@ -459,11 +646,6 @@ msgstr ""
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:17
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:18
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:19
-#: src/FattyAcids/Ratio/HypocholesterolemicToHypercholesterolemic.md:18
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:23
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:16
-#: src/FattyAcids/Ratio/SaturationIndex.md:21
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:21
 msgid "**Nutritional potential**:"
 msgstr "**Пищевой потенциал**:"
 
@@ -555,11 +737,17 @@ msgstr ""
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:25
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:26
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:27
-#: src/FattyAcids/Ratio/HypocholesterolemicToHypercholesterolemic.md:22
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:27
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:20
-#: src/FattyAcids/Ratio/SaturationIndex.md:25
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:25
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:29
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:22
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:22
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:22
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:25
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:22
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:20
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:20
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:18
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:23
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:23
 #: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:18
 #: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:14
 #: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:14
@@ -569,7 +757,7 @@ msgstr ""
 #: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:24
 #: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:14
 #: src/Interposition/EnrichmentFactor.md:20
-#: src/Interposition/SelectivityFactor.md:22
+#: src/Interposition/SelectivityFactor.md:22 src/Triacylglycerols/index.md:8
 msgid "References"
 msgstr "Ссылки"
 
@@ -593,6 +781,7 @@ msgstr ""
 #: src/FattyAcids/Sum/ByChainLength/Medium.md:29
 #: src/FattyAcids/Sum/ByChainLength/Long.md:29
 #: src/FattyAcids/Sum/ByChainLength/VeryLong.md:30
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:29
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:29
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:29
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:28
@@ -607,7 +796,7 @@ msgid ""
 "\"Biodiesel Production, Properties, and Feedstocks\")"
 msgstr ""
 
-#: src/FattyAcids/Primitive/c16.md:30
+#: src/FattyAcids/Primitive/c16.md:30 src/Triacylglycerols/index.md:10
 msgid ""
 "[Sanders et al., 2011](https://doi.org/10.3945/ajcn.111.017459 \"Palmitic "
 "acid in the sn-2 position of triacylglycerols acutely influences "
@@ -1566,6 +1755,7 @@ msgstr ""
 "целью улучшения низкотемпературных свойств биодизеля."
 
 #: src/FattyAcids/Sum/ByChainLength/Medium.md:28
+#: src/Triacylglycerols/index.md:3
 msgid ""
 "[St-Onge et al., 2002](https://doi.org/10.1093/jn/132.3.329 \"Physiological "
 "effects of medium-chain triglycerides: potential agents in the prevention of "
@@ -1834,6 +2024,12 @@ msgstr ""
 "Однако это негативно влияет на текучесть при низких температурах, повышая "
 "температуру застывания (CFPP) и вызывая гелеобразование топлива при более "
 "высоких температурах."
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:28
+msgid ""
+"[who.int](https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-"
+"fats-and-carbohydrates \"WHO updates guidelines on fats and carbohydrates\")"
+msgstr ""
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:9
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:9
@@ -2523,46 +2719,106 @@ msgid ""
 "\"Biological effects of conjugated linoleic acids in health and disease\")"
 msgstr ""
 
+#: src/FattyAcids/Ratio/index.md:3
+msgid "[Biodiesel](Biodiesel/README.md)"
+msgstr ""
+
+#: src/FattyAcids/Ratio/index.md:4
+msgid "[Metabolic](Metabolic/README.md)"
+msgstr ""
+
 #: src/FattyAcids/Ratio/index.md:5
-msgid "Indices"
+msgid "[Nutritional](Nutritional/README.md)"
 msgstr ""
 
-#: src/FattyAcids/Ratio/index.md:8 src/FattyAcids/Ratio/index.md:10
-#: src/FattyAcids/Ratio/index.md:12 src/FattyAcids/Ratio/index.md:14
-#: src/FattyAcids/Ratio/HypocholesterolemicToHypercholesterolemic.md:3
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:3
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:3
-#: src/FattyAcids/Ratio/SaturationIndex.md:3
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:3
-msgid "`nutritional`"
+#: src/FattyAcids/Ratio/Metabolic/index.md:3
+msgid "[Delta 9 desaturase index](Delta9DesaturaseIndex)"
 msgstr ""
 
-#: src/FattyAcids/Ratio/HypocholesterolemicToHypercholesterolemic.md:12
-msgid "HHI"
+#: src/FattyAcids/Ratio/Metabolic/index.md:4
+msgid "[Elongase index](ElongaseIndex)"
 msgstr ""
 
-#: src/FattyAcids/Ratio/HypocholesterolemicToHypercholesterolemic.md:16
+#: src/FattyAcids/Ratio/Metabolic/index.md:5
+msgid "[Kinetic activity index](KineticActivityIndex)"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/index.md:6
+msgid "[Thioesterase index](ThioesteraseIndex)"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:3
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:3
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:3
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:3
+msgid "`metabolic`"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:11
 msgid ""
-"Represents the hypocholesterolemic/hypercholesterolemic index, which "
-"evaluates the specific effect of fatty acids on cholesterol metabolism. It "
-"calculates the ratio of hypocholesterolemic fatty acids (which help lower "
-"blood cholesterol, such as oleic acid and polyunsaturated fatty acids) to "
-"hypercholesterolemic fatty acids (which raise blood cholesterol, such as "
-"lauric $C12:0$, myristic $C14:0$, and palmitic $C16:0$ acids)."
+"\\[!NOTE\\] There are different versions of this index calculation. The "
+"first version calculates only the conversion from $C18:0$ to $C18:1$, while "
+"the second calculates the total conversion of $C16:0$ and $C18:0$."
 msgstr ""
 
-#: src/FattyAcids/Ratio/HypocholesterolemicToHypercholesterolemic.md:20
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:16
+msgid "$\\Delta 9$-desaturase"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:17
+msgid "$\\Delta 9$-DI"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:21
+#, fuzzy
+msgid "Delta 9 desaturase"
+msgstr "Дельта 9 жирные кислоты"
+
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:25
 msgid ""
-"From a nutritional point of view, **high** HHI values are highly desirable. "
-"Unlike the Atherogenic (AI) and Thrombogenic (TI) indices where lower values "
-"are better, a higher HHI indicates a healthier lipid profile with a greater "
-"proportion of beneficial fatty acids that contribute to the reduction of "
-"plasma cholesterol levels. It is considered a highly suitable metric for "
-"assessing the health benefits of lipids in food products and their "
-"protective role against cardiovascular diseases."
+"Represents the estimated activity of the delta 9 desaturase enzyme (also "
+"known as stearoyl-CoA desaturase) in tissues, calculated using the product/"
+"substrate ratio approach. This enzyme catalyzes the introduction of a double "
+"bond at the delta-9 position of saturated fatty acids, primarily converting "
+"palmitic acid ($C16:0$) and stearic acid ($C18:0$) into their corresponding "
+"monounsaturated fatty acids, palmitoleic acid ($C16:1\\[\\\\omega-7\\]$) and "
+"oleic acid ($C18:1\\[\\\\omega-9\\]$)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/HypocholesterolemicToHypercholesterolemic.md:24
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:27
+msgid ""
+"This is a metabolic indicator used to evaluate the endogenous synthesis of "
+"monounsaturated fatty acids from saturated precursors. It is widely used in "
+"animal nutrition and meat/egg quality research to discriminate metabolic "
+"changes caused by dietary factors, genetics, age, or rearing systems. Like "
+"the elongase and thioesterase indices, it serves as a practical and cost-"
+"effective surrogate for measuring true desaturase enzyme activity in the "
+"laboratory."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:31
+msgid ""
+"[Vessby et al., 2002](https://doi.org/10.1111/j.1749-6632.2002.tb04275.x "
+"\"Desaturation and elongation of fatty acids and insulin action\")"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:32
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:24
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:24
+msgid ""
+"[Zhang et al., 2007](https://doi.org/10.2527/jas.2006-239 \"Effects of "
+"breed, sex, and halothane genotype on fatty acid composition of pork "
+"longissimus muscle\")"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:33
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:34
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:25
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:25
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:25
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:29
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:24
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:22
 msgid ""
 "[Dal Bosco et al., 2022](https://doi.org/10.3390/nu14153110 \"Indexing of "
 "Fatty Acids in Poultry Meat for Its Characterization in Healthy Human "
@@ -2570,24 +2826,175 @@ msgid ""
 "Proposals\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:12
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:35
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:26
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:26
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:26
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:28
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:25
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:22
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:27
+msgid ""
+"[Kralik et al., 2025](https://doi.org/10.18047/poljo.31.1.8 \"A Fatty acid "
+"profile and THE Health Lipid Indices in Table Eggs\")"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:10
+msgid "EI"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:14
+msgid "Elongase"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:18
+msgid ""
+"Represents the elongase index, which is used to estimate the activity of "
+"elongase enzymes in tissues (such as muscle or egg yolk) using the product/"
+"substrate ratio approach. Specifically, it measures the elongation of "
+"palmitic acid ($C16:0$) to stearic acid ($C18:0$)."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:20
+msgid ""
+"Unlike nutritional indices (such as AI or HPI), the elongase index is "
+"primarily a metabolic indicator. It was developed to identify and evaluate "
+"the lipid metabolism of animals and their capacity to synthesize longer-"
+"chain fatty acids from precursors. While it may have lower direct relevance "
+"for evaluating the nutritional quality of food for human consumption, it is "
+"a valuable tool for researchers to discriminate metabolic changes in animals "
+"due to dietary effects, genetic strains, or rearing systems. It serves as a "
+"practical surrogate for measuring true enzyme activity, avoiding complex and "
+"expensive laboratory analyses."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:10
+msgid "KAI"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:14
+msgid "Activity index"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:18
+msgid ""
+"Represents the activity index (also referred to as the kinetic activity "
+"index, KAI), which is based on the indirect evaluation of $\\beta$-oxidation "
+"activity in muscles to estimate energy expenditure. It is calculated as the "
+"ratio of total omega-3 polyunsaturated fatty acids ($\\sum PUFA\\[\\"
+"\\omega-3\\]$) to $\\alpha$-linolenic acid (ALA, $C18:3\\[\\\\omega-3\\]$)."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:20
+msgid ""
+"This index is a metabolic indicator that describes the mobilization of n-3 "
+"long-chain PUFAs used for energy production (i.e., movement) and the "
+"resulting oxidative status. The ratio serves as an indicator of energy "
+"consumption ($\\beta$-oxidation) and is typically higher in oxidative "
+"muscles than in glycolytic ones, reflecting higher kinetic activity in "
+"animals. Researchers use this index as an objective tool to measure the "
+"adaptability of a genetic line to extensive rearing systems (e.g., outdoor "
+"runs), because it accounts for the physical activity exerted during the "
+"animal's life and can be used for _ex post_ animal welfare assessment."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:24
+msgid ""
+"[Failla et al., 2021](https://doi.org/10.1016/j.psj.2021.101279 \"An index "
+"to measure the activity attitude of broilers in extensive system\")"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:10
+msgid "THI"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:14
+msgid "Thioesterase"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:18
+msgid ""
+"Represents the thioesterase index, which is used to estimate the activity of "
+"the thioesterase enzyme in tissues using the product/substrate ratio "
+"approach. Specifically, it measures the ratio of palmitic acid ($C16:0$) to "
+"myristic acid ($C14:0$). In fatty acid synthesis, the thioesterase enzyme is "
+"responsible for terminating the reaction and releasing the newly synthesized "
+"fatty acid."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:20
+msgid ""
+"Like the elongase index, the thioesterase index is a metabolic indicator "
+"rather than a direct measure of human nutritional quality. It is "
+"particularly useful for understanding the selective cleavage of thioesterase "
+"on the C14-acyl-acyl carrier protein versus the C16-acyl-acyl carrier "
+"protein. Researchers use this index to evaluate the lipid metabolism of "
+"animals (such as poultry or pigs) and to discriminate metabolic changes due "
+"to dietary effects, genetic strains, or rearing systems. It serves as a "
+"practical and cost-effective surrogate for measuring true enzyme activity in "
+"the laboratory."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/index.md:3
+msgid "[Atherogenic index](AtherogenicIndex.md)"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/index.md:4
+msgid "[Fish lipid quality](FishLipidQuality.md)"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/index.md:5
+msgid "[Health promoting index](HealthPromotingIndex.md)"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/index.md:6
+msgid ""
+"[Hypocholesterolemic to hypercholesterolemic index]"
+"(HypocholesterolemicToHypercholesterolemicIndex.md)"
+msgstr ""
+"[Hypocholesterolemic to hypercholesterolemic index]"
+"(HypocholesterolemicToHypercholesterolemicIndex.md)"
+
+#: src/FattyAcids/Ratio/Nutritional/index.md:7
+msgid "[Nutritional value index](NutritionalValueIndex.md)"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/index.md:8
+msgid "[Saturation index](SaturationIndex.md)"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/index.md:9
+msgid "[Thrombogenic index](ThrombogenicIndex.md)"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:3
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:3
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:3
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:3
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:3
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:3
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:3
+msgid "`nutritional`"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:12
 msgid "AI"
 msgstr ""
 
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:13
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:13
 #: src/FattyAcids/Ratio/Intraposition/index.md:12
 #: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:8
 msgid "IA"
 msgstr ""
 
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:21
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:21
 msgid ""
 "Represents the atherogenic index, which indicates the relationship between "
 "the main saturated fatty acids (which have a pro-atherogenic effect) and "
 "unsaturated fatty acids (which have an anti-atherogenic effect)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:25
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:23
 msgid ""
 "From a human health perspective, the AI value should be as low as possible. "
 "This index evaluates the risk of cardiovascular diseases by comparing fatty "
@@ -2599,27 +3006,143 @@ msgid ""
 "low-density lipoprotein (LDL) cholesterol in human plasma."
 msgstr ""
 
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:29
-#: src/FattyAcids/Ratio/SaturationIndex.md:27
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:27
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:27
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:25
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:25
 msgid ""
 "[Ulbricht et al., 1991](https://doi.org/10.1016/0140-6736(91)91846-M "
 "\"Coronary heart disease: seven dietary factors\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/AtherogenicIndex.md:30
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:24
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:29
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:10
+#: src/FattyAcids/Ratio/Intraposition/index.md:6
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:8
+msgid "FLQ"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:14
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:12
+msgid "Flesh lipid quality"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:18
 msgid ""
-"[Kralik et al., 2025](https://doi.org/10.18047/poljo.31.1.8 \"A Fatty acid "
-"profile and THE Health Lipid Indices in Table Eggs\")"
+"Represents the fish/flesh lipid quality index, originally used to assess the "
+"lipid quality of fish or flesh. It evaluates the proportion of the two most "
+"critical marine omega -3 long-chain polyunsaturated fatty acids: "
+"eicosapentaenoic acid (EPA, $C20:5\\[\\\\omega-3\\]$) and docosahexaenoic "
+"acid (DHA, $C22:6\\[\\\\omega-3\\]$)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:10
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:20
+msgid ""
+"From a human health perspective, a higher FLQ value is more desirable. EPA "
+"and DHA play essential roles in biological processes, including reducing the "
+"risk of cardiovascular diseases, hypertension, and inflammation. Because "
+"this index specifically highlights these two fatty acids, it is particularly "
+"suitable for evaluating marine products or foods enriched with marine "
+"lipids. Higher values indicate a better nutritional quality of the lipid "
+"fraction."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:24
+msgid ""
+"[Abrami et al., 1992](https://doi.org/10.1016/0305-0491(92)90161-J \"A "
+"comparison of highly unsaturated fatty acid levels in wild and farmed eels "
+"(Anguilla Anguilla)\")"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:25
+msgid ""
+"[Krajnović-Ozretic et al., 1994](https://doi."
+"org/10.1016/0300-9629(94)90200-3 \"Fatty acids in liver and muscle of farmed "
+"and wild sea bass (Dicentrarchus labrax L.)\")"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:26
+msgid ""
+"[Łuczyńska et al., 2019](https://doi.org/10.3390/ijerph16193780 \"Health "
+"Risk Assessment of Heavy Metals and Lipid Quality Indexes in Freshwater Fish "
+"from Lakes of Warmia and Mazury Region, Poland\")"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:27
+msgid ""
+"[Senso et al., 2007](https://doi.org/10.1016/j.foodchem.2006.01.036 \"On the "
+"possible effects of harvesting season and chilled storage on the fatty acid "
+"profile of the fillet of farmed gilthead sea bream (Sparus aurata)\")"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:28
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:23
+msgid ""
+"[Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional "
+"Indices for Assessing Fatty Acids: A Mini-Review\")"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:12
+#: src/FattyAcids/Ratio/Intraposition/index.md:8
+#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:8
+msgid "HPI"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:16
+msgid ""
+"Represents the health-promoting index, which was proposed to assess the "
+"nutritional value of dietary fat, with particular emphasis on the effects of "
+"fatty acid composition on cardiovascular diseases (CVD). It is the exact "
+"inverse of the index of atherogenicity (IA)."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:18
+msgid ""
+"From a human health perspective, the HPI value should be as high as "
+"possible. This index evaluates the risk of cardiovascular diseases by "
+"comparing fatty acids that inhibit plaque accumulation and lower levels of "
+"phospholipids and cholesterol (MUFAs and PUFAs) against those that promote "
+"lipid and plaque accumulation in blood vessels (such as lauric $C12:0$, "
+"myristic $C14:0$, and palmitic $C16:0$ acids). Consuming foods with a higher "
+"HPI value provides a very high degree of protection against atherogenic "
+"diseases and is assumed to be more beneficial to human health."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:22
+msgid ""
+"[Chen et al., 2004](https://doi.org/10.1021/jf035193z \"Physical and sensory "
+"properties of dairy products from cows with various milk fatty acid "
+"compositions\")"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:12
+msgid "HHI"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:16
+msgid ""
+"Represents the hypocholesterolemic/hypercholesterolemic index, which "
+"evaluates the specific effect of fatty acids on cholesterol metabolism. It "
+"calculates the ratio of hypocholesterolemic fatty acids (which help lower "
+"blood cholesterol, such as oleic acid and polyunsaturated fatty acids) to "
+"hypercholesterolemic fatty acids (which raise blood cholesterol, such as "
+"lauric $C12:0$, myristic $C14:0$, and palmitic $C16:0$ acids)."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:18
+msgid ""
+"From a nutritional point of view, **high** HHI values are highly desirable. "
+"Unlike the atherogenic (AI) and thrombogenic (TI) indices where lower values "
+"are better, a higher HHI indicates a healthier lipid profile with a greater "
+"proportion of beneficial fatty acids that contribute to the reduction of "
+"plasma cholesterol levels. It is considered a highly suitable metric for "
+"assessing the health benefits of lipids in food products and their "
+"protective role against cardiovascular diseases."
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:10
 msgid "NVI"
-msgstr ""
+msgstr "NVI"
 
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:14
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:14
 msgid ""
 "Represents the nutritional value index, a metric developed to evaluate the "
 "nutritional quality of lipids, particularly in foods of animal origin where "
@@ -2628,7 +3151,7 @@ msgid ""
 "\\omega-9\\]$) to palmitic acid ($C16:0$)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:18
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:16
 msgid ""
 "From a human health perspective, a higher NVI value is considered more "
 "favorable. Palmitic acid ($C16:0$) is known to be atherogenic and is "
@@ -2640,32 +3163,32 @@ msgid ""
 "atherogenic palmitic acid indicates a healthier lipid profile."
 msgstr ""
 
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:22
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:20
 msgid ""
 "[Chen et al., 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in "
 "Physicochemical and Nutritional Properties of Breast and Thigh Meat from "
 "Crossbred Chickens, Commercial Broilers, and Spent Hens\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/NutritionalValueIndex.md:23
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:21
 msgid ""
 "[Banskalieva et al., 2000](https://doi.org/10.1016/s0921-4488(00)00128-0 "
 "\"Fatty acid composition of goat muscles and fat depots: a review\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/SaturationIndex.md:10
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:10
 msgid "SI"
 msgstr "SI"
 
-#: src/FattyAcids/Ratio/SaturationIndex.md:11
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:11
 msgid "IS"
 msgstr "IS"
 
-#: src/FattyAcids/Ratio/SaturationIndex.md:15
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:15
 msgid "Index of saturation"
 msgstr "Индекс насыщения"
 
-#: src/FattyAcids/Ratio/SaturationIndex.md:19
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:19
 msgid ""
 "Represents the saturation index, which evaluates the relationship between "
 "specific saturated fatty acids (myristic C14:0, palmitic C16:0, and stearic "
@@ -2673,7 +3196,7 @@ msgid ""
 "and polyunsaturated)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/SaturationIndex.md:23
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:21
 msgid ""
 "From a nutritional point of view, the SI value should be as low as possible. "
 "This index serves as a straightforward indicator of the overall saturation "
@@ -2684,24 +3207,24 @@ msgid ""
 "cardiovascular health and reduce the risk of related diseases."
 msgstr ""
 
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:10
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:10
 msgid "TI"
 msgstr ""
 
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:11
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:11
 #: src/FattyAcids/Ratio/Intraposition/index.md:14
 #: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:8
 msgid "IT"
 msgstr ""
 
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:19
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:19
 msgid ""
 "Represents the thrombogenic index, which characterizes the thrombogenic "
 "potential of fatty acids. It defines the ratio between pro-thrombogenic "
 "saturated fatty acids and anti-thrombogenic unsaturated fatty acids."
 msgstr ""
 
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:23
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:21
 msgid ""
 "From a human health perspective, the TI value should be as low as possible. "
 "This index separates fatty acids into pro-thrombogenic ones (myristic C14:0, "
@@ -2713,7 +3236,7 @@ msgid ""
 "of atrial fibrillation and other heart-related conditions."
 msgstr ""
 
-#: src/FattyAcids/Ratio/ThrombogenicIndex.md:28
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:26
 msgid ""
 "[Watson et al., 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 "
 "\"Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad "
@@ -2726,16 +3249,6 @@ msgstr ""
 
 #: src/FattyAcids/Ratio/Intraposition/index.md:3
 msgid "The ratio between fatty acids in the same stereospecific position."
-msgstr ""
-
-#: src/FattyAcids/Ratio/Intraposition/index.md:6
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:8
-msgid "FLQ"
-msgstr ""
-
-#: src/FattyAcids/Ratio/Intraposition/index.md:8
-#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:8
-msgid "HPI"
 msgstr ""
 
 #: src/FattyAcids/Ratio/Intraposition/index.md:10
@@ -2756,10 +3269,6 @@ msgstr ""
 #: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:8
 msgid "PUFA/SFA"
 msgstr "ПНЖК/НЖК"
-
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:12
-msgid "Flesh lipid quality"
-msgstr ""
 
 #: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:16
 msgid "Calculates the sum of EPA and DHA as a percentage of total fatty acids."
@@ -3136,8 +3645,8 @@ msgstr "`1..3` указывает на предпочтение позиции s
 #: src/Interposition/EnrichmentFactor.md:22
 #: src/Interposition/SelectivityFactor.md:24
 msgid ""
-"[Верещагин (1972), стр. 176](https://doi.org/10.1007/978-1-4419-7145-6_15 "
-"\"Биохимия триглицеридов\")"
+"[Верещагин, 1972, стр. 176](https://doi.org/404.html \"Биохимия "
+"триглицеридов\")"
 msgstr ""
 
 #: src/Interposition/SelectivityFactor.md:8
@@ -3167,9 +3676,10 @@ msgstr ""
 "жирная кислота конкурирует за положение sn-2 по сравнению с другими жирными "
 "кислотами, которые проявляют предпочтение к нему."
 
-#: src/Triacylglycerols/index.md:3
+#: src/Triacylglycerols/index.md:5
 msgid ""
-"[St-Onge, 2002](https://doi.org/10.1093/jn/132.3.329 \"Physiological effects "
-"of medium-chain triglycerides: potential agents in the prevention of "
-"obesity\")"
+"\\[!NOTE\\] Все эффекты $C16:0$ в индесксах негативные, но $X\\_{{2:C16:0}}$ "
+"жизненно необходим для младенцев в перод вскармливания, так и для взрослых "
+"людей. Поэтому нутрицевтические индексы должны быть уточнены путем разбиения "
+"$X\\_{{C16:0}}$ на $X\\_{{1:C16:0 | 3:C16:0}}$ и $X\\_{{2:C16:0}}$"
 msgstr ""

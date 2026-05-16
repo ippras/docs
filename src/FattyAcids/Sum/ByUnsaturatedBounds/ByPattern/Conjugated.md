@@ -26,5 +26,5 @@ The presence of conjugated double bonds makes these fatty acids highly reactive.
 
 ## References
 
-- [Bhattacharya et al., 2006](https://doi.org/10.1016/j.jnutbio.2006.02.009 "Biological effects of conjugated linoleic acids in health and disease")
-- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Bhattacharya _et al._, 2006](https://doi.org/10.1016/j.jnutbio.2006.02.009 "Biological effects of conjugated linoleic acids in health and disease")
+- [Moser _et al._, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

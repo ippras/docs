@@ -23,7 +23,7 @@ Indicates the balance between these two types of essential polyunsaturated fatty
 
 ## References
 
-- [Gonzalez-Becerra et al., 2023](https://doi.org/10.3390/healthcare11162333 "Gonzalez-Becerra2023")
-- [Russo et al., 2009](https://doi.org/10.1016/j.bcp.2008.10.020 "Russo2009")
-- [Strobel et al., 2012](https://doi.org/10.1186/1476-511X-11-144 "Strobel2012")
-- [Yang et al., 2023](https://doi.org/10.3389/fnut.2023.1166702 "Yang2023")
+- [Gonzalez-Becerra _et al._, 2023](https://doi.org/10.3390/healthcare11162333 "Gonzalez-Becerra2023")
+- [Russo _et al._, 2009](https://doi.org/10.1016/j.bcp.2008.10.020 "Russo2009")
+- [Strobel _et al._, 2012](https://doi.org/10.1186/1476-511X-11-144 "Strobel2012")
+- [Yang _et al._, 2023](https://doi.org/10.3389/fnut.2023.1166702 "Yang2023")

@@ -21,6 +21,6 @@ This index is a metabolic indicator that describes the mobilization of n-3 long-
 
 ## References
 
-- [Failla et al., 2021](https://doi.org/10.1016/j.psj.2021.101279 "An index to measure the activity attitude of broilers in extensive system")
-- [Dal Bosco et al., 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
-- [Kralik et al., 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
+- [Failla _et al._, 2021](https://doi.org/10.1016/j.psj.2021.101279 "An index to measure the activity attitude of broilers in extensive system")
+- [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
+- [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")

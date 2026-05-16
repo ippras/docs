@@ -8,12 +8,12 @@ The architecture of this book is built on a bottom-up principle—moving from th
 
 ## The Architecture of Lipid expressions
 
-### 1. Primitive
+### Primitive
 
 These are the basic "building blocks" of lipidomics—individual molecules that cannot be decomposed into simpler components within our framework. 
 In the **Fatty Acids** section, primitives are specific acids with precise indications of carbon chain length and double bond positions: palmitic ($C16:0$), oleic ($C18:1[\omega-9]$), eicosapentaenoic ($C20:5[\omega-3]$), and others. Primitives represent the raw data obtained directly from chromatographic analysis.
 
-### 2. Sum
+### Sum
 
 The second level of abstraction. In biology and medicine, we rarely evaluate each fatty acid in isolation; more often, we are interested in their classes. **Sum** expressions group primitives based on specific classification criteria:
 - **By chain length**: short chain (SCFA), medium chain (MCFA), long chain (LCFA), and very long chain (VLCFA) fatty acids.
@@ -24,7 +24,7 @@ The second level of abstraction. In biology and medicine, we rarely evaluate eac
 
 Sums transform an array of raw data into meaningful biological categories.
 
-### 3. Ratio
+### Ratio
 
 The highest level of abstraction, where mathematics meets physiology. **Ratio** expressions demonstrate the relationships between primitives and/or sums. This is where biomarkers are born, evaluating food quality or metabolic states. This section is divided into two logical branches:
 - *Nutritional*: Evaluate the impact of dietary lipids on human health. This includes the Atherogenic Index, Thrombogenic Index, Fish Lipid Quality, Health-Promoting Index, and others.

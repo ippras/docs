@@ -43,6 +43,13 @@
           - [Conjugated fatty acids](./FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md)
 
   - [Ratio](./FattyAcids/Ratio/README.md)
+    - [Biodiesel](./FattyAcids/Ratio/Biodiesel/README.md)
+      - [Cetane number](./FattyAcids/Ratio/Biodiesel/CetaneNumber.md)
+      - [Cold filter plugging point](./FattyAcids/Ratio/Biodiesel/ColdFilterPluggingPoint.md)
+      - [Degree of unsaturation](./FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md)
+      - [Iodine value](./FattyAcids/Ratio/Biodiesel/IodineValue.md)
+      - [Long chain saturated factor](./FattyAcids/Ratio/Biodiesel/LongChainSaturatedFactor.md)
+      - [Oxidation stability](./FattyAcids/Ratio/Biodiesel/OxidationStability.md)
     - [Metabolic](./FattyAcids/Ratio/Metabolic/README.md)
       - [Delta 9 desaturase index](./FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md)
       - [Elongase index](./FattyAcids/Ratio/Metabolic/ElongaseIndex.md)

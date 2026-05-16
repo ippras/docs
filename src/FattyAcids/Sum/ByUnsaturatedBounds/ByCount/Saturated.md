@@ -25,5 +25,5 @@ In fuel applications, a higher proportion of saturated fatty acids significantly
 
 ## References
 
-- [WHO2023]: https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-fats-and-carbohydrates "WHO updates guidelines on fats and carbohydrates et al. (2023)"
-- [Moser2010]: https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks et al. (2010)"
+- [who.int](https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-fats-and-carbohydrates "WHO updates guidelines on fats and carbohydrates")
+- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

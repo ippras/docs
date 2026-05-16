@@ -26,5 +26,5 @@ $$\sum SCFA$$
 
 ## Ссылки
 
-- [Wong et al., 2006](https://doi.org/10.1097/00004836-200603000-00015 "Colonic health: fermentation and short chain fatty acids")
-- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Wong _et al._, 2006](https://doi.org/10.1097/00004836-200603000-00015 "Colonic health: fermentation and short chain fatty acids")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

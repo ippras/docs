@@ -28,5 +28,5 @@ Represents a broad class of unsaturated fatty acids that contain a double bond a
 
 ## Ссылки
 
-- [Ntambi et al., 2004](https://doi.org/10.1016/j.plipres.2003.10.001 "Role of stearoyl-CoA desaturase in lipid metabolism")
-- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Ntambi _et al._, 2004](https://doi.org/10.1016/j.plipres.2003.10.001 "Role of stearoyl-CoA desaturase in lipid metabolism")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

@@ -24,5 +24,5 @@ Due to their high degree of polyunsaturation, omega -3 fatty acids present signi
 
 ## References
 
-- [Kris-Etherton et al., 2002](https://doi.org/10.1161/01.cir.0000038493.65177.94 "Fish Consumption, Fish Oil, Omega-3 Fatty Acids, and Cardiovascular Disease")
-- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Kris-Etherton _et al._, 2002](https://doi.org/10.1161/01.cir.0000038493.65177.94 "Fish Consumption, Fish Oil, Omega-3 Fatty Acids, and Cardiovascular Disease")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

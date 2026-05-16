@@ -25,6 +25,6 @@ In fuel applications, MCFAs offer a unique compromise of properties. Because the
 
 ## References
 
-- [St-Onge et al., 2002](https://doi.org/10.1093/jn/132.3.329 "Physiological effects of medium-chain triglycerides: potential agents in the prevention of obesity")
-- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
-- [Jadhav et al., 2022](https://doi.org/10.1007/s13197-022-05499-w "Triglycerides of medium-chain fatty acids: a concise review")
+- [St-Onge _et al._, 2002](https://doi.org/10.1093/jn/132.3.329 "Physiological effects of medium-chain triglycerides: potential agents in the prevention of obesity")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Jadhav _et al._, 2022](https://doi.org/10.1007/s13197-022-05499-w "Triglycerides of medium-chain fatty acids: a concise review")

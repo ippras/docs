@@ -1,3 +1,5 @@
 book
 Cargo.lock
+messages.mo
+po/messages.pot
 target

@@ -23,4 +23,4 @@ From a nutritional point of view, the SI value should be as low as possible. Thi
 
 ## Ссылки
 
-- [Ulbricht et al., 1991](https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors")
+- [Ulbricht _et al._, 1991](https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors")

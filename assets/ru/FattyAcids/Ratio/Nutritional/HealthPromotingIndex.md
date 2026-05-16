@@ -23,8 +23,8 @@ From a human health perspective, the HPI value should be as high as possible. Th
 ## Ссылки
 
 1. 
-   - [Chen et al., 2004](https://doi.org/10.1021/jf035193z "Physical and sensory properties of dairy products from cows with various milk fatty acid compositions")
+   - [Chen _et al._, 2004](https://doi.org/10.1021/jf035193z "Physical and sensory properties of dairy products from cows with various milk fatty acid compositions")
    - [Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 "Nutritional Indices for Assessing Fatty Acids: A Mini-Review")
-   - [Dal Bosco et al., 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
+   - [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
 1. 
-   - [Kralik et al., 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
+   - [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")

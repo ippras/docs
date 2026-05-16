@@ -26,5 +26,5 @@ $$\sum LCFA$$
 
 ## Ссылки
 
-- [Mozaffarian et al., 2010](https://doi.org/10.1371/journal.pmed.1000252 "Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials")
-- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 "Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

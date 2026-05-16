@@ -1,4 +1,4 @@
-# Hypocholesterolemic to hypercholesterolemic index
+# Снижающие уровень холестерина жирные кислоты к повышающим уровень холестерина жирным кислотам
 
 `nutritional`
 
@@ -22,4 +22,4 @@ From a nutritional point of view, **high** HHI values are highly desirable. Unli
 
 ## Ссылки
 
-- [Dal Bosco et al., 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
+- [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")

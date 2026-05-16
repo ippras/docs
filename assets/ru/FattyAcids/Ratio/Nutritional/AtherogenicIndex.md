@@ -27,5 +27,5 @@ From a human health perspective, the AI value should be as low as possible. This
 
 ## Ссылки
 
-- [Ulbricht et al., 1991](https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors")
-- [Kralik et al., 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
+- [Ulbricht _et al._, 1991](https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors")
+- [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")

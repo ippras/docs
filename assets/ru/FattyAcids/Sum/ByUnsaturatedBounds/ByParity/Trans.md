@@ -26,20 +26,20 @@ In fuel applications, the straight-chain structure of trans fatty acids makes th
 
 ## Ссылки
 
-- [Mozaffarian et al., 2006](https://doi.org/10.1056/NEJMra054035 "Trans Fatty Acids and Cardiovascular Disease")
+- [Mozaffarian _et al._, 2006](https://doi.org/10.1056/NEJMra054035 "Trans Fatty Acids and Cardiovascular Disease")
 
-- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-- [Paiva et al., 2016](https://doi.org/10.1016/j.foodres.2016.08.007 "Paiva (2016)")
+- [Paiva _et al._, 2016](https://doi.org/10.1016/j.foodres.2016.08.007 "Paiva (2016)")
 
-- [Farajzadeh Alan et al., 2019](https://doi.org/10.1002/fsn3.1231 "Farajzadeh Alan (2019)")
+- [Farajzadeh Alan _et al._, 2019](https://doi.org/10.1002/fsn3.1231 "Farajzadeh Alan (2019)")
 
-- [Filip et al., 2011](https://doi.org/10.1002/ejlt.200900231 "Filip (2011)")
+- [Filip _et al._, 2011](https://doi.org/10.1002/ejlt.200900231 "Filip (2011)")
 
-- [Mishra et al., 2014](https://doi.org/10.1007/s13197-011-0602-y "Mishra (2014)")
+- [Mishra _et al._, 2014](https://doi.org/10.1007/s13197-011-0602-y "Mishra (2014)")
 
-- [Skałecki et al., 2020](https://doi.org/10.3390/ani10050778 "Skałecki (2020)")
+- [Skałecki _et al._, 2020](https://doi.org/10.3390/ani10050778 "Skałecki (2020)")
 
-- [Brogna et al., 2011](https://doi.org/10.1017/S1751731111000048 "Brogna (2011)")
+- [Brogna _et al._, 2011](https://doi.org/10.1017/S1751731111000048 "Brogna (2011)")
 
-- [Ivanova et al., 2017](https://doi.org/10.11648/j.mc.20170506.11 "Ivanova (2017)")
+- [Ivanova _et al._, 2017](https://doi.org/10.11648/j.mc.20170506.11 "Ivanova (2017)")

@@ -19,8 +19,8 @@ Used for guiding infant formula development.
 
 ## Ссылки
 
-- [Majdoub-Mathlouthi et al., 2015](https://doi.org/10.1017/S1751731115001731 "43")
-- [Mierliță et al., 2018](https://doi.org/10.4314/sajas.v48i3.11 "55")
-- [Sharma et al., 2018](https://doi.org/10.1007/s13197-018-3360-2 "109")
-- [Clark et al., 1992](https://doi.org/10.1016/s0022-3476(05)81250-8 "Clark1992")
-- [Einerhand et al., 2023](https://doi.org/10.3390/nu15092187 "Einerhand2023")
+- [Majdoub-Mathlouthi _et al._, 2015](https://doi.org/10.1017/S1751731115001731 "43")
+- [Mierliță _et al._, 2018](https://doi.org/10.4314/sajas.v48i3.11 "55")
+- [Sharma _et al._, 2018](https://doi.org/10.1007/s13197-018-3360-2 "109")
+- [Clark _et al._, 1992](https://doi.org/10.1016/s0022-3476(05)81250-8 "Clark1992")
+- [Einerhand _et al._, 2023](https://doi.org/10.3390/nu15092187 "Einerhand2023")

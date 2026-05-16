@@ -1,4 +1,4 @@
-# Metabolic
+# Метаболизм
 
 - [Delta 9 desaturase index](Delta9DesaturaseIndex)
 - [Elongase index](ElongaseIndex)

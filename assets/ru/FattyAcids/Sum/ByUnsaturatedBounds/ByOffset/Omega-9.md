@@ -28,5 +28,5 @@ $$\sum UFA\[\\omega-9\]$$
 
 ## Ссылки
 
-- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
-- [Mohamed et al., 2022](https://doi.org/10.1186/s43141-022-00329-0 "Omega-9 fatty acids: potential roles in inflammation and cancer management")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Mohamed _et al._, 2022](https://doi.org/10.1186/s43141-022-00329-0 "Omega-9 fatty acids: potential roles in inflammation and cancer management")

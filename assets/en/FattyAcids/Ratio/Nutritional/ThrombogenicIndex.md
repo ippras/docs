@@ -22,6 +22,6 @@ From a human health perspective, the TI value should be as low as possible. This
 
 ## References
 
-- [Ulbricht et al., 1991](https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors")
-- [Watson et al., 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 "Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited")
-- [Kralik et al., 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
+- [Ulbricht _et al._, 1991](https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors")
+- [Watson _et al._, 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 "Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited")
+- [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")

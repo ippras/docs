@@ -21,9 +21,9 @@ From a human health perspective, a higher FLQ value is more desirable. EPA and D
 
 ## References
 
-- [Abrami et al., 1992](https://doi.org/10.1016/0305-0491(92)90161-J "A comparison of highly unsaturated fatty acid levels in wild and farmed eels (Anguilla Anguilla)")
-- [Krajnović-Ozretic et al., 1994](https://doi.org/10.1016/0300-9629(94)90200-3 "Fatty acids in liver and muscle of farmed and wild sea bass (Dicentrarchus labrax L.)")
-- [Łuczyńska et al., 2019](https://doi.org/10.3390/ijerph16193780 "Health Risk Assessment of Heavy Metals and Lipid Quality Indexes in Freshwater Fish from Lakes of Warmia and Mazury Region, Poland")
-- [Senso et al., 2007](https://doi.org/10.1016/j.foodchem.2006.01.036 "On the possible effects of harvesting season and chilled storage on the fatty acid profile of the fillet of farmed gilthead sea bream (Sparus aurata)")
+- [Abrami _et al._, 1992](https://doi.org/10.1016/0305-0491(92)90161-J "A comparison of highly unsaturated fatty acid levels in wild and farmed eels (Anguilla Anguilla)")
+- [Krajnović-Ozretic _et al._, 1994](https://doi.org/10.1016/0300-9629(94)90200-3 "Fatty acids in liver and muscle of farmed and wild sea bass (Dicentrarchus labrax L.)")
+- [Łuczyńska _et al._, 2019](https://doi.org/10.3390/ijerph16193780 "Health Risk Assessment of Heavy Metals and Lipid Quality Indexes in Freshwater Fish from Lakes of Warmia and Mazury Region, Poland")
+- [Senso _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.036 "On the possible effects of harvesting season and chilled storage on the fatty acid profile of the fillet of farmed gilthead sea bream (Sparus aurata)")
 - [Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 "Nutritional Indices for Assessing Fatty Acids: A Mini-Review")
-- [Dal Bosco et al., 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
+- [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")

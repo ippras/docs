@@ -24,5 +24,5 @@ Because omega -6 fatty acids are polyunsaturated, their presence in biodiesel fe
 
 ## References
 
-- [Simopoulos et al., 2002](https://doi.org/10.1016/S0753-3322(02)00253-6 "The importance of the ratio of omega-6/omega-3 essential fatty acids")
-- [Moser et al., 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+- [Simopoulos _et al._, 2002](https://doi.org/10.1016/S0753-3322(02)00253-6 "The importance of the ratio of omega-6/omega-3 essential fatty acids")
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

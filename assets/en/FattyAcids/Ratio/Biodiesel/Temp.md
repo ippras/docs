@@ -10,7 +10,7 @@
  
  The cetane number (CN) is the ability of fuel to ignite quickly after being injected and a higher value indicates better ignition quality of fuel. This is one of the most important parameters considered during the selection of methyl esters for use as biodiesel. An adequate CN is required for good engine performance. High CN help ensure good cold start properties and minimize the   formation of white smoke.
  
- **Biodiesel standards**:
+ __Biodiesel standards__:
  
  | Biodiesel standard         | Limit   |
  | -------------------------- | ------- |

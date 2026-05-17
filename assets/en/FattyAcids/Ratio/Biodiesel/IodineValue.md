@@ -10,7 +10,7 @@ $$IV = 0.6683 * DU + 25.0364$$
 
 The iodine value is an index of numbers of double bonds in biodiesel, and therefore is a parameter that quantifies the degree of unsaturation (DU) of biodiesel.
 
-**Biodiesel standards**:
+__Biodiesel standards__:
 
 | Biodiesel standard         | Limit    |
 | -------------------------- | -------- |

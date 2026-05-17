@@ -8,7 +8,7 @@ $$OS = -0.0384 * DU + 7.770$$
 
 ## Description
 
-**Biodiesel standards**:
+__Biodiesel standards__:
 
 | Biodiesel standard         | Limit    |
 | -------------------------- | -------- |

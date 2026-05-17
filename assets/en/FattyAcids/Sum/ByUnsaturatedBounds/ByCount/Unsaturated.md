@@ -14,11 +14,11 @@
  
  Represents the sum of all fatty acids that contain at least one double bond in their hydrocarbon chain (the sum of monounsaturated and polyunsaturated fatty acids).
  
- __Nutritional potential__:
+ {"*"}{"*"}Nutritional potential{"*"}{"*"}:
  
  In human nutrition, unsaturated fats are generally considered beneficial for heart health. Replacing saturated fats with unsaturated fats in the diet helps lower total cholesterol and low-density lipoprotein (LDL) cholesterol levels, thereby reducing the risk of cardiovascular diseases.
  
- __Biodiesel potential__:
+ {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
  
  In fuel applications, a higher proportion of unsaturated fatty acids significantly improves cold flow properties, lowering the cold filter plugging point (CFPP) and preventing the fuel from gelling at low temperatures. However, the presence of double bonds makes the fuel more susceptible to oxidation (lower oxidation stability, OS) and generally reduces the cetane number (CN), which affects ignition quality. The overall impact depends on the specific degree of unsaturation (DU).
  

@@ -13,7 +13,7 @@
  
  Represents the hypocholesterolemic/hypercholesterolemic index, which evaluates the specific effect of fatty acids on cholesterol metabolism. It calculates the ratio of hypocholesterolemic fatty acids (which help lower blood cholesterol, such as oleic acid and polyunsaturated fatty acids) to hypercholesterolemic fatty acids (which raise blood cholesterol, such as lauric $C12:0$, myristic $C14:0$, and palmitic $C16:0$ acids).
  
- From a nutritional point of view, __high__ HHI values are highly desirable. Unlike the atherogenic (AI) and thrombogenic (TI) indices where lower values are better, a higher HHI indicates a healthier lipid profile with a greater proportion of beneficial fatty acids that contribute to the reduction of plasma cholesterol levels. It is considered a highly suitable metric for assessing the health benefits of lipids in food products and their protective role against cardiovascular diseases.
+ From a nutritional point of view, {"*"}{"*"}high{"*"}{"*"} HHI values are highly desirable. Unlike the atherogenic (AI) and thrombogenic (TI) indices where lower values are better, a higher HHI indicates a healthier lipid profile with a greater proportion of beneficial fatty acids that contribute to the reduction of plasma cholesterol levels. It is considered a highly suitable metric for assessing the health benefits of lipids in food products and their protective role against cardiovascular diseases.
  
  ## References
  

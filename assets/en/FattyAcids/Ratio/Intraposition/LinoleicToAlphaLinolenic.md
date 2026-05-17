@@ -10,7 +10,7 @@
  
  Used for guiding infant formula development.
  
- __Interpretation__:
+ {"*"}{"*"}Interpretation{"*"}{"*"}:
  
  - from 5:1 to 15:1 ([Einerhand (2023)])
  - below 4:1 is not recommended ([Clark (1992)])

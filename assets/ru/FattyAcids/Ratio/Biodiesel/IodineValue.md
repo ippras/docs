@@ -10,9 +10,9 @@
  
  The iodine value is an index of numbers of double bonds in biodiesel, and therefore is a parameter that quantifies the degree of unsaturation (DU) of biodiesel.
  
- __Стандарты биодизеля__:
+ {"*"}{"*"}Стандарты биодизеля{"*"}{"*"}:
  
- |__Стандарт биодизеля__:|Границы|
+ |{"*"}{"*"}Стандарт биодизеля{"*"}{"*"}:|Границы|
  |-------------------|-------|
  |Европейский союз (EN 14214-2005)|\[\-∞;120\]|
  |Россия (ГОСТ Р 53605-2009)|\[\-∞;120\]|

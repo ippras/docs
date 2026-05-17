@@ -10,7 +10,7 @@
  
  One important parameter for low temperature applications of a fuel is the cold filter plugging point (CFPP). The CFPP is the temperature at which a fuel jams a filter due to the formation of agglomerates crystals.
  
- __Стандарты биодизеля__:
+ {"*"}{"*"}Стандарты биодизеля{"*"}{"*"}:
  
  The EN 14214-2005 standard does not mention a low-temperature parameter in its specification lists. However, each country using EN 14214 can specify certain temperature limits for different times of a year depending on climate conditions.
  

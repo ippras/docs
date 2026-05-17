@@ -14,11 +14,11 @@
  
  Represents the sum of all fatty acids that have no double bonds between the carbon molecules in their hydrocarbon chain (e.g., lauric C12:0, myristic C14:0, palmitic C16:0, stearic C18:0).
  
- __Nutritional potential__:
+ {"*"}{"*"}Nutritional potential{"*"}{"*"}:
  
  In human nutrition, a high intake of certain saturated fatty acids (particularly myristic and palmitic acids) is widely associated with increased levels of low-density lipoprotein (LDL) cholesterol and a higher risk of cardiovascular diseases. However, not all SFAs behave the same (e.g., stearic acid is considered to have a neutral effect on blood cholesterol).
  
- __Biodiesel potential__:
+ {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
  
  In fuel applications, a higher proportion of saturated fatty acids significantly improves the cetane number (CN) and oxidation stability (OS). However, it negatively impacts cold flow properties, increasing the cold filter plugging point (CFPP) and causing the fuel to gel at higher temperatures.
  

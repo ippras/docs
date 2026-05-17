@@ -12,7 +12,7 @@
  
  It provides a comparative measure of how strongly a specific fatty acid competes for the sn-2 position relative to other fatty acids that show a preference for it.
  
- __Interpretation__:
+ {"*"}{"*"}Interpretation{"*"}{"*"}:
  
  - `0..1` indicates a preference for sn-1 and sn-3 positions;
  - `1` indicates no preference for sn positions;

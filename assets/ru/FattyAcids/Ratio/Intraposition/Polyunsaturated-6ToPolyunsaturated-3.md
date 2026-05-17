@@ -20,7 +20,7 @@
  
  - _Cellular Health_: Both omega -6 and omega -3 fatty acids are crucial components of cell membranes and are necessary for regulating blood pressure and other bodily functions. The balance between them is vital for optimal cellular function.
  
- - __Value__:
+ - {"*"}{"*"}Value{"*"}{"*"}:
    
    - from 1:1 to 5:1 (\[Gonzalez-Becerra2023\])
  

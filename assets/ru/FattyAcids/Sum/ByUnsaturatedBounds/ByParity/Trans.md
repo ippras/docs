@@ -14,11 +14,11 @@
  
  Represents unsaturated fatty acids that contain at least one double bond in the _trans_ configuration, resulting in a straighter hydrocarbon chain compared to the bent _cis_ configuration.
  
- __Пищевой потенциал__:
+ {"*"}{"*"}Пищевой потенциал{"*"}{"*"}:
  
  In human nutrition, artificial trans fats (often created through the partial hydrogenation of vegetable oils) are widely recognized as highly detrimental to health. They simultaneously raise "bad" low-density lipoprotein (LDL) cholesterol and lower "good" high-density lipoprotein (HDL) cholesterol, significantly increasing the risk of coronary heart disease, stroke, and systemic inflammation. Many health organizations recommend eliminating artificial trans fats from the diet entirely. Naturally occurring trans fats (found in small amounts in ruminant meat and dairy) have a less clear, though generally less harmful, health impact.
  
- __Биодизельный потенциал__:
+ {"*"}{"*"}Биодизельный потенциал{"*"}{"*"}:
  
  In fuel applications, the straight-chain structure of trans fatty acids makes their physical properties more similar to saturated fats than to cis-unsaturated fats. They have significantly higher melting points than their cis counterparts, which negatively impacts cold-weather performance by raising the cold filter plugging point (CFPP) and cloud point. While they may offer slightly better oxidation stability (OS) and cetane number (CN) compared to cis-isomers, high levels of trans fats (often found in waste cooking oils used as feedstock) generally complicate cold-weather operability.
  

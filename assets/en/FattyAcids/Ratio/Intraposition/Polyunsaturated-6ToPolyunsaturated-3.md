@@ -13,12 +13,12 @@
  ## Description
  Indicates the balance between these two types of essential polyunsaturated fatty acids in the body.
  
- * *Inflammatory Balance*: Omega -6 and omega -3 fatty acids are precursors to molecules that regulate inflammation. While omega -6 fatty acids are generally pro-inflammatory, omega -3 fatty acids have anti-inflammatory effects. An imbalance with a high proportion of omega -6 to omega -3 can lead to chronic low-grade inflammation, which is associated with various chronic diseases.
- * *Risk of Chronic Diseases*: A high n-6/n-3 ratio is linked to an increased risk of cardiovascular disease, obesity, and other inflammatory conditions. Conversely, a lower, more balanced ratio is considered beneficial for preventing these health issues.
- * *Cellular Health*: Both omega -6 and omega -3 fatty acids are crucial components of cell membranes and are necessary for regulating blood pressure and other bodily functions. The balance between them is vital for optimal cellular function.
+ {"*"} {"*"}Inflammatory Balance{"*"}: Omega -6 and omega -3 fatty acids are precursors to molecules that regulate inflammation. While omega -6 fatty acids are generally pro-inflammatory, omega -3 fatty acids have anti-inflammatory effects. An imbalance with a high proportion of omega -6 to omega -3 can lead to chronic low-grade inflammation, which is associated with various chronic diseases.
+ {"*"} {"*"}Risk of Chronic Diseases{"*"}: A high n-6/n-3 ratio is linked to an increased risk of cardiovascular disease, obesity, and other inflammatory conditions. Conversely, a lower, more balanced ratio is considered beneficial for preventing these health issues.
+ {"*"} {"*"}Cellular Health{"*"}: Both omega -6 and omega -3 fatty acids are crucial components of cell membranes and are necessary for regulating blood pressure and other bodily functions. The balance between them is vital for optimal cellular function.
  
- * __Value__:
-     * from 1:1 to 5:1 ([Gonzalez-Becerra2023])
+ {"*"} {"*"}{"*"}Value{"*"}{"*"}:
+     {"*"} from 1:1 to 5:1 ([Gonzalez-Becerra2023])
  
  ## References
  

@@ -1,6 +1,6 @@
 # Polyunsaturated to saturated fatty acids
  
- $$\frac{\sum PUFA}{\sum SFA}$$
+ $$\frac{"{"}\sum PUFA{"}"}{"{"}\sum SFA{"}"}$$
  
  ## Abbreviations
  

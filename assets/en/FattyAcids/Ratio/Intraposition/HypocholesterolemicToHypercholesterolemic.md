@@ -1,6 +1,6 @@
 # Hypocholesterolemic to hypercholesterolemic fatty acids
  
- $$\frac{C18:1[\omega-9] + \sum PUFA}{C12:0 + C14:0 + C16:0}$$
+ $$\frac{"{"}C18:1[\omega-9] + \sum PUFA{"}"}{"{"}C12:0 + C14:0 + C16:0{"}"}$$
  
  ## Abbreviations
  

@@ -2,7 +2,7 @@
  
  `metabolic`
  
- $$\frac{C16:0}{C14:0}$$
+ $$\frac{"{"}C16:0{"}"}{"{"}C14:0{"}"}$$
  
  ## Abbreviations
  

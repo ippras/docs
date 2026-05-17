@@ -2,9 +2,9 @@
  
  `metabolic`
  
- $$\frac{C18:1\[\\omega-9\]}{C18:0 + C18:1\[\\omega-9\]} \tag{1}$$
+ $$\frac{"{"}C18:1\[\\omega-9\]{"}"}{"{"}C18:0 + C18:1\[\\omega-9\]{"}"} \tag{"{"}1{"}"}$$
  
- $$\frac{C16:1\[\\omega-7\] + C18:1\[\\omega-9\]}{C16:0 + C18:0 + C16:1\[\\omega-7\] + C18:1\[\\omega-9\]} \tag{2}$$
+ $$\frac{"{"}C16:1\[\\omega-7\] + C18:1\[\\omega-9\]{"}"}{"{"}C16:0 + C18:0 + C16:1\[\\omega-7\] + C18:1\[\\omega-9\]{"}"} \tag{"{"}2{"}"}$$
  
   > 
   > \[!NOTE\] There are different versions of this index calculation. The first version calculates only the conversion from $C18:0$ to $C18:1$, while the second calculates the total conversion of $C16:0$ and $C18:0$.

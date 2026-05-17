@@ -1,6 +1,6 @@
 # Fish lipid quality
  
- $$\frac{C20:5[\omega-3] + C22:6[\omega-3]}{\sum FA}$$
+ $$\frac{"{"}C20:5[\omega-3] + C22:6[\omega-3]{"}"}{"{"}\sum FA{"}"}$$
  
  ## Abbreviations
  

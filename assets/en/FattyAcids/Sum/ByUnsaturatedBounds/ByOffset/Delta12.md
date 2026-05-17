@@ -5,7 +5,7 @@
  ## Abbreviations
  
  <!-- i18n:skip -->
- - $\Delta^{12}$
+ - $\Delta^{"{"}12{"}"}$
  <!-- i18n:skip -->
  - $\Delta12$
  

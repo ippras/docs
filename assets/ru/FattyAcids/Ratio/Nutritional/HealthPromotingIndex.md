@@ -2,7 +2,7 @@
  
  `nutritional`
  
- $$\frac{\sum UFA}{C12:0 + 4 \times C14:0 + C16:0} \tag{1}$$ $$\frac{\sum MUFA + \sum PUFA\[\\omega-6\] + \sum PUFA\[\\omega-3\]}{C12:0 + 4 \times C14:0 + C16:0} \tag{2}$$
+ $$\frac{"{"}\sum UFA{"}"}{"{"}C12:0 + 4 \times C14:0 + C16:0{"}"} \tag{"{"}1{"}"}$$ $$\frac{"{"}\sum MUFA + \sum PUFA\[\\omega-6\] + \sum PUFA\[\\omega-3\]{"}"}{"{"}C12:0 + 4 \times C14:0 + C16:0{"}"} \tag{"{"}2{"}"}$$
  
  ## Сокращения
  

@@ -2,7 +2,7 @@
  
  `metabolic`
  
- $$\frac{\sum PUFA[\omega-3]}{C18:3[\omega-3]}$$
+ $$\frac{"{"}\sum PUFA[\omega-3]{"}"}{"{"}C18:3[\omega-3]{"}"}$$
  
  ## Abbreviations
  

@@ -1,6 +1,6 @@
 # Linoleic fatty acid to α-Linolenic fatty acid
  
- $$\frac{C18:2[\omega-6]}{C18:3[\omega-3]}$$
+ $$\frac{"{"}C18:2[\omega-6]{"}"}{"{"}C18:3[\omega-3]{"}"}$$
  
  ## Abbreviations
  

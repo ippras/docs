@@ -14,7 +14,7 @@ macro_rules! source {
             $tag,
             "_",
             $name,
-            "=",
+            " = ",
             asset!(concat!(
                 $language,
                 "/",

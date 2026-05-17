@@ -24,6 +24,27 @@ for language in en ru; do
 done
 ```
 
+```sh
+for language in en ru; do
+    echo "::group::Building $language translation"
+    
+    # 1. Сборка mdbook
+    MDBOOK_BOOK__LANGUAGE=$language \
+    mdbook build -d book/$language
+    
+    # 2. Создание целевой папки
+    mkdir -p "book/assets/$language"
+
+    # 3. Копирование файлов
+    cp -r "book/$language/markdown/"* "book/assets/$language/"
+
+    # 2. Замена в файлах
+    find "book/assets/$language" -type f -name "*.md" -exec perl -pi -e 's/\*\*/__/g; s/\n/\n /g' {} +
+    
+    echo "::endgroup::"
+done
+```
+
 ## Initialize a New Translation
 
 ```sh

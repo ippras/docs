@@ -1,6 +1,5 @@
 # Eicosapentaenoic and docosahexaenoic fatty acids
 
-<!-- i18n:skip -->
 $$C20:5[\omega-3] + C22:6[\omega-3]$$
 
 ## Abbreviations

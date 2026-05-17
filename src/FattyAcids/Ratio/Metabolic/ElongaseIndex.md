@@ -2,7 +2,6 @@
 
 `metabolic`
 
-<!-- i18n:skip -->
 $$\frac{C18:0}{C16:0}$$
 
 ## Abbreviations

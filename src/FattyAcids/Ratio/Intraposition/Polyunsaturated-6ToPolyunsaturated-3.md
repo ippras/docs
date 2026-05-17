@@ -1,6 +1,5 @@
 # Polyunsaturated omega -6 to polyunsaturated omega -3 fatty acids
 
-<!-- i18n:skip -->
 $$\frac{\sum PUFA[\omega-6]}{\sum PUFA[\omega-3]}$$
 
 ## Abbreviations

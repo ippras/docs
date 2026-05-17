@@ -1,6 +1,5 @@
 # Enrichment factor
 
-<!-- i18n:skip -->
 $$EF_I = \frac{\{2:I\}}{\{1:I | 2:I | 3:I\}}$$
 
 ## Abbreviations

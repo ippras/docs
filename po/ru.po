@@ -2863,24 +2863,24 @@ msgstr ""
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:13
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:11
 msgid "**Biodiesel standards**:"
-msgstr "**Стандарты биодизельного топлива**:"
+msgstr "**Стандарты биодизеля**:"
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:15
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:15
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:13
 msgid "Biodiesel standard"
-msgstr "**Стандарт биодизельного топлива**:"
+msgstr "**Стандарт биодизеля**:"
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:15
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:15
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:13
 msgid "Limit"
-msgstr ""
+msgstr "Границы"
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:17
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:15
 msgid "China (GB/T 20828-2007)"
-msgstr ""
+msgstr "Китай (GB/T 20828-2007)"
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:17
 msgid "\\[49;+∞\\]"
@@ -2890,7 +2890,7 @@ msgstr ""
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:17
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:16
 msgid "Europe (EN 14214-2005)"
-msgstr ""
+msgstr "Европейский союз (EN 14214-2005)"
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:18
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:19
@@ -2901,12 +2901,12 @@ msgstr ""
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:18
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:17
 msgid "Russia (ГОСТ Р 53605-2009)"
-msgstr ""
+msgstr "Россия (ГОСТ Р 53605-2009)"
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:20
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:18
 msgid "USA (ASTM D6751-2003)"
-msgstr ""
+msgstr "США (ASTM D6751-2003)"
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:20
 msgid "\\[47;+∞\\]"

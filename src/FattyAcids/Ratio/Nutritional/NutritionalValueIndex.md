@@ -2,7 +2,6 @@
 
 `nutritional`
 
-<!-- i18n:skip -->
 $$\frac{C18:0 + C18:1[\omega-9]}{C16:0}$$
 
 ## Abbreviations

@@ -1,6 +1,5 @@
 # Omega -9 fatty acids
 
-<!-- i18n:skip -->
 $$\sum UFA[\omega-9]$$
 
 ## Abbreviations

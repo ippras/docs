@@ -45,6 +45,8 @@ for language in en ru; do
 done
 ```
 
+`s/<!-- i18n:skip -->\s*\n//g;`
+
 ## Initialize a New Translation
 
 ```sh

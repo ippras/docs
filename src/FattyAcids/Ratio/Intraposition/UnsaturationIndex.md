@@ -1,6 +1,5 @@
 # Unsaturation Index
 
-<!-- i18n:skip -->
 $$\sum N \cdot NUFA$$
 
 ## Abbreviations

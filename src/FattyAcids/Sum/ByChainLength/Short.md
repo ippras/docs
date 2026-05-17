@@ -1,6 +1,5 @@
 # Short chain fatty acids
 
-<!-- i18n:skip -->
 $$\sum SCFA$$
 
 ## Abbreviations

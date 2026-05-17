@@ -37,8 +37,8 @@ pub const fn sources(language: &str) -> &'static [&'static str] {
             // source!("ru", "Ratio", "Nutritional", "ThrombogenicIndex"),
         ],
         _ => &[
-            source!("en", "Ratio", "Biodiesel", "Temp"),
-            // source!("en", "Ratio", "Biodiesel", "ColdFilterPluggingPoint"),
+            source!("en", "Ratio", "Biodiesel", "CetaneNumber"),
+            source!("en", "Ratio", "Biodiesel", "ColdFilterPluggingPoint"),
             // source!("en", "Ratio", "Biodiesel", "DegreeOfUnsaturation"),
             // source!("en", "Ratio", "Biodiesel", "IodineValue"),
             // source!("en", "Ratio", "Biodiesel", "LongChainSaturatedFactor"),

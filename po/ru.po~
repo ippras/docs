@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-17T12:38:54+03:00\n"
+"POT-Creation-Date: 2026-05-17T13:00:48+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -237,7 +237,7 @@ msgstr ""
 msgid "Long chain saturated factor"
 msgstr "Коэффициент насыщенности длинноцепочечных жирных кислот"
 
-#: src/SUMMARY.md:52
+#: src/SUMMARY.md:52 src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:1
 msgid "Oxidation stability"
 msgstr ""
 
@@ -431,15 +431,15 @@ msgstr ""
 
 #: src/FattyAcids/index.md:3
 msgid "[Primitive](Primitive/README.md)"
-msgstr "[Primitive](Primitive/README.md)[Primitive](Primitive/README.md)"
+msgstr "[Primitive](Primitive/README.md)"
 
 #: src/FattyAcids/index.md:4
 msgid "[Sum](Sum/README.md)"
-msgstr "[Sum](Sum/README.md)[Sum](Sum/README.md)"
+msgstr "[Sum](Sum/README.md)"
 
 #: src/FattyAcids/index.md:5
 msgid "[Ratio](Ratio/README.md)"
-msgstr "[Ratio](Ratio/README.md)[Ratio](Ratio/README.md)"
+msgstr "[Ratio](Ratio/README.md)"
 
 #: src/FattyAcids/Primitive/c16.md:3
 msgid "$$C16:0$$"
@@ -718,7 +718,7 @@ msgstr "Ссылки"
 
 #: src/FattyAcids/Primitive/c16.md:27
 msgid "[Mancini _et al._, 2015](https://doi.org/10.3390/molecules200917339 \"Biological and Nutritional Properties of Palm Oil and Palmitic Acid: Effects on Health\")"
-msgstr "[Mancini _et al._, 2015](https://doi.org/10.3390/molecules200917339 \"Biological and Nutritional Properties of Palm Oil and Palmitic Acid: Effects on Health\")[Mancini _et al._, 2015](https://doi.org/10.3390/molecules200917339 \"Biological and Nutritional Properties of Palm Oil and Palmitic Acid: Effects on Health\")"
+msgstr "[Mancini _et al._, 2015](https://doi.org/10.3390/molecules200917339 \"Biological and Nutritional Properties of Palm Oil and Palmitic Acid: Effects on Health\")"
 
 #: src/FattyAcids/Primitive/c16.md:28 src/FattyAcids/Primitive/c18.md:28
 #: src/FattyAcids/Primitive/c18c9.md:27 src/FattyAcids/Primitive/c18c9c12.md:27
@@ -744,12 +744,13 @@ msgstr "[Mancini _et al._, 2015](https://doi.org/10.3390/molecules200917339 \"Bi
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:28
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:29
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:25
+#: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:22
 msgid "[Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 \"Biodiesel Production, Properties, and Feedstocks\")"
-msgstr "[Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 \"Biodiesel Production, Properties, and Feedstocks\")[Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 \"Biodiesel Production, Properties, and Feedstocks\")"
+msgstr "[Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 \"Biodiesel Production, Properties, and Feedstocks\")"
 
 #: src/FattyAcids/Primitive/c16.md:29 src/Triacylglycerols/index.md:10
 msgid "[Sanders _et al._, 2011](https://doi.org/10.3945/ajcn.111.017459 \"Palmitic acid in the sn-2 position of triacylglycerols acutely influences postprandial lipid metabolism\")"
-msgstr "[Sanders _et al._, 2011](https://doi.org/10.3945/ajcn.111.017459 \"Palmitic acid in the sn-2 position of triacylglycerols acutely influences postprandial lipid metabolism\")[Sanders _et al._, 2011](https://doi.org/10.3945/ajcn.111.017459 \"Palmitic acid in the sn-2 position of triacylglycerols acutely influences postprandial lipid metabolism\")"
+msgstr "[Sanders _et al._, 2011](https://doi.org/10.3945/ajcn.111.017459 \"Palmitic acid in the sn-2 position of triacylglycerols acutely influences postprandial lipid metabolism\")"
 
 #: src/FattyAcids/Primitive/c18.md:3
 msgid "$$C18:0$$"
@@ -833,7 +834,7 @@ msgstr "В качестве топлива наличие двух двойны�
 
 #: src/FattyAcids/Primitive/c18c9c12.md:28
 msgid "[Farvid _et al._, 2014](https://doi.org/10.1161/circulationaha.114.010236 \"Dietary linoleic acid and risk of coronary heart disease: a systematic review and meta-analysis of prospective cohort studies\")"
-msgstr "[Farvid _et al._, 2014](https://doi.org/10.1161/circulationaha.114.010236 \"Dietary linoleic acid and risk of coronary heart disease: a systematic review and meta-analysis of prospective cohort studies\")[Farvid _et al._, 2014](https://doi.org/10.1161/circulationaha.114.010236 \"Dietary linoleic acid and risk of coronary heart disease: a systematic review and meta-analysis of prospective cohort studies\")"
+msgstr "[Farvid _et al._, 2014](https://doi.org/10.1161/circulationaha.114.010236 \"Dietary linoleic acid and risk of coronary heart disease: a systematic review and meta-analysis of prospective cohort studies\")"
 
 #: src/FattyAcids/Primitive/c18c9c12c15.md:3
 msgid "$$C18:3\\[\\\\omega-3\\]$$"
@@ -861,7 +862,7 @@ msgstr "Наличие трех двойных связей делает АЛК 
 
 #: src/FattyAcids/Primitive/c18c9c12c15.md:28
 msgid "[Pan _et al._, 2012](https://doi.org/10.3945/ajcn.112.044040 \"alpha-Linolenic acid and risk of cardiovascular disease: a systematic review and meta-analysis\")"
-msgstr "[Pan _et al._, 2012](https://doi.org/10.3945/ajcn.112.044040 \"alpha-Linolenic acid and risk of cardiovascular disease: a systematic review and meta-analysis\")[Pan _et al._, 2012](https://doi.org/10.3945/ajcn.112.044040 \"alpha-Linolenic acid and risk of cardiovascular disease: a systematic review and meta-analysis\")"
+msgstr "[Pan _et al._, 2012](https://doi.org/10.3945/ajcn.112.044040 \"alpha-Linolenic acid and risk of cardiovascular disease: a systematic review and meta-analysis\")"
 
 #: src/FattyAcids/Primitive/c20.md:3
 msgid "$$C20:0$$"
@@ -919,11 +920,11 @@ msgstr "Из-за экстремальной степени полиненасы
 #: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:27
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:26
 msgid "[Kris-Etherton _et al._, 2002](https://doi.org/10.1161/01.cir.0000038493.65177.94 \"Fish Consumption, Fish Oil, Omega-3 Fatty Acids, and Cardiovascular Disease\")"
-msgstr "[Kris-Etherton _et al._, 2002](https://doi.org/10.1161/01.cir.0000038493.65177.94 \"Fish Consumption, Fish Oil, Omega-3 Fatty Acids, and Cardiovascular Disease\")[Kris-Etherton _et al._, 2002](https://doi.org/10.1161/01.cir.0000038493.65177.94 \"Fish Consumption, Fish Oil, Omega-3 Fatty Acids, and Cardiovascular Disease\")"
+msgstr "[Kris-Etherton _et al._, 2002](https://doi.org/10.1161/01.cir.0000038493.65177.94 \"Fish Consumption, Fish Oil, Omega-3 Fatty Acids, and Cardiovascular Disease\")"
 
 #: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:29
 msgid "[Bhatt _et al._, 2019](https://doi.org/10.1056/NEJMoa1812792 \"Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia\")"
-msgstr "[Bhatt _et al._, 2019](https://doi.org/10.1056/NEJMoa1812792 \"Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia\")[Bhatt _et al._, 2019](https://doi.org/10.1056/NEJMoa1812792 \"Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia\")"
+msgstr "[Bhatt _et al._, 2019](https://doi.org/10.1056/NEJMoa1812792 \"Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia\")"
 
 #: src/FattyAcids/Primitive/c22.md:3
 msgid "$$C22:0$$"
@@ -951,7 +952,7 @@ msgstr "В качестве топлива бегеновая кислота о�
 
 #: src/FattyAcids/Primitive/c22.md:27
 msgid "[Cater _et al._, 2001](https://doi.org/10.1093/ajcn/73.1.41 \"Behenic acid is a cholesterol-raising saturated fatty acid in humans\")"
-msgstr "[Cater _et al._, 2001](https://doi.org/10.1093/ajcn/73.1.41 \"Behenic acid is a cholesterol-raising saturated fatty acid in humans\")[Cater _et al._, 2001](https://doi.org/10.1093/ajcn/73.1.41 \"Behenic acid is a cholesterol-raising saturated fatty acid in humans\")"
+msgstr "[Cater _et al._, 2001](https://doi.org/10.1093/ajcn/73.1.41 \"Behenic acid is a cholesterol-raising saturated fatty acid in humans\")"
 
 #: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:3
 msgid "$$C22:6\\[\\\\omega-3\\]$$"
@@ -979,7 +980,7 @@ msgstr "Имея шесть двойных связей, ДГК представ
 
 #: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:27
 msgid "[Horrocks _et al._, 1999](https://doi.org/10.1006/phrs.1999.0495 \"Health benefits of docosahexaenoic acid (DHA)\")"
-msgstr "[Horrocks _et al._, 1999](https://doi.org/10.1006/phrs.1999.0495 \"Health benefits of docosahexaenoic acid (DHA)\")[Horrocks _et al._, 1999](https://doi.org/10.1006/phrs.1999.0495 \"Health benefits of docosahexaenoic acid (DHA)\")"
+msgstr "[Horrocks _et al._, 1999](https://doi.org/10.1006/phrs.1999.0495 \"Health benefits of docosahexaenoic acid (DHA)\")"
 
 #: src/FattyAcids/Primitive/c22c13.md:3
 msgid "$$C22:1\\[\\\\omega-9\\]$$"
@@ -1006,9 +1007,8 @@ msgid "In fuel applications, erucic acid presents a mixed profile. Its monounsat
 msgstr "В качестве топлива эруковая кислота имеет неоднозначный профиль. Её мононенасыщенная природа обеспечивает хорошую окислительную стабильность (OS) и высокое цетановое число (CN). Однако из-за очень длинной углеводородной цепи она имеет относительно высокую температуру плавления для ненасыщенного жира (около 33–34°C). Следовательно, сырье с высоким содержанием эруковой кислоты (например, традиционное рапсовое или горчичное масло) дает биодизель с худшими низкотемпературными свойствами (более высокие предельную температуру фильтруемости, CFPP, и температуру помутнения) по сравнению с сырьем, богатым олеиновой кислотой, хотя и лучшими, чем у длинноцепочечных насыщенных жиров."
 
 #: src/FattyAcids/Primitive/c22c13.md:28
-#, fuzzy
 msgid "[EFSA _et al._, 2016](https://doi.org/10.2903/j.efsa.2016.4593 \"Erucic acid in feed and food\")"
-msgstr "[EFSA _et al._, 2016](https://doi.org/10.2903/j.efsa.2016.4593 \"Erucic acid in feed and food\")[EFSA _et al._, 2016](https://doi.org/10.2903/j.efsa.2016.4593 \"Erucic acid in feed and food\")"
+msgstr "[EFSA _et al._, 2016](https://doi.org/10.2903/j.efsa.2016.4593 \"Erucic acid in feed and food\")"
 
 #: src/FattyAcids/Primitive/c24.md:3
 msgid "$$C24:0$$"
@@ -1060,7 +1060,7 @@ msgstr "В качестве топлива очень длинная углев�
 
 #: src/FattyAcids/Primitive/c24c15.md:28
 msgid "[Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 \"Naturally Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human Oligodendrocytes\")"
-msgstr "[Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 \"Naturally Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human Oligodendrocytes\")[Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 \"Naturally Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human Oligodendrocytes\")"
+msgstr "[Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 \"Naturally Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human Oligodendrocytes\")"
 
 #: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:3
 msgid "$$C20:5\\[\\\\omega-3\\] + C22:6\\[\\\\omega-3\\]$$"
@@ -1645,7 +1645,7 @@ msgstr ""
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:27
 msgid "[Mozaffarian _et al._, 2006](https://doi.org/10.1056/NEJMra054035 \"Trans Fatty Acids and Cardiovascular Disease\")"
-msgstr "[Mozaffarian _et al._, 2006](https://doi.org/10.1056/NEJMra054035 \"Trans Fatty Acids and Cardiovascular Disease\")[Mozaffarian _et al._, 2006](https://doi.org/10.1056/NEJMra054035 \"Trans Fatty Acids and Cardiovascular Disease\")"
+msgstr "[Mozaffarian _et al._, 2006](https://doi.org/10.1056/NEJMra054035 \"Trans Fatty Acids and Cardiovascular Disease\")"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:30
 msgid "[Paiva _et al._, 2016](https://doi.org/10.1016/j.foodres.2016.08.007 \"Paiva (2016)\")"
@@ -1745,8 +1745,8 @@ msgid "[Oxidation stability](OxidationStability.md)"
 msgstr "[Oxidation stability](OxidationStability.md)"
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:3
-msgid "$$CN = -0.1209 * DU + 65.0958$$"
-msgstr "$$CN = -0.1209 * DU + 65.0958$$"
+msgid "$$CN = -0.1209 \\times DU + 65.0958$$"
+msgstr "$$CN = -0.1209 \\times DU + 65.0958$$"
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:7
 msgid "CN"
@@ -1813,12 +1813,13 @@ msgstr ""
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:24
 #: src/FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md:15
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:22
+#: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:23
 msgid "[Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 \"Influence of fatty acid composition of woody biodiesel plants on the fuel properties\")"
-msgstr "[Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 \"Influence of fatty acid composition of woody biodiesel plants on the fuel properties\")[Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 \"Influence of fatty acid composition of woody biodiesel plants on the fuel properties\")"
+msgstr "[Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 \"Influence of fatty acid composition of woody biodiesel plants on the fuel properties\")"
 
 #: src/FattyAcids/Ratio/Biodiesel/ColdFilterPluggingPoint.md:3
-msgid "$$CFPP = 3.1417 * LCSF - 16.477$$"
-msgstr "$$CFPP = 3.1417 * LCSF - 16.477$$"
+msgid "$$CFPP = 3.1417 \\times LCSF - 16.477$$"
+msgstr "$$CFPP = 3.1417 \\times LCSF - 16.477$$"
 
 #: src/FattyAcids/Ratio/Biodiesel/ColdFilterPluggingPoint.md:7
 msgid "CFPP"
@@ -1838,8 +1839,8 @@ msgid "[Ramos _et al._, 2009](https://doi.org/10.1016/S1872-5813(12)60018-8 \"In
 msgstr "[Ramos _et al._, 2009](https://doi.org/10.1016/S1872-5813(12)60018-8 \"Influence of fatty acid composition of woody biodiesel plants on the fuel properties\")"
 
 #: src/FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md:3
-msgid "$$DU = 1-UFA + 2 * 2-UFA + 3 * 3-UFA + 4 * 4-UFA$$"
-msgstr "$$DU = 1-UFA + 2 * 2-UFA + 3 * 3-UFA + 4 * 4-UFA$$"
+msgid "$$DU = 1-UFA + 2 \\times 2-UFA + 3 \\times 3-UFA + 4 \\times 4-UFA$$"
+msgstr "$$DU = 1-UFA + 2 \\times 2-UFA + 3 \\times 3-UFA + 4 \\times 4-UFA$$"
 
 #: src/FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md:7
 msgid "DU"
@@ -1850,8 +1851,8 @@ msgid "Fuel properties such as cetane number (CN), iodine value (IV) and oxidati
 msgstr ""
 
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:3
-msgid "$$IV = 0.6683 * DU + 25.0364$$"
-msgstr "$$IV = 0.6683 * DU + 25.0364$$"
+msgid "$$IV = 0.6683 \\times DU + 25.0364$$"
+msgstr "$$IV = 0.6683 \\times DU + 25.0364$$"
 
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:7
 msgid "IV"
@@ -1867,20 +1868,16 @@ msgid "\\[\\-∞;120\\]"
 msgstr ""
 
 #: src/FattyAcids/Ratio/Biodiesel/LongChainSaturatedFactor.md:3
-msgid "$$LCSF = 0.1 * C16:0 + 0.5 * C18:0 + 1 * C20:0 + 1.5 * C22:0 + 2 * C24:0$$"
-msgstr "$$LCSF = 0.1 * C16:0 + 0.5 * C18:0 + 1 * C20:0 + 1.5 * C22:0 + 2 * C24:0$$"
+msgid "$$LCSF = 0.1 \\times C16:0 + 0.5 \\times C18:0 + 1 \\times C20:0 + 1.5 \\times C22:0 + 2 \\times C24:0$$"
+msgstr "$$LCSF = 0.1 \\times C16:0 + 0.5 \\times C18:0 + 1 \\times C20:0 + 1.5 \\times C22:0 + 2 \\times C24:0$$"
 
 #: src/FattyAcids/Ratio/Biodiesel/LongChainSaturatedFactor.md:7
 msgid "LCSF"
 msgstr "LCSF"
 
-#: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:1
-msgid "Oxidation stability (OS)"
-msgstr ""
-
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:3
-msgid "$$OS = -0.0384 * DU + 7.770$$"
-msgstr "$$OS = -0.0384 * DU + 7.770$$"
+msgid "$$OS = -0.0384 \\times DU + 7.770$$"
+msgstr "$$OS = -0.0384 \\times DU + 7.770$$"
 
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:7
 msgid "OS"
@@ -2064,7 +2061,7 @@ msgstr "[Health promoting index](HealthPromotingIndex.md)"
 
 #: src/FattyAcids/Ratio/Nutritional/index.md:6
 msgid "[Hypocholesterolemic to hypercholesterolemic index](HypocholesterolemicToHypercholesterolemicIndex.md)"
-msgstr "[Hypocholesterolemic to hypercholesterolemic index](HypocholesterolemicToHypercholesterolemicIndex.md)[Hypocholesterolemic to hypercholesterolemic index](HypocholesterolemicToHypercholesterolemicIndex.md)"
+msgstr "[Hypocholesterolemic to hypercholesterolemic index](HypocholesterolemicToHypercholesterolemicIndex.md)"
 
 #: src/FattyAcids/Ratio/Nutritional/index.md:7
 msgid "[Nutritional value index](NutritionalValueIndex.md)"
@@ -2089,8 +2086,8 @@ msgid "`nutritional`"
 msgstr ""
 
 #: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:5
-msgid "$$\\frac{C12:0 + 4 \\cdot C14:0 + C16:0}{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}$$ $$\\frac{C12:0 + 4 \\cdot C14:0 + C16:0}{\\sum UFA}$$"
-msgstr "$$\\frac{C12:0 + 4 \\cdot C14:0 + C16:0}{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}$$ $$\\frac{C12:0 + 4 \\cdot C14:0 + C16:0}{\\sum UFA}$$"
+msgid "$$\\frac{C12:0 + 4 \\times C14:0 + C16:0}{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}$$ $$\\frac{C12:0 + 4 \\times C14:0 + C16:0}{\\sum UFA}$$"
+msgstr "$$\\frac{C12:0 + 4 \\times C14:0 + C16:0}{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}$$ $$\\frac{C12:0 + 4 \\times C14:0 + C16:0}{\\sum UFA}$$"
 
 #: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:10
 msgid "AI"
@@ -2162,8 +2159,8 @@ msgid "[Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional I
 msgstr "[Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional Indices for Assessing Fatty Acids: A Mini-Review\")"
 
 #: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:5
-msgid "$$\\frac{\\sum UFA}{C12:0 + 4 \\cdot C14:0 + C16:0} \\tag{1}$$ $$\\frac{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}{C12:0 + 4 \\cdot C14:0 + C16:0} \\tag{2}$$"
-msgstr "$$\\frac{\\sum UFA}{C12:0 + 4 \\cdot C14:0 + C16:0} \\tag{1}$$ $$\\frac{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}{C12:0 + 4 \\cdot C14:0 + C16:0} \\tag{2}$$"
+msgid "$$\\frac{\\sum UFA}{C12:0 + 4 \\times C14:0 + C16:0} \\tag{1}$$ $$\\frac{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}{C12:0 + 4 \\times C14:0 + C16:0} \\tag{2}$$"
+msgstr "$$\\frac{\\sum UFA}{C12:0 + 4 \\times C14:0 + C16:0} \\tag{1}$$ $$\\frac{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}{C12:0 + 4 \\times C14:0 + C16:0} \\tag{2}$$"
 
 #: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:10
 #: src/FattyAcids/Ratio/Intraposition/index.md:8
@@ -2217,11 +2214,11 @@ msgstr ""
 
 #: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:19
 msgid "[Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens\")"
-msgstr "[Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens\")[Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens\")"
+msgstr "[Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens\")"
 
 #: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:20
 msgid "[Banskalieva _et al._, 2000](https://doi.org/10.1016/s0921-4488(00)00128-0 \"Fatty acid composition of goat muscles and fat depots: a review\")"
-msgstr "[Banskalieva _et al._, 2000](https://doi.org/10.1016/s0921-4488(00)00128-0 \"Fatty acid composition of goat muscles and fat depots: a review\")[Banskalieva _et al._, 2000](https://doi.org/10.1016/s0921-4488(00)00128-0 \"Fatty acid composition of goat muscles and fat depots: a review\")"
+msgstr "[Banskalieva _et al._, 2000](https://doi.org/10.1016/s0921-4488(00)00128-0 \"Fatty acid composition of goat muscles and fat depots: a review\")"
 
 #: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:5
 msgid "$$\\frac{C14:0 + C16:0 + C18:0}{\\sum MUFA + \\sum PUFA}$$"
@@ -2249,8 +2246,8 @@ msgstr ""
 
 #: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:5
 #: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:3
-msgid "$$\\frac{C14:0 + C16:0 + C18:0}{0.5 \\cdot \\sum MUFA + 0.5 \\cdot \\sum PUFA\\[\\\\omega-6\\] + 3 \\cdot \\sum PUFA\\[\\\\omega-3\\] + \\frac{\\sum PUFA\\[\\\\omega-3\\]}{\\sum PUFA\\[\\\\omega-6\\]}}$$"
-msgstr "$$\\frac{C14:0 + C16:0 + C18:0}{0.5 \\cdot \\sum MUFA + 0.5 \\cdot \\sum PUFA\\[\\\\omega-6\\] + 3 \\cdot \\sum PUFA\\[\\\\omega-3\\] + \\frac{\\sum PUFA\\[\\\\omega-3\\]}{\\sum PUFA\\[\\\\omega-6\\]}}$$"
+msgid "$$\\frac{C14:0 + C16:0 + C18:0}{0.5 \\times \\sum MUFA + 0.5 \\times \\sum PUFA\\[\\\\omega-6\\] + 3 \\times \\sum PUFA\\[\\\\omega-3\\] + \\frac{\\sum PUFA\\[\\\\omega-3\\]}{\\sum PUFA\\[\\\\omega-6\\]}}$$"
+msgstr "$$\\frac{C14:0 + C16:0 + C18:0}{0.5 \\times \\sum MUFA + 0.5 \\times \\sum PUFA\\[\\\\omega-6\\] + 3 \\times \\sum PUFA\\[\\\\omega-3\\] + \\frac{\\sum PUFA\\[\\\\omega-3\\]}{\\sum PUFA\\[\\\\omega-6\\]}}$$"
 
 #: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:9
 msgid "TI"
@@ -2272,7 +2269,7 @@ msgstr ""
 
 #: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:25
 msgid "[Watson _et al._, 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 \"Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited\")"
-msgstr "[Watson _et al._, 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 \"Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited\")[Watson _et al._, 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 \"Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited\")"
+msgstr "[Watson _et al._, 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 \"Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited\")"
 
 #: src/FattyAcids/Ratio/Intraposition/index.md:1
 msgid "Fatty acids intraposition ratio"
@@ -2326,8 +2323,8 @@ msgid "[Senso _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.036 \"7
 msgstr "[Senso _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.036 \"73\")"
 
 #: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:3
-msgid "$$\\frac{\\sum UFA}{C12:0 + 4 \\cdot C14:0 + C16:0}$$"
-msgstr "$$\\frac{\\sum UFA}{C12:0 + 4 \\cdot C14:0 + C16:0}$$"
+msgid "$$\\frac{\\sum UFA}{C12:0 + 4 \\times C14:0 + C16:0}$$"
+msgstr "$$\\frac{\\sum UFA}{C12:0 + 4 \\times C14:0 + C16:0}$$"
 
 #: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:11
 msgid "Assesses the nutritional value of dietary fat, focusing on the effect of fatty acid composition on cardiovascular disease."
@@ -2419,8 +2416,8 @@ msgid "[Wójciak _et al._, 2019](https://doi.org/10.1016/j.meatsci.2018.10.010 \
 msgstr "[Wójciak _et al._, 2019](https://doi.org/10.1016/j.meatsci.2018.10.010 \"77\")"
 
 #: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:3
-msgid "$$\\frac{C12:0 + 4 \\cdot C14:0 + C16:0}{\\sum UFA}$$"
-msgstr "$$\\frac{C12:0 + 4 \\cdot C14:0 + C16:0}{\\sum UFA}$$"
+msgid "$$\\frac{C12:0 + 4 \\times C14:0 + C16:0}{\\sum UFA}$$"
+msgstr "$$\\frac{C12:0 + 4 \\times C14:0 + C16:0}{\\sum UFA}$$"
 
 #: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:11
 msgid "Characterizes the atherogenic potential of fatty acids."
@@ -2639,7 +2636,7 @@ msgstr "`1..3` указывает на предпочтение позиции s
 #: src/Interposition/EnrichmentFactor.md:21
 #: src/Interposition/SelectivityFactor.md:23
 msgid "[Верещагин, 1972, стр. 176](https://doi.org/404.html \"Биохимия триглицеридов\")"
-msgstr "[Верещагин, 1972, стр. 176](https://doi.org/404.html \"Биохимия триглицеридов\")[Верещагин, 1972, стр. 176](https://doi.org/404.html \"Биохимия триглицеридов\")"
+msgstr "[Верещагин, 1972, стр. 176](https://doi.org/404.html \"Биохимия триглицеридов\")"
 
 #: src/Interposition/SelectivityFactor.md:3
 msgid "$$SF_I = \\frac{{2:I}}{{1:I | 2:I | 3:I}} \\cdot \\frac{\\sum {1:U | 2:U | 3:U}}{\\sum {2:U}}$$"

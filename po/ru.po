@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-17T13:00:48+03:00\n"
+"POT-Creation-Date: 2026-05-17T13:32:44+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -743,7 +743,7 @@ msgstr "[Mancini _et al._, 2015](https://doi.org/10.3390/molecules200917339 \"Bi
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:26
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:28
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:29
-#: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:25
+#: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:24
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:22
 msgid "[Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 \"Biodiesel Production, Properties, and Feedstocks\")"
 msgstr "[Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 \"Biodiesel Production, Properties, and Feedstocks\")"
@@ -1810,7 +1810,7 @@ msgstr "США (ASTM D6751-2003)"
 msgid "\\[47;+∞\\]"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:24
+#: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:25
 #: src/FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md:15
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:22
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:23
@@ -1834,9 +1834,13 @@ msgid "The EN 14214-2005 standard does not mention a low-temperature parameter i
 msgstr ""
 
 #: src/FattyAcids/Ratio/Biodiesel/ColdFilterPluggingPoint.md:19
+msgid "[Dunn, 2019](https://doi.org/10.1021/acs.energyfuels.9b03311 \"Correlating the Cold Filter Plugging Point to Concentration and Melting Properties of Fatty Acid Methyl Ester (Biodiesel) Admixtures\")"
+msgstr "[Dunn, 2019](https://doi.org/10.1021/acs.energyfuels.9b03311 \"Correlating the Cold Filter Plugging Point to Concentration and Melting Properties of Fatty Acid Methyl Ester (Biodiesel) Admixtures\")"
+
+#: src/FattyAcids/Ratio/Biodiesel/ColdFilterPluggingPoint.md:20
 #: src/FattyAcids/Ratio/Biodiesel/LongChainSaturatedFactor.md:13
-msgid "[Ramos _et al._, 2009](https://doi.org/10.1016/S1872-5813(12)60018-8 \"Influence of fatty acid composition of woody biodiesel plants on the fuel properties\")"
-msgstr "[Ramos _et al._, 2009](https://doi.org/10.1016/S1872-5813(12)60018-8 \"Influence of fatty acid composition of woody biodiesel plants on the fuel properties\")"
+msgid "[Ramos _et al._, 2009](https://doi.org/10.1016/j.biortech.2008.06.039 \"Influence of fatty acid composition of raw materials on biodiesel properties\")"
+msgstr "[Ramos _et al._, 2009](https://doi.org/10.1016/j.biortech.2008.06.039 \"Influence of fatty acid composition of raw materials on biodiesel properties\")"
 
 #: src/FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md:3
 msgid "$$DU = 1-UFA + 2 \\times 2-UFA + 3 \\times 3-UFA + 4 \\times 4-UFA$$"

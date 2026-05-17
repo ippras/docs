@@ -1,6 +1,6 @@
 # Unsaturation Index
 
-$$\sum N \cdot NUFA$$
+$$\sum N \times NUFA$$
 
 ## Abbreviations
 

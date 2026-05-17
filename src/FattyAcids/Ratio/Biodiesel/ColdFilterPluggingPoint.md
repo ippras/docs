@@ -1,6 +1,6 @@
 # Cold filter plugging point
 
-$$CFPP = 3.1417 * LCSF - 16.477$$
+$$CFPP = 3.1417 \times LCSF - 16.477$$
 
 ## Abbreviations
 

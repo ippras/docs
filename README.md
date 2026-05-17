@@ -34,35 +34,31 @@ msgmerge --update po/ru.po po/messages.pot
 msgfmt --statistics po/ru.po
 ```
 
-## Build all translations
+## Build and postprocess all translations
 
 ```sh
 for language in en ru; do
-    echo "::group::Building $language translation"
+    echo "Start building $language translation"
     MDBOOK_BOOK__LANGUAGE=$language \
     mdbook build -d book/$language
-    echo "::endgroup::"
+    echo "End building"
 done
 ```
 
 ```sh
 for language in en ru; do
-    echo "::group::Building $language translation"
+    echo "Start postprocess $language translation"
     
-    # 1. Сборка mdbook
-    MDBOOK_BOOK__LANGUAGE=$language \
-    mdbook build -d book/$language
-    
-    # 2. Создание целевой папки
+    # 1. Создание целевой папки
     mkdir -p "book/assets/$language"
 
-    # 3. Копирование файлов
+    # 2. Копирование файлов
     cp -r "book/$language/markdown/"* "book/assets/$language/"
 
-    # 2. Замена в файлах
+    # 3. Замена в файлах
     find "book/assets/$language" -type f -name "*.md" -exec perl -pi -e 's/\*\*/__/g; s/\n/\n /g' {} +
     
-    echo "::endgroup::"
+    echo "End postprocess translation"
 done
 ```
 

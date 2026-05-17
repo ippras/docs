@@ -1,6 +1,6 @@
 # Index of atherogenicity
 
-$$\frac{C12:0 + 4 \cdot C14:0 + C16:0}{\sum UFA}$$
+$$\frac{C12:0 + 4 \times C14:0 + C16:0}{\sum UFA}$$
 
 ## Abbreviations
 

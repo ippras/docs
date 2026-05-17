@@ -1,6 +1,6 @@
 # Degree of unsaturation
 
-$$DU = 1-UFA + 2 * 2-UFA + 3 * 3-UFA + 4 * 4-UFA$$
+$$DU = 1-UFA + 2 \times 2-UFA + 3 \times 3-UFA + 4 \times 4-UFA$$
 
 ## Abbreviations
 

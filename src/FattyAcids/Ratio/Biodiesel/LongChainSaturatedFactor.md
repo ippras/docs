@@ -1,6 +1,6 @@
 # Long chain saturated factor
 
-$$LCSF = 0.1 * C16:0 + 0.5 * C18:0 + 1 * C20:0 + 1.5 * C22:0 + 2 * C24:0$$
+$$LCSF = 0.1 \times C16:0 + 0.5 \times C18:0 + 1 \times C20:0 + 1.5 \times C22:0 + 2 \times C24:0$$
 
 ## Abbreviations
 

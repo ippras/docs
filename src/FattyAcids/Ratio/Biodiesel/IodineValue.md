@@ -1,6 +1,6 @@
 # Iodine value
 
-$$IV = 0.6683 * DU + 25.0364$$
+$$IV = 0.6683 \times DU + 25.0364$$
 
 ## Abbreviations
 

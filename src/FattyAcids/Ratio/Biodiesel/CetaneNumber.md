@@ -1,6 +1,6 @@
 # Cetane number
 
-$$CN = -0.1209 * DU + 65.0958$$
+$$CN = -0.1209 \times DU + 65.0958$$
 
 ## Abbreviations
 

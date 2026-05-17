@@ -56,12 +56,11 @@ for language in en ru; do
     cp -r "book/$language/markdown/"* "book/assets/$language/"
 
     # 3. Замена в файлах
-    find "book/assets/$language" -type f -name "*.md" -exec perl -pi -e 's/{/{"{"}/g; s/}/{"}"}/g; s/\*\*/__/g; s/\n/\n /g' {} +
+    find "book/assets/$language" -type f -name "*.md" -print0 | xargs -0 perl -pi -e 's/([{}])/{"$1"}/g; s/\*\*/__/g; s/\n/\n /g'
     
     echo "End postprocess translation"
 done
 ```
-
 
 ## Other
 

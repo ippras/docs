@@ -16,4 +16,5 @@ The EN 14214-2005 standard does not mention a low-temperature parameter in its s
 
 ## References
 
-- [Ramos _et al._, 2009](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
+1. [Dunn, 2019](https://doi.org/10.1021/acs.energyfuels.9b03311 "Correlating the Cold Filter Plugging Point to Concentration and Melting Properties of Fatty Acid Methyl Ester (Biodiesel) Admixtures")
+2. [Ramos _et al._, 2009](https://doi.org/10.1016/j.biortech.2008.06.039 "Influence of fatty acid composition of raw materials on biodiesel properties")

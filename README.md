@@ -62,9 +62,12 @@ for language in en ru; do
 done
 ```
 
-`s/<!-- i18n:skip -->\s*\n//g;`
 
 ## Other
+
+`s/<!-- i18n:skip -->\s*\n//g;`
+
+`msgid "\[.*\]\(.*\)"`
 
 ```
 MDBOOK_BOOK__LANGUAGE=ru mdbook build

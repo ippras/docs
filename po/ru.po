@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-16T22:08:36+03:00\n"
+"POT-Creation-Date: 2026-05-17T12:38:54+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -137,7 +137,7 @@ msgstr "Насыщенные жирные кислоты"
 
 #: src/SUMMARY.md:30 src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/index.md:6
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:1
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:22
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:21
 msgid "Monounsaturated fatty acids"
 msgstr "Мононеасыщенные жирные кислоты"
 
@@ -214,7 +214,7 @@ msgstr "Отношения"
 
 #: src/SUMMARY.md:46 src/FattyAcids/Ratio/Biodiesel/index.md:1
 msgid "Biodiesel"
-msgstr ""
+msgstr "Биодизель"
 
 #: src/SUMMARY.md:47 src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:1
 msgid "Cetane number"
@@ -320,13 +320,13 @@ msgstr ""
 "Снижающие уровень холестерина жирные кислоты к повышающим уровень "
 "холестерина жирным кислотам"
 
-#: src/SUMMARY.md:71 src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:17
+#: src/SUMMARY.md:71 src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:15
 #: src/FattyAcids/Ratio/Intraposition/index.md:11
 #: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:1
 msgid "Index of atherogenicity"
 msgstr "Индекс атерогенности"
 
-#: src/SUMMARY.md:72 src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:15
+#: src/SUMMARY.md:72 src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:14
 #: src/FattyAcids/Ratio/Intraposition/index.md:13
 #: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:1
 msgid "Index of thrombogenicity"
@@ -501,159 +501,162 @@ msgstr "[Sum](Sum/README.md)"
 msgid "[Ratio](Ratio/README.md)"
 msgstr "[Ratio](Ratio/README.md)"
 
-#: src/FattyAcids/Primitive/c16.md:6 src/FattyAcids/Primitive/c18.md:6
-#: src/FattyAcids/Primitive/c18c9.md:6 src/FattyAcids/Primitive/c18c9c12.md:6
-#: src/FattyAcids/Primitive/c18c9c12c15.md:6 src/FattyAcids/Primitive/c20.md:6
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:6
-#: src/FattyAcids/Primitive/c22.md:6
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:6
-#: src/FattyAcids/Primitive/c22c13.md:6 src/FattyAcids/Primitive/c24.md:6
-#: src/FattyAcids/Primitive/c24c15.md:6
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:6
-#: src/FattyAcids/Sum/ByChainLength/Short.md:6
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:6
-#: src/FattyAcids/Sum/ByChainLength/Long.md:6
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:6
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:6
+#: src/FattyAcids/Primitive/c16.md:3
+msgid "$$C16:0$$"
+msgstr "$$C16:0$$"
+
+#: src/FattyAcids/Primitive/c16.md:5 src/FattyAcids/Primitive/c18.md:5
+#: src/FattyAcids/Primitive/c18c9.md:5 src/FattyAcids/Primitive/c18c9c12.md:5
+#: src/FattyAcids/Primitive/c18c9c12c15.md:5 src/FattyAcids/Primitive/c20.md:5
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:5
+#: src/FattyAcids/Primitive/c22.md:5
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:5
+#: src/FattyAcids/Primitive/c22c13.md:5 src/FattyAcids/Primitive/c24.md:5
+#: src/FattyAcids/Primitive/c24c15.md:5
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:5
+#: src/FattyAcids/Sum/ByChainLength/Short.md:5
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:5
+#: src/FattyAcids/Sum/ByChainLength/Long.md:5
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:5
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:5
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:5
 #: src/FattyAcids/Ratio/Biodiesel/ColdFilterPluggingPoint.md:5
 #: src/FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md:5
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:5
 #: src/FattyAcids/Ratio/Biodiesel/LongChainSaturatedFactor.md:5
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:5
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:14
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:8
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:8
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:8
-#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:10
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:8
-#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:10
-#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:10
-#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:8
-#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:8
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:8
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:6
-#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:6
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:6
-#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:6
-#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:6
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:6
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:6
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:6
-#: src/Interposition/EnrichmentFactor.md:6
-#: src/Interposition/SelectivityFactor.md:6
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:12
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:7
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:7
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:7
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:8
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:7
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:8
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:8
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:7
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:7
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:7
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:5
+#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:5
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:5
+#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:5
+#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:5
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:5
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:5
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:5
+#: src/Interposition/EnrichmentFactor.md:5
+#: src/Interposition/SelectivityFactor.md:5
 msgid "Abbreviations"
 msgstr "Сокращения"
 
-#: src/FattyAcids/Primitive/c16.md:8
+#: src/FattyAcids/Primitive/c16.md:7
 msgid "P"
 msgstr "П"
 
-#: src/FattyAcids/Primitive/c16.md:10 src/FattyAcids/Primitive/c18.md:10
-#: src/FattyAcids/Primitive/c18c9.md:10 src/FattyAcids/Primitive/c18c9c12.md:10
-#: src/FattyAcids/Primitive/c18c9c12c15.md:10
-#: src/FattyAcids/Primitive/c20.md:10
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:10
-#: src/FattyAcids/Primitive/c22.md:10
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:10
-#: src/FattyAcids/Primitive/c22c13.md:10 src/FattyAcids/Primitive/c24.md:10
-#: src/FattyAcids/Primitive/c24c15.md:10
-#: src/FattyAcids/Sum/ByChainLength/Short.md:10
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:10
-#: src/FattyAcids/Sum/ByChainLength/Long.md:10
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:10
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:10
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:11
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:20
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:10
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:10
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:10
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:11
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:19
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:12
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:12
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:12
-#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:15
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:12
-#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:13
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:13
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:10
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:10
+#: src/FattyAcids/Primitive/c16.md:9 src/FattyAcids/Primitive/c18.md:9
+#: src/FattyAcids/Primitive/c18c9.md:9 src/FattyAcids/Primitive/c18c9c12.md:9
+#: src/FattyAcids/Primitive/c18c9c12c15.md:9 src/FattyAcids/Primitive/c20.md:9
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:9
+#: src/FattyAcids/Primitive/c22.md:9
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:9
+#: src/FattyAcids/Primitive/c22c13.md:9 src/FattyAcids/Primitive/c24.md:9
+#: src/FattyAcids/Primitive/c24c15.md:9
+#: src/FattyAcids/Sum/ByChainLength/Short.md:9
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:9
+#: src/FattyAcids/Sum/ByChainLength/Long.md:9
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:9
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:9
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:10
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:19
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:9
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:9
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:9
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:10
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:17
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:11
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:11
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:11
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:13
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:11
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:12
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:12
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:9
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:9
 msgid "Synonyms"
 msgstr "Синонимы"
 
-#: src/FattyAcids/Primitive/c16.md:12
+#: src/FattyAcids/Primitive/c16.md:11
 msgid "hexadecanoic acid"
 msgstr "гексадекановая кислота"
 
-#: src/FattyAcids/Primitive/c16.md:14 src/FattyAcids/Primitive/c18.md:14
-#: src/FattyAcids/Primitive/c18c9.md:14 src/FattyAcids/Primitive/c18c9c12.md:14
-#: src/FattyAcids/Primitive/c18c9c12c15.md:14
-#: src/FattyAcids/Primitive/c20.md:14
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:14
-#: src/FattyAcids/Primitive/c22.md:14
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:14
-#: src/FattyAcids/Primitive/c22c13.md:14 src/FattyAcids/Primitive/c24.md:14
-#: src/FattyAcids/Primitive/c24c15.md:14
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:10
-#: src/FattyAcids/Sum/ByChainLength/Short.md:14
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:14
-#: src/FattyAcids/Sum/ByChainLength/Long.md:14
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:14
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:14
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:15
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:44
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:14
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:14
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:13
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:13
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:13
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:13
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:13
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:14
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:15
+#: src/FattyAcids/Primitive/c16.md:13 src/FattyAcids/Primitive/c18.md:13
+#: src/FattyAcids/Primitive/c18c9.md:13 src/FattyAcids/Primitive/c18c9c12.md:13
+#: src/FattyAcids/Primitive/c18c9c12c15.md:13
+#: src/FattyAcids/Primitive/c20.md:13
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:13
+#: src/FattyAcids/Primitive/c22.md:13
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:13
+#: src/FattyAcids/Primitive/c22c13.md:13 src/FattyAcids/Primitive/c24.md:13
+#: src/FattyAcids/Primitive/c24c15.md:13
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:9
+#: src/FattyAcids/Sum/ByChainLength/Short.md:13
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:13
+#: src/FattyAcids/Sum/ByChainLength/Long.md:13
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:13
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:13
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:14
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:43
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:13
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:13
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:12
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:12
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:12
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:12
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:12
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:13
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:14
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:9
 #: src/FattyAcids/Ratio/Biodiesel/ColdFilterPluggingPoint.md:9
 #: src/FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md:9
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:9
 #: src/FattyAcids/Ratio/Biodiesel/LongChainSaturatedFactor.md:9
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:9
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:23
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:16
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:16
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:16
-#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:19
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:16
-#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:14
-#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:14
-#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:12
-#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:17
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:17
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:14
-#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:10
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:10
-#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:10
-#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:10
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:10
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:14
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:10
-#: src/Interposition/EnrichmentFactor.md:10
-#: src/Interposition/SelectivityFactor.md:10
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:21
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:15
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:15
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:15
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:17
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:15
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:12
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:12
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:11
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:16
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:16
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:13
+#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:9
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:9
+#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:9
+#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:9
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:9
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:13
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:9
+#: src/Interposition/EnrichmentFactor.md:9
+#: src/Interposition/SelectivityFactor.md:9
 msgid "Description"
 msgstr "Описание"
 
-#: src/FattyAcids/Primitive/c16.md:16
+#: src/FattyAcids/Primitive/c16.md:15
 msgid ""
 "Represents a 16-carbon saturated fatty acid. It is the most common saturated "
 "fatty acid found in animals, plants, and microorganisms, and is a major "
@@ -664,34 +667,34 @@ msgstr ""
 "животных, растений и микроорганизмов, а также основной компонент пальмового "
 "масла, мяса и молочных продуктов."
 
-#: src/FattyAcids/Primitive/c16.md:18 src/FattyAcids/Primitive/c18.md:18
-#: src/FattyAcids/Primitive/c18c9.md:18 src/FattyAcids/Primitive/c18c9c12.md:18
-#: src/FattyAcids/Primitive/c18c9c12c15.md:18
-#: src/FattyAcids/Primitive/c20.md:18
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:18
-#: src/FattyAcids/Primitive/c22.md:18
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:18
-#: src/FattyAcids/Primitive/c22c13.md:18 src/FattyAcids/Primitive/c24.md:18
-#: src/FattyAcids/Primitive/c24c15.md:18
-#: src/FattyAcids/Sum/ByChainLength/Short.md:18
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:18
-#: src/FattyAcids/Sum/ByChainLength/Long.md:18
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:18
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:18
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:19
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:18
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:18
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:17
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:17
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:17
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:17
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:17
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:18
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:19
+#: src/FattyAcids/Primitive/c16.md:17 src/FattyAcids/Primitive/c18.md:17
+#: src/FattyAcids/Primitive/c18c9.md:17 src/FattyAcids/Primitive/c18c9c12.md:17
+#: src/FattyAcids/Primitive/c18c9c12c15.md:17
+#: src/FattyAcids/Primitive/c20.md:17
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:17
+#: src/FattyAcids/Primitive/c22.md:17
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:17
+#: src/FattyAcids/Primitive/c22c13.md:17 src/FattyAcids/Primitive/c24.md:17
+#: src/FattyAcids/Primitive/c24c15.md:17
+#: src/FattyAcids/Sum/ByChainLength/Short.md:17
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:17
+#: src/FattyAcids/Sum/ByChainLength/Long.md:17
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:17
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:17
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:18
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:17
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:17
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:16
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:16
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:16
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:16
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:16
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:17
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:18
 msgid "**Nutritional potential**:"
 msgstr "**Пищевой потенциал**:"
 
-#: src/FattyAcids/Primitive/c16.md:20
+#: src/FattyAcids/Primitive/c16.md:19
 msgid ""
 "In human nutrition, a high intake of palmitic acid is traditionally "
 "associated with elevated levels of low-density lipoprotein (LDL) cholesterol "
@@ -710,34 +713,34 @@ msgstr ""
 "структурным компонентом клеточных мембран, секреторных продуктов и легочного "
 "сурфактанта."
 
-#: src/FattyAcids/Primitive/c16.md:22 src/FattyAcids/Primitive/c18.md:22
-#: src/FattyAcids/Primitive/c18c9.md:22 src/FattyAcids/Primitive/c18c9c12.md:22
-#: src/FattyAcids/Primitive/c18c9c12c15.md:22
-#: src/FattyAcids/Primitive/c20.md:22
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:22
-#: src/FattyAcids/Primitive/c22.md:22
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:22
-#: src/FattyAcids/Primitive/c22c13.md:22 src/FattyAcids/Primitive/c24.md:22
-#: src/FattyAcids/Primitive/c24c15.md:22
-#: src/FattyAcids/Sum/ByChainLength/Short.md:22
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:22
-#: src/FattyAcids/Sum/ByChainLength/Long.md:22
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:22
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:22
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:23
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:22
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:22
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:21
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:21
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:21
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:21
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:21
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:22
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:23
+#: src/FattyAcids/Primitive/c16.md:21 src/FattyAcids/Primitive/c18.md:21
+#: src/FattyAcids/Primitive/c18c9.md:21 src/FattyAcids/Primitive/c18c9c12.md:21
+#: src/FattyAcids/Primitive/c18c9c12c15.md:21
+#: src/FattyAcids/Primitive/c20.md:21
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:21
+#: src/FattyAcids/Primitive/c22.md:21
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:21
+#: src/FattyAcids/Primitive/c22c13.md:21 src/FattyAcids/Primitive/c24.md:21
+#: src/FattyAcids/Primitive/c24c15.md:21
+#: src/FattyAcids/Sum/ByChainLength/Short.md:21
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:21
+#: src/FattyAcids/Sum/ByChainLength/Long.md:21
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:21
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:21
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:22
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:21
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:21
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:20
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:20
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:20
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:20
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:20
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:21
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:22
 msgid "**Biodiesel potential**:"
 msgstr "**Биодизельный потенциал**:"
 
-#: src/FattyAcids/Primitive/c16.md:24
+#: src/FattyAcids/Primitive/c16.md:23
 msgid ""
 "In fuel applications, palmitic acid significantly improves the cetane number "
 "(CN) and provides excellent oxidation stability (OS), making the fuel highly "
@@ -755,61 +758,61 @@ msgstr ""
 "помутнения, что приводит к загустеванию (гелеобразованию) топлива при низких "
 "температурах."
 
-#: src/FattyAcids/Primitive/c16.md:26 src/FattyAcids/Primitive/c18.md:26
-#: src/FattyAcids/Primitive/c18c9.md:26 src/FattyAcids/Primitive/c18c9c12.md:26
-#: src/FattyAcids/Primitive/c18c9c12c15.md:26
-#: src/FattyAcids/Primitive/c20.md:26
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:26
-#: src/FattyAcids/Primitive/c22.md:26
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:26
-#: src/FattyAcids/Primitive/c22c13.md:26 src/FattyAcids/Primitive/c24.md:26
-#: src/FattyAcids/Primitive/c24c15.md:26
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:14
-#: src/FattyAcids/Sum/ByChainLength/Short.md:26
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:26
-#: src/FattyAcids/Sum/ByChainLength/Long.md:26
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:26
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:26
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:26
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:26
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:25
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:25
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:25
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:25
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:25
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:26
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:27
+#: src/FattyAcids/Primitive/c16.md:25 src/FattyAcids/Primitive/c18.md:25
+#: src/FattyAcids/Primitive/c18c9.md:25 src/FattyAcids/Primitive/c18c9c12.md:25
+#: src/FattyAcids/Primitive/c18c9c12c15.md:25
+#: src/FattyAcids/Primitive/c20.md:25
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:25
+#: src/FattyAcids/Primitive/c22.md:25
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:25
+#: src/FattyAcids/Primitive/c22c13.md:25 src/FattyAcids/Primitive/c24.md:25
+#: src/FattyAcids/Primitive/c24c15.md:25
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:13
+#: src/FattyAcids/Sum/ByChainLength/Short.md:25
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:25
+#: src/FattyAcids/Sum/ByChainLength/Long.md:25
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:25
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:25
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:25
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:25
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:24
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:24
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:24
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:24
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:24
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:25
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:26
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:22
 #: src/FattyAcids/Ratio/Biodiesel/ColdFilterPluggingPoint.md:17
 #: src/FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md:13
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:20
 #: src/FattyAcids/Ratio/Biodiesel/LongChainSaturatedFactor.md:11
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:20
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:29
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:22
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:22
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:22
-#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:25
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:22
-#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:20
-#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:20
-#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:18
-#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:23
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:23
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:18
-#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:14
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:14
-#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:14
-#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:14
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:19
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:24
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:14
-#: src/Interposition/EnrichmentFactor.md:20
-#: src/Interposition/SelectivityFactor.md:22 src/Triacylglycerols/index.md:8
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:27
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:21
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:21
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:21
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:23
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:21
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:18
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:18
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:17
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:22
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:22
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:17
+#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:13
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:13
+#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:13
+#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:13
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:18
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:23
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:13
+#: src/Interposition/EnrichmentFactor.md:19
+#: src/Interposition/SelectivityFactor.md:21 src/Triacylglycerols/index.md:8
 msgid "References"
 msgstr "Ссылки"
 
-#: src/FattyAcids/Primitive/c16.md:28
+#: src/FattyAcids/Primitive/c16.md:27
 msgid ""
 "[Mancini _et al._, 2015](https://doi.org/10.3390/molecules200917339 "
 "\"Biological and Nutritional Properties of Palm Oil and Palmitic Acid: "
@@ -819,29 +822,29 @@ msgstr ""
 "\"Biological and Nutritional Properties of Palm Oil and Palmitic Acid: "
 "Effects on Health\")"
 
-#: src/FattyAcids/Primitive/c16.md:29 src/FattyAcids/Primitive/c18.md:29
-#: src/FattyAcids/Primitive/c18c9.md:28 src/FattyAcids/Primitive/c18c9c12.md:28
-#: src/FattyAcids/Primitive/c18c9c12c15.md:28
-#: src/FattyAcids/Primitive/c20.md:28
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:29
-#: src/FattyAcids/Primitive/c22.md:29
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:29
-#: src/FattyAcids/Primitive/c22c13.md:28 src/FattyAcids/Primitive/c24.md:28
-#: src/FattyAcids/Primitive/c24c15.md:28
-#: src/FattyAcids/Sum/ByChainLength/Short.md:29
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:29
-#: src/FattyAcids/Sum/ByChainLength/Long.md:29
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:30
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:29
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:29
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:29
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:28
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:28
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:28
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:28
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:27
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:29
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:30
+#: src/FattyAcids/Primitive/c16.md:28 src/FattyAcids/Primitive/c18.md:28
+#: src/FattyAcids/Primitive/c18c9.md:27 src/FattyAcids/Primitive/c18c9c12.md:27
+#: src/FattyAcids/Primitive/c18c9c12c15.md:27
+#: src/FattyAcids/Primitive/c20.md:27
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:28
+#: src/FattyAcids/Primitive/c22.md:28
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:28
+#: src/FattyAcids/Primitive/c22c13.md:27 src/FattyAcids/Primitive/c24.md:27
+#: src/FattyAcids/Primitive/c24c15.md:27
+#: src/FattyAcids/Sum/ByChainLength/Short.md:28
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:28
+#: src/FattyAcids/Sum/ByChainLength/Long.md:28
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:29
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:28
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:28
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:28
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:27
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:27
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:27
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:27
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:26
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:28
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:29
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:25
 msgid ""
 "[Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 \"Biodiesel "
@@ -850,7 +853,7 @@ msgstr ""
 "[Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 \"Biodiesel "
 "Production, Properties, and Feedstocks\")"
 
-#: src/FattyAcids/Primitive/c16.md:30 src/Triacylglycerols/index.md:10
+#: src/FattyAcids/Primitive/c16.md:29 src/Triacylglycerols/index.md:10
 msgid ""
 "[Sanders _et al._, 2011](https://doi.org/10.3945/ajcn.111.017459 \"Palmitic "
 "acid in the sn-2 position of triacylglycerols acutely influences "
@@ -860,15 +863,19 @@ msgstr ""
 "acid in the sn-2 position of triacylglycerols acutely influences "
 "postprandial lipid metabolism\")"
 
-#: src/FattyAcids/Primitive/c18.md:8
+#: src/FattyAcids/Primitive/c18.md:3
+msgid "$$C18:0$$"
+msgstr "$$C18:0$$"
+
+#: src/FattyAcids/Primitive/c18.md:7
 msgid "S"
 msgstr "С"
 
-#: src/FattyAcids/Primitive/c18.md:12
+#: src/FattyAcids/Primitive/c18.md:11
 msgid "octadecanoic acid"
 msgstr "октадекановая кислота"
 
-#: src/FattyAcids/Primitive/c18.md:16
+#: src/FattyAcids/Primitive/c18.md:15
 msgid ""
 "Represents an 18-carbon saturated fatty acid. It is highly abundant in "
 "animal fats (such as beef tallow and lard) and certain plant fats (like "
@@ -879,7 +886,7 @@ msgstr ""
 "свиное сало) и некоторых растительных жирах (например, в масле какао и масле "
 "ши)."
 
-#: src/FattyAcids/Primitive/c18.md:20
+#: src/FattyAcids/Primitive/c18.md:19
 msgid ""
 "Stearic acid is unique among long-chain saturated fatty acids because it "
 "generally has a neutral effect on blood cholesterol levels. Unlike palmitic "
@@ -897,7 +904,7 @@ msgstr ""
 "стеариновой кислоты в олеиновую кислоту (полезный мононенасыщенный жир) с "
 "помощью фермента десатуразы."
 
-#: src/FattyAcids/Primitive/c18.md:24
+#: src/FattyAcids/Primitive/c18.md:23
 msgid ""
 "In fuel applications, stearic acid provides an exceptionally high cetane "
 "number (CN) and outstanding oxidation stability (OS). However, due to its "
@@ -916,22 +923,26 @@ msgstr ""
 "помутнения, что приводит к загустеванию топлива и засорению фильтров даже "
 "при относительно теплых температурах."
 
-#: src/FattyAcids/Primitive/c18.md:28
+#: src/FattyAcids/Primitive/c18.md:27
 msgid ""
 "[Hunter _et al._, 2010](https://doi.org/10.3945/ajcn.2009.27661 "
 "\"Cardiovascular disease risk of dietary stearic acid compared with trans, "
 "other saturated, and unsaturated fatty acids: a systematic review\")"
 msgstr ""
 
-#: src/FattyAcids/Primitive/c18c9.md:8
+#: src/FattyAcids/Primitive/c18c9.md:3
+msgid "$$C18:1\\[\\\\omega-9\\]$$"
+msgstr "$$C18:1\\[\\\\omega-9\\]$$"
+
+#: src/FattyAcids/Primitive/c18c9.md:7
 msgid "O"
 msgstr "О"
 
-#: src/FattyAcids/Primitive/c18c9.md:12
+#: src/FattyAcids/Primitive/c18c9.md:11
 msgid "_cis_\\-9-octadecenoic acid"
 msgstr "_цис_\\-9-октадеценовая кислота"
 
-#: src/FattyAcids/Primitive/c18c9.md:16
+#: src/FattyAcids/Primitive/c18c9.md:15
 msgid ""
 "Represents an 18-carbon monounsaturated fatty acid with one double bond at "
 "the 9th carbon from the methyl end. It is the most abundant fatty acid in "
@@ -943,7 +954,7 @@ msgstr ""
 "распространенная жирная кислота в природе и основной компонент оливкового "
 "масла, а также высокоолеинового подсолнечного и рапсового масел."
 
-#: src/FattyAcids/Primitive/c18c9.md:20
+#: src/FattyAcids/Primitive/c18c9.md:19
 msgid ""
 "Oleic acid is highly regarded for its health benefits and is a central "
 "component of the heart-healthy Mediterranean diet. It helps lower \"bad\" "
@@ -960,7 +971,7 @@ msgstr ""
 "противовоспалительными свойствами, защищает клетки от окислительного стресса "
 "и улучшает чувствительность к инсулину."
 
-#: src/FattyAcids/Primitive/c18c9.md:24
+#: src/FattyAcids/Primitive/c18c9.md:23
 msgid ""
 "Oleic acid is widely considered the ideal fatty acid for biodiesel "
 "production. It provides the perfect compromise between fuel stability and "
@@ -980,21 +991,25 @@ msgstr ""
 "предельную температуру фильтруемости (CFPP) по сравнению с насыщенными "
 "жирами."
 
-#: src/FattyAcids/Primitive/c18c9.md:29
+#: src/FattyAcids/Primitive/c18c9.md:28
 msgid ""
 "[Sales-Campos et al. (2013)](10.2174/1389557511313020003 \"An overview of "
 "the modulatory effects of oleic acid in health and disease\")"
 msgstr ""
 
-#: src/FattyAcids/Primitive/c18c9c12.md:8
+#: src/FattyAcids/Primitive/c18c9c12.md:3
+msgid "$$C18:2\\[\\\\omega-6\\]$$"
+msgstr "$$C18:2\\[\\\\omega-6\\]$$"
+
+#: src/FattyAcids/Primitive/c18c9c12.md:7
 msgid "L"
 msgstr "Л"
 
-#: src/FattyAcids/Primitive/c18c9c12.md:12
+#: src/FattyAcids/Primitive/c18c9c12.md:11
 msgid "_cis_,_cis_\\-9,12-octadecadienoic acid"
 msgstr "_цис_,_цис_\\-9,12-октадекадиеновая кислота"
 
-#: src/FattyAcids/Primitive/c18c9c12.md:16
+#: src/FattyAcids/Primitive/c18c9c12.md:15
 msgid ""
 "Represents an 18-carbon polyunsaturated fatty acid with two double bonds. It "
 "is the most abundant polyunsaturated fatty acid in nature and the primary "
@@ -1007,7 +1022,7 @@ msgstr ""
 "концентрациях содержится во многих растительных маслах (например, "
 "подсолнечном, кукурузном, соевом и сафлоровом)."
 
-#: src/FattyAcids/Primitive/c18c9c12.md:20
+#: src/FattyAcids/Primitive/c18c9c12.md:19
 msgid ""
 "Linoleic acid is an essential fatty acid, meaning the human body cannot "
 "synthesize it and it must be obtained through the diet. It is vital for "
@@ -1028,7 +1043,7 @@ msgstr ""
 "кислотам, согласно некоторым исследованиям, может способствовать "
 "провоспалительному состоянию."
 
-#: src/FattyAcids/Primitive/c18c9c12.md:24
+#: src/FattyAcids/Primitive/c18c9c12.md:23
 msgid ""
 "In fuel applications, the presence of two double bonds in linoleic acid "
 "presents a trade-off. It significantly lowers the melting point (approx. "
@@ -1047,7 +1062,7 @@ msgstr ""
 "(CN), что негативно сказывается на качестве воспламенения по сравнению с "
 "мононенасыщенными или насыщенными жирами."
 
-#: src/FattyAcids/Primitive/c18c9c12.md:29
+#: src/FattyAcids/Primitive/c18c9c12.md:28
 msgid ""
 "[Farvid _et al._, 2014](https://doi.org/10.1161/circulationaha.114.010236 "
 "\"Dietary linoleic acid and risk of coronary heart disease: a systematic "
@@ -1057,15 +1072,19 @@ msgstr ""
 "\"Dietary linoleic acid and risk of coronary heart disease: a systematic "
 "review and meta-analysis of prospective cohort studies\")"
 
-#: src/FattyAcids/Primitive/c18c9c12c15.md:8
+#: src/FattyAcids/Primitive/c18c9c12c15.md:3
+msgid "$$C18:3\\[\\\\omega-3\\]$$"
+msgstr "$$C18:3\\[\\\\omega-3\\]$$"
+
+#: src/FattyAcids/Primitive/c18c9c12c15.md:7
 msgid "ALA"
 msgstr "АЛК"
 
-#: src/FattyAcids/Primitive/c18c9c12c15.md:12
+#: src/FattyAcids/Primitive/c18c9c12c15.md:11
 msgid "_cis_,_cis_,_cis_\\-9,12,15-octadecatrienoic acid"
 msgstr "_цис_,_цис_,_цис_\\-9,12,15-октадекатриеновая кислота"
 
-#: src/FattyAcids/Primitive/c18c9c12c15.md:16
+#: src/FattyAcids/Primitive/c18c9c12c15.md:15
 msgid ""
 "Represents an 18-carbon polyunsaturated fatty acid with three double bonds. "
 "It is the primary plant-based omega -3 fatty acid, found abundantly in "
@@ -1076,7 +1095,7 @@ msgstr ""
 "которая в большом количестве содержится в семенах льна, чиа, грецких орехах "
 "и конопляном семени."
 
-#: src/FattyAcids/Primitive/c18c9c12c15.md:20
+#: src/FattyAcids/Primitive/c18c9c12c15.md:19
 msgid ""
 "ALA is an essential fatty acid, meaning it cannot be synthesized by the "
 "human body and must be obtained through the diet. It serves as a precursor "
@@ -1093,7 +1112,7 @@ msgstr ""
 "пользой для сердечно-сосудистой системы, снижением воспаления и улучшением "
 "функции эндотелия."
 
-#: src/FattyAcids/Primitive/c18c9c12c15.md:24
+#: src/FattyAcids/Primitive/c18c9c12c15.md:23
 msgid ""
 "The presence of three double bonds makes ALA highly problematic for fuel "
 "stability. While it drastically lowers the melting point (approx. -11°C) and "
@@ -1115,7 +1134,7 @@ msgstr ""
 "смешивания и обработки антиоксидантами для использования в качестве "
 "стандартного биодизеля."
 
-#: src/FattyAcids/Primitive/c18c9c12c15.md:29
+#: src/FattyAcids/Primitive/c18c9c12c15.md:28
 msgid ""
 "[Pan _et al._, 2012](https://doi.org/10.3945/ajcn.112.044040 \"alpha-"
 "Linolenic acid and risk of cardiovascular disease: a systematic review and "
@@ -1125,15 +1144,19 @@ msgstr ""
 "Linolenic acid and risk of cardiovascular disease: a systematic review and "
 "meta-analysis\")"
 
-#: src/FattyAcids/Primitive/c20.md:8
+#: src/FattyAcids/Primitive/c20.md:3
+msgid "$$C20:0$$"
+msgstr "$$C20:0$$"
+
+#: src/FattyAcids/Primitive/c20.md:7
 msgid "ARA"
 msgstr "ARA"
 
-#: src/FattyAcids/Primitive/c20.md:12
+#: src/FattyAcids/Primitive/c20.md:11
 msgid "eicosanoic acid"
 msgstr "эйкозановая кислота"
 
-#: src/FattyAcids/Primitive/c20.md:16
+#: src/FattyAcids/Primitive/c20.md:15
 msgid ""
 "Represents a 20-carbon saturated fatty acid. It is a minor component of "
 "peanut oil (from which it derives its name, _Arachis hypogaea_) and is also "
@@ -1144,7 +1167,7 @@ msgstr ""
 "название, *Arachis hypogaea*), а также в небольших количествах содержится в "
 "других растительных маслах и животных жирах."
 
-#: src/FattyAcids/Primitive/c20.md:20
+#: src/FattyAcids/Primitive/c20.md:19
 msgid ""
 "Arachidic acid belongs to the group of very-long-chain saturated fatty acids "
 "(VLSFAs). Unlike shorter-chain saturated fats (such as palmitic acid), "
@@ -1163,7 +1186,7 @@ msgstr ""
 "метаболическое здоровье и способствуют здоровому старению, хотя в типичном "
 "рационе они потребляются в очень небольших количествах."
 
-#: src/FattyAcids/Primitive/c20.md:24
+#: src/FattyAcids/Primitive/c20.md:23
 msgid ""
 "In fuel applications, arachidic acid provides an extremely high cetane "
 "number (CN) and exceptional oxidation stability (OS). However, its very high "
@@ -1182,23 +1205,27 @@ msgstr ""
 "помутнения, что приводит к сильному загустеванию (гелеобразованию) топлива и "
 "засорению фильтров при температуре окружающей среды или низких температурах."
 
-#: src/FattyAcids/Primitive/c20.md:29 src/FattyAcids/Primitive/c24.md:29
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:29
+#: src/FattyAcids/Primitive/c20.md:28 src/FattyAcids/Primitive/c24.md:28
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:28
 msgid ""
 "[Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 \"Circulating Very-"
 "Long-Chain Saturated Fatty Acids Were Inversely Associated with "
 "Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis\")"
 msgstr ""
 
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:8
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:3
+msgid "$$C20:5\\[\\\\omega-3\\]$$"
+msgstr "$$C20:5\\[\\\\omega-3\\]$$"
+
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:7
 msgid "EPA"
 msgstr "ЭПК"
 
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:12
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:11
 msgid "_cis_,_cis_,_cis_,_cis_,_cis_\\-5,8,11,14,17-eicosapentaenoic acid"
 msgstr "_цис_,_цис_,_цис_,_цис_,_цис_\\-5,8,11,14,17-эйкозапентаеновая кислота"
 
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:16
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:15
 msgid ""
 "Represents a 20-carbon polyunsaturated fatty acid with five double bonds. It "
 "is a primary marine-derived omega -3 fatty acid, found abundantly in cold-"
@@ -1209,7 +1236,7 @@ msgstr ""
 "происхождения, которая в большом количестве содержится в жирной рыбе "
 "холодных морей (такой как лосось, скумбрия и сардины) и микроводорослях."
 
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:20
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:19
 msgid ""
 "EPA is highly prized for its profound health benefits. It is a critical anti-"
 "inflammatory agent, serving as a precursor to beneficial eicosanoids (such "
@@ -1228,7 +1255,7 @@ msgstr ""
 "сосудистых катастроф. Она также играет жизненно важную роль в поддержании "
 "психического здоровья и уменьшении симптомов депрессии."
 
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:24
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:23
 msgid ""
 "Due to its extreme degree of polyunsaturation (five double bonds), EPA is "
 "highly problematic for biodiesel production. While its extremely low melting "
@@ -1252,8 +1279,8 @@ msgstr ""
 "смешивания или интенсивной обработки антиоксидантами для использования в "
 "качестве стандартного биодизеля."
 
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:28
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:27
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:27
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:26
 msgid ""
 "[Kris-Etherton _et al._, 2002](https://doi.org/10.1161/01."
 "cir.0000038493.65177.94 \"Fish Consumption, Fish Oil, Omega-3 Fatty Acids, "
@@ -1263,7 +1290,7 @@ msgstr ""
 "cir.0000038493.65177.94 \"Fish Consumption, Fish Oil, Omega-3 Fatty Acids, "
 "and Cardiovascular Disease\")"
 
-#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:30
+#: src/FattyAcids/Primitive/c20c5c8c11c14c17.md:29
 msgid ""
 "[Bhatt _et al._, 2019](https://doi.org/10.1056/NEJMoa1812792 "
 "\"Cardiovascular Risk Reduction with Icosapent Ethyl for "
@@ -1273,15 +1300,19 @@ msgstr ""
 "\"Cardiovascular Risk Reduction with Icosapent Ethyl for "
 "Hypertriglyceridemia\")"
 
-#: src/FattyAcids/Primitive/c22.md:8
+#: src/FattyAcids/Primitive/c22.md:3
+msgid "$$C22:0$$"
+msgstr "$$C22:0$$"
+
+#: src/FattyAcids/Primitive/c22.md:7
 msgid "BA"
 msgstr ""
 
-#: src/FattyAcids/Primitive/c22.md:12
+#: src/FattyAcids/Primitive/c22.md:11
 msgid "docosanoic acid"
 msgstr "докозановая кислота"
 
-#: src/FattyAcids/Primitive/c22.md:16
+#: src/FattyAcids/Primitive/c22.md:15
 msgid ""
 "Represents a 22-carbon saturated fatty acid. It is a major component of Ben "
 "oil (or behen oil, extracted from the seeds of the _Moringa oleifera_ tree) "
@@ -1292,7 +1323,7 @@ msgstr ""
 "oleifera*), а также в небольших количествах содержится в арахисовом и "
 "рапсовом маслах."
 
-#: src/FattyAcids/Primitive/c22.md:20
+#: src/FattyAcids/Primitive/c22.md:19
 msgid ""
 "Behenic acid belongs to the group of very-long-chain saturated fatty acids "
 "(VLSFAs). In the human diet, it is poorly absorbed in the intestines "
@@ -1312,7 +1343,7 @@ msgstr ""
 "снижение риска развития сердечной недостаточности, сердечно-сосудистых "
 "заболеваний и диабета 2 типа."
 
-#: src/FattyAcids/Primitive/c22.md:24
+#: src/FattyAcids/Primitive/c22.md:23
 msgid ""
 "In fuel applications, behenic acid provides an exceptionally high cetane "
 "number (CN) and outstanding oxidation stability (OS). However, due to its "
@@ -1331,7 +1362,7 @@ msgstr ""
 "загустевание (гелеобразование) топлива и засорение фильтров при температуре "
 "окружающей среды."
 
-#: src/FattyAcids/Primitive/c22.md:28
+#: src/FattyAcids/Primitive/c22.md:27
 msgid ""
 "[Cater _et al._, 2001](https://doi.org/10.1093/ajcn/73.1.41 \"Behenic acid "
 "is a cholesterol-raising saturated fatty acid in humans\")"
@@ -1339,18 +1370,22 @@ msgstr ""
 "[Cater _et al._, 2001](https://doi.org/10.1093/ajcn/73.1.41 \"Behenic acid "
 "is a cholesterol-raising saturated fatty acid in humans\")"
 
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:8
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:3
+msgid "$$C22:6\\[\\\\omega-3\\]$$"
+msgstr "$$C22:6\\[\\\\omega-3\\]$$"
+
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:7
 msgid "DHA"
 msgstr "ДГК"
 
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:12
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:11
 msgid ""
 "_cis_,_cis_,_cis_,_cis_,_cis_,_cis_\\-4,7,10,13,16,19-docosahexaenoic acid"
 msgstr ""
 "_цис_,_цис_,_цис_,_цис_,_цис_,_цис_\\-4,7,10,13,16,19-докозагексаеновая "
 "кислота"
 
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:16
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:15
 msgid ""
 "Represents a 22-carbon polyunsaturated fatty acid with six double bonds. It "
 "is a primary marine-derived omega -3 fatty acid, found abundantly in cold-"
@@ -1361,7 +1396,7 @@ msgstr ""
 "происхождения, которая в большом количестве содержится в жирной рыбе "
 "холодных морей, криле и специфических микроводорослях."
 
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:20
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:19
 msgid ""
 "DHA is essential for the growth and functional development of the brain in "
 "infants and is required for the maintenance of normal brain function in "
@@ -1378,7 +1413,7 @@ msgstr ""
 "включая снижение уровня триглицеридов в крови, уменьшение воспаления и "
 "поддержание общего здоровья сердца."
 
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:24
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:23
 msgid ""
 "With six double bonds, DHA represents the extreme end of polyunsaturation, "
 "making it highly unsuitable for standard biodiesel production. While it has "
@@ -1401,7 +1436,7 @@ msgstr ""
 "содержанием ДГК должны подвергаться сильному смешиванию или гидрогенизации "
 "для использования в качестве топлива."
 
-#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:28
+#: src/FattyAcids/Primitive/c22c4c7c10c13c16c19.md:27
 msgid ""
 "[Horrocks _et al._, 1999](https://doi.org/10.1006/phrs.1999.0495 \"Health "
 "benefits of docosahexaenoic acid (DHA)\")"
@@ -1409,15 +1444,19 @@ msgstr ""
 "[Horrocks _et al._, 1999](https://doi.org/10.1006/phrs.1999.0495 \"Health "
 "benefits of docosahexaenoic acid (DHA)\")"
 
-#: src/FattyAcids/Primitive/c22c13.md:8
+#: src/FattyAcids/Primitive/c22c13.md:3
+msgid "$$C22:1\\[\\\\omega-9\\]$$"
+msgstr "$$C22:1\\[\\\\omega-9\\]$$"
+
+#: src/FattyAcids/Primitive/c22c13.md:7
 msgid "EA"
 msgstr ""
 
-#: src/FattyAcids/Primitive/c22c13.md:12
+#: src/FattyAcids/Primitive/c22c13.md:11
 msgid "_cis_\\-13-docosenoic acid"
 msgstr "_цис_\\-13-докозеновая кислота"
 
-#: src/FattyAcids/Primitive/c22c13.md:16
+#: src/FattyAcids/Primitive/c22c13.md:15
 msgid ""
 "Represents a 22-carbon monounsaturated fatty acid with one double bond. It "
 "is naturally found in high concentrations in the seeds of the Brassicaceae "
@@ -1428,7 +1467,7 @@ msgstr ""
 "растений семейства Капустные (Brassicaceae), особенно в традиционном рапсе и "
 "горчице."
 
-#: src/FattyAcids/Primitive/c22c13.md:20
+#: src/FattyAcids/Primitive/c22c13.md:19
 msgid ""
 "In human and animal nutrition, high intake of erucic acid is highly "
 "undesirable. Animal studies have shown that excessive consumption can lead "
@@ -1447,7 +1486,7 @@ msgstr ""
 "пищевых продуктов строго регулируют её максимально допустимое содержание в "
 "пищевых маслах."
 
-#: src/FattyAcids/Primitive/c22c13.md:24
+#: src/FattyAcids/Primitive/c22c13.md:23
 msgid ""
 "In fuel applications, erucic acid presents a mixed profile. Its "
 "monounsaturated nature provides good oxidation stability (OS) and a high "
@@ -1469,23 +1508,28 @@ msgstr ""
 "помутнения) по сравнению с сырьем, богатым олеиновой кислотой, хотя и "
 "лучшими, чем у длинноцепочечных насыщенных жиров."
 
-#: src/FattyAcids/Primitive/c22c13.md:29
+#: src/FattyAcids/Primitive/c22c13.md:28
+#, fuzzy
 msgid ""
 "[EFSA _et al._, 2016](https://doi.org/10.2903/j.efsa.2016.4593 \"Erucic acid "
-"in feed and food"
+"in feed and food\")"
 msgstr ""
 "[EFSA _et al._, 2016](https://doi.org/10.2903/j.efsa.2016.4593 \"Erucic acid "
-"in feed and food"
+"in feed and food\")"
 
-#: src/FattyAcids/Primitive/c24.md:8
+#: src/FattyAcids/Primitive/c24.md:3
+msgid "$$C24:0$$"
+msgstr "$$C24:0$$"
+
+#: src/FattyAcids/Primitive/c24.md:7
 msgid "LGA"
 msgstr "LGA"
 
-#: src/FattyAcids/Primitive/c24.md:12
+#: src/FattyAcids/Primitive/c24.md:11
 msgid "tetracosanoic acid"
 msgstr "тетракозановая кислота"
 
-#: src/FattyAcids/Primitive/c24.md:16
+#: src/FattyAcids/Primitive/c24.md:15
 msgid ""
 "Represents a 24-carbon saturated fatty acid. It is a very-long-chain "
 "saturated fatty acid (VLSFA) found naturally in wood tar, various "
@@ -1497,7 +1541,7 @@ msgstr ""
 "содержится в древесном дегте, различных цереброзидах и в небольших "
 "количествах в большинстве природных жиров, включая арахисовое масло."
 
-#: src/FattyAcids/Primitive/c24.md:20
+#: src/FattyAcids/Primitive/c24.md:19
 msgid ""
 "Lignoceric acid is a vital component of sphingolipids, which are essential "
 "for the formation and maintenance of the myelin sheath (the protective "
@@ -1522,7 +1566,7 @@ msgstr ""
 "адренолейкодистрофия, АЛД) приводит к их опасному накоплению в мозге и "
 "надпочечниках."
 
-#: src/FattyAcids/Primitive/c24.md:24
+#: src/FattyAcids/Primitive/c24.md:23
 msgid ""
 "In fuel applications, lignoceric acid provides an exceptionally high cetane "
 "number (CN) and outstanding oxidation stability (OS). However, due to its "
@@ -1541,15 +1585,19 @@ msgstr ""
 "помутнения, вызывая сильное загустевание (гелеобразование) топлива и "
 "засорение фильтров при температуре окружающей среды."
 
-#: src/FattyAcids/Primitive/c24c15.md:8
+#: src/FattyAcids/Primitive/c24c15.md:3
+msgid "$$C24:1\\[\\\\omega-9\\]$$"
+msgstr "$$C24:1\\[\\\\omega-9\\]$$"
+
+#: src/FattyAcids/Primitive/c24c15.md:7
 msgid "NA"
 msgstr ""
 
-#: src/FattyAcids/Primitive/c24c15.md:12
+#: src/FattyAcids/Primitive/c24c15.md:11
 msgid "_cis_\\-15-tetracosenoic acid"
 msgstr "_цис_\\-15-тетракозеновая кислота"
 
-#: src/FattyAcids/Primitive/c24c15.md:16
+#: src/FattyAcids/Primitive/c24c15.md:15
 msgid ""
 "Represents a 24-carbon monounsaturated fatty acid with one double bond. It "
 "is a very-long-chain fatty acid (VLCFA) belonging to the omega -9 family. It "
@@ -1562,7 +1610,7 @@ msgstr ""
 "маслах семян (например, клена усеченного и лунника однолетнего), морских "
 "жирах и грудном молоке человека."
 
-#: src/FattyAcids/Primitive/c24c15.md:20
+#: src/FattyAcids/Primitive/c24c15.md:19
 msgid ""
 "Nervonic acid is essential for the growth, development, and maintenance of "
 "the brain and peripheral nervous system. It is a core component of "
@@ -1580,7 +1628,7 @@ msgstr ""
 "демиелинизирующих и нейродегенеративных заболеваний, таких как рассеянный "
 "склероз (РС), болезнь Паркинсона и возрастное снижение когнитивных функций."
 
-#: src/FattyAcids/Primitive/c24c15.md:24
+#: src/FattyAcids/Primitive/c24c15.md:23
 msgid ""
 "In fuel applications, nervonic acid's very long hydrocarbon chain dominates "
 "its physical properties. While its monounsaturated nature provides excellent "
@@ -1599,7 +1647,7 @@ msgstr ""
 "температуру фильтруемости (CFPP) и температуру помутнения, что приведет к "
 "загустеванию (гелеобразованию) топлива при температуре окружающей среды."
 
-#: src/FattyAcids/Primitive/c24c15.md:29
+#: src/FattyAcids/Primitive/c24c15.md:28
 msgid ""
 "[Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 \"Naturally "
 "Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human "
@@ -1609,11 +1657,15 @@ msgstr ""
 "Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human "
 "Oligodendrocytes\")"
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:8
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:3
+msgid "$$C20:5\\[\\\\omega-3\\] + C22:6\\[\\\\omega-3\\]$$"
+msgstr "$$C20:5\\[\\\\omega-3\\] + C22:6\\[\\\\omega-3\\]$$"
+
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:7
 msgid "EPA + DHA"
 msgstr "ЭПК + ДГК"
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:12
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:11
 msgid ""
 "Represents the sum of EPA and DHA content, which are essential omega -3 "
 "fatty acids."
@@ -1621,61 +1673,61 @@ msgstr ""
 "Отражает суммарное содержание ЭПК и ДГК — двух незаменимых жирных кислот "
 "омега -3."
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:16
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:19
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:28
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:15
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:18
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:27
 msgid ""
 "[Fernandes _et al._, 2014](https://doi.org/10.1016/j.foodchem.2014.03.055 "
 "\"36\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:17
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:21
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:32
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:16
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:20
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:31
 msgid ""
 "[Hosseini _et al._, 2014](https://doi.org/10.1016/j.foodchem.2013.10.012 "
 "\"37\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:18
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:17
 msgid ""
 "[Larsson _et al._, 2014](https://doi.org/10.1016/j.aquaculture.2014.01.034 "
 "\"104\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:19
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:18
 msgid ""
 "[Lin _et al._, 2007](https://doi.org/10.1111/j.1365-2109.2007.01811.x "
 "\"103\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:20
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:19
 msgid ""
 "[Monteiro _et al._, 2018](https://doi.org/10.1016/j.aquaculture.2017.12.043 "
 "\"68\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:21
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:20
 msgid ""
 "[Mozanzadeh _et al._, 2015](https://doi.org/10.1016/j."
 "aquaculture.2015.06.007 \"105\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:22
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:27
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:41
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:21
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:26
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:40
 msgid ""
 "[Rincón-Cervera _et al._, 2020](https://doi.org/10.3390/foods9020233 \"34\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:23
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:42
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:22
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:41
 msgid ""
 "[Rombenso _et al._, 2016](https://doi.org/10.1016/j.aquaculture.2016.03.009 "
 "\"40\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:24
+#: src/FattyAcids/Sum/EicosapentaenoicAndDocosahexaenoic.md:23
 msgid ""
 "[Xu _et al._, 2017](https://doi.org/10.1016/j.aquaculture.2017.07.018 "
 "\"106\")"
@@ -1705,15 +1757,19 @@ msgid ""
 "22 or more carbons."
 msgstr ""
 
-#: src/FattyAcids/Sum/ByChainLength/Short.md:8
+#: src/FattyAcids/Sum/ByChainLength/Short.md:3
+msgid "$$\\sum SCFA$$"
+msgstr "$$\\sum SCFA$$"
+
+#: src/FattyAcids/Sum/ByChainLength/Short.md:7
 msgid "SCFA"
 msgstr "КЦЖК"
 
-#: src/FattyAcids/Sum/ByChainLength/Short.md:12
+#: src/FattyAcids/Sum/ByChainLength/Short.md:11
 msgid "Volatile fatty acids (VFA)"
 msgstr "летучие жирные кислоты"
 
-#: src/FattyAcids/Sum/ByChainLength/Short.md:16
+#: src/FattyAcids/Sum/ByChainLength/Short.md:15
 msgid ""
 "Represents a sub-group of fatty acids with aliphatic tails of fewer than six "
 "carbon atoms (e.g., acetic acid C2:0, propionic acid C3:0, butyric acid "
@@ -1723,7 +1779,7 @@ msgstr ""
 "менее шести атомов углерода (например, уксусная кислота C2:0, пропионовая "
 "кислота C3:0, масляная кислота C4:0)."
 
-#: src/FattyAcids/Sum/ByChainLength/Short.md:20
+#: src/FattyAcids/Sum/ByChainLength/Short.md:19
 msgid ""
 "In human nutrition, SCFAs are primarily produced in the lower gut by "
 "anaerobic bacterial fermentation of indigestible dietary fibers and "
@@ -1743,7 +1799,7 @@ msgstr ""
 "метаболическом здоровье (улучшая чувствительность к инсулину и регулируя "
 "аппетит)."
 
-#: src/FattyAcids/Sum/ByChainLength/Short.md:24
+#: src/FattyAcids/Sum/ByChainLength/Short.md:23
 msgid ""
 "In fuel applications, SCFAs are generally not used for standard biodiesel "
 "production. Their corresponding methyl esters are highly volatile, which "
@@ -1762,21 +1818,25 @@ msgstr ""
 "(очень низкие температуры плавления), их летучесть и низкая молекулярная "
 "масса делают их непригодными для обычных дизельных двигателей."
 
-#: src/FattyAcids/Sum/ByChainLength/Short.md:28
+#: src/FattyAcids/Sum/ByChainLength/Short.md:27
 msgid ""
 "[Wong _et al._, 2006](https://doi.org/10.1097/00004836-200603000-00015 "
 "\"Colonic health: fermentation and short chain fatty acids\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:8
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:3
+msgid "$$\\sum MCFA$$"
+msgstr "$$\\sum MCFA$$"
+
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:7
 msgid "MCFA"
 msgstr "СЦЖК"
 
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:12
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:11
 msgid "Medium-chain fats, Medium-chain triglycerides (MCT)"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:16
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:15
 msgid ""
 "Represents a sub-group of fatty acids with aliphatic tails of 6 to 12 carbon "
 "atoms (e.g., caproic acid C6:0, caprylic acid C8:0, capric acid C10:0, "
@@ -1786,7 +1846,7 @@ msgstr ""
 "12 атомов углерода (например, капроновая кислота C6:0, каприловая кислота "
 "C8:0, каприновая кислота C10:0, лауриновая кислота C12:0)."
 
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:20
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:19
 msgid ""
 "In human nutrition, MCFAs are metabolized differently than long-chain fatty "
 "acids. Instead of being transported through the lymphatic system, they are "
@@ -1809,7 +1869,7 @@ msgstr ""
 "также проявление мощных антимикробных и противовирусных свойств (особенно "
 "лауриновая кислота и её производные)."
 
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:24
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:23
 msgid ""
 "In fuel applications, MCFAs offer a unique compromise of properties. Because "
 "they are typically saturated, they provide excellent oxidation stability "
@@ -1835,7 +1895,7 @@ msgstr ""
 "(такие как кокосовое и пальмоядровое), высоко ценятся для купажирования с "
 "целью улучшения низкотемпературных свойств биодизеля."
 
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:28
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:27
 #: src/Triacylglycerols/index.md:3
 msgid ""
 "[St-Onge _et al._, 2002](https://doi.org/10.1093/jn/132.3.329 "
@@ -1843,21 +1903,25 @@ msgid ""
 "the prevention of obesity\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByChainLength/Medium.md:30
+#: src/FattyAcids/Sum/ByChainLength/Medium.md:29
 msgid ""
 "[Jadhav _et al._, 2022](https://doi.org/10.1007/s13197-022-05499-w "
 "\"Triglycerides of medium-chain fatty acids: a concise review\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByChainLength/Long.md:8
+#: src/FattyAcids/Sum/ByChainLength/Long.md:3
+msgid "$$\\sum LCFA$$"
+msgstr "$$\\sum LCFA$$"
+
+#: src/FattyAcids/Sum/ByChainLength/Long.md:7
 msgid "LCFA"
 msgstr "ДЦЖК"
 
-#: src/FattyAcids/Sum/ByChainLength/Long.md:12
+#: src/FattyAcids/Sum/ByChainLength/Long.md:11
 msgid "Long-chain fats, Long-chain triglycerides (LCT)"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByChainLength/Long.md:16
+#: src/FattyAcids/Sum/ByChainLength/Long.md:15
 msgid ""
 "Represents a broad group of fatty acids with aliphatic tails of 13 to 21 "
 "carbon atoms. This group encompasses the vast majority of naturally "
@@ -1871,7 +1935,7 @@ msgstr ""
 "насыщенные (например, миристиновая C14:0, пальмитиновая C16:0, стеариновая "
 "C18:0) и ненасыщенные формы (например, олеиновая C18:1, линолевая C18:2)."
 
-#: src/FattyAcids/Sum/ByChainLength/Long.md:20
+#: src/FattyAcids/Sum/ByChainLength/Long.md:19
 msgid ""
 "In human nutrition, LCFAs are the primary source of dietary fat. Unlike "
 "short- and medium-chain fatty acids, LCFAs require bile salts for digestion "
@@ -1892,7 +1956,7 @@ msgstr ""
 "считаются полезными для сердца. Они необходимы для накопления энергии, "
 "выработки гормонов и формирования липидного бислоя клеточных мембран."
 
-#: src/FattyAcids/Sum/ByChainLength/Long.md:24
+#: src/FattyAcids/Sum/ByChainLength/Long.md:23
 msgid ""
 "In fuel applications, LCFAs are the standard building blocks of conventional "
 "biodiesel, as they make up the bulk of common feedstocks like soybean, "
@@ -1914,8 +1978,8 @@ msgstr ""
 "свойства, тогда как ненасыщенные LCFA улучшают характеристики в холодную "
 "погоду за счет снижения окислительной стабильности."
 
-#: src/FattyAcids/Sum/ByChainLength/Long.md:28
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:28
+#: src/FattyAcids/Sum/ByChainLength/Long.md:27
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:27
 msgid ""
 "[Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 "
 "\"Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in "
@@ -1923,15 +1987,19 @@ msgid ""
 "Controlled Trials\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:8
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:3
+msgid "$$\\sum VLCFA$$"
+msgstr "$$\\sum VLCFA$$"
+
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:7
 msgid "VLCFA"
 msgstr "ОДЦЖК"
 
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:12
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:11
 msgid "Very-long-chain fats"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:16
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:15
 msgid ""
 "Represents a sub-group of fatty acids with aliphatic tails of 22 or more "
 "carbon atoms (e.g., behenic acid C22:0, lignoceric acid C24:0, erucic acid "
@@ -1942,7 +2010,7 @@ msgstr ""
 "лигноцериновая кислота C24:0, эруковая кислота C22:1, докозагексаеновая "
 "кислота C22:6)."
 
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:20
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:19
 msgid ""
 "In human nutrition, VLCFAs are consumed in relatively small amounts compared "
 "to standard long-chain fatty acids. They are biologically unique because "
@@ -1971,7 +2039,7 @@ msgstr ""
 "с хорошим метаболическим здоровьем и сниженным риском сердечно-сосудистых "
 "заболеваний и диабета 2 типа."
 
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:24
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:23
 msgid ""
 "In fuel applications, the presence of VLCFAs significantly increases the "
 "kinematic viscosity and boiling point of the biodiesel, which can negatively "
@@ -1999,14 +2067,14 @@ msgstr ""
 "высокой вязкостью по сравнению с сырьем, в котором преобладают стандартные "
 "18-углеродные жирные кислоты."
 
-#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:28
+#: src/FattyAcids/Sum/ByChainLength/VeryLong.md:27
 msgid ""
 "[Wanders _et al._, 2010](https://doi.org/10.1016/j.ymgme.2004.08.016 "
 "\"Peroxisomes, lipid metabolism, and peroxisomal disorders\")"
 msgstr ""
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/index.md:4
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:8
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:7
 msgid "SFA"
 msgstr "НЖК"
 
@@ -2015,7 +2083,7 @@ msgid "exactly 0 unsaturated bounds"
 msgstr "ровно 0 неасыщенных связей"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/index.md:7
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:8
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:7
 msgid "MUFA"
 msgstr "МНЖК"
 
@@ -2024,7 +2092,7 @@ msgid "exactly 1 unsaturated bounds"
 msgstr "ровно 1 неасыщенная связь"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/index.md:10
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:8
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:7
 msgid "NUFA"
 msgstr ""
 
@@ -2045,7 +2113,7 @@ msgid "0 or more unsaturated bounds"
 msgstr "0 или более неасыщенных связей"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/index.md:17
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:8
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:7
 msgid "UFA"
 msgstr "ННЖК"
 
@@ -2054,7 +2122,7 @@ msgid "1 or more unsaturated bounds"
 msgstr "1 или более неасыщенных связей"
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/index.md:20
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:8
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:7
 msgid "PUFA"
 msgstr "ПНЖК"
 
@@ -2062,11 +2130,15 @@ msgstr "ПНЖК"
 msgid "2 or more unsaturated bounds"
 msgstr "2 или более неасыщенных связей"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:12
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:3
+msgid "$$\\sum SFA$$"
+msgstr "$$\\sum SFA$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:11
 msgid "Saturated Fats"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:16
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:15
 msgid ""
 "Represents the sum of all fatty acids that have no double bonds between the "
 "carbon molecules in their hydrocarbon chain (e.g., lauric C12:0, myristic "
@@ -2076,7 +2148,7 @@ msgstr ""
 "между молекулами углерода отсутствуют двойные связи (например, лауриновая "
 "C12:0, миристиновая C14:0, пальмитиновая C16:0, стеариновая C18:0)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:20
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:19
 msgid ""
 "In human nutrition, a high intake of certain saturated fatty acids "
 "(particularly myristic and palmitic acids) is widely associated with "
@@ -2092,7 +2164,7 @@ msgstr ""
 "жирные кислоты ведут себя одинаково (например, считается, что стеариновая "
 "кислота оказывает нейтральное влияние на уровень холестерина в крови)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:24
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:23
 msgid ""
 "In fuel applications, a higher proportion of saturated fatty acids "
 "significantly improves the cetane number (CN) and oxidation stability (OS). "
@@ -2106,22 +2178,26 @@ msgstr ""
 "температуру застывания (CFPP) и вызывая гелеобразование топлива при более "
 "высоких температурах."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:28
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:27
 msgid ""
 "[who.int](https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-"
 "fats-and-carbohydrates \"WHO updates guidelines on fats and carbohydrates\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:9
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:9
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:3
+msgid "$$\\sum MUFA$$"
+msgstr "$$\\sum MUFA$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:8
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:8
 msgid "1UFA"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:13
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:12
 msgid "Monounsaturated Fats, Monoenoic fatty acids"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:17
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:16
 msgid ""
 "Represents the sum of all fatty acids that contain exactly one double bond "
 "in their hydrocarbon chain (e.g., oleic acid C18:1, palmitoleic acid C16:1)."
@@ -2130,7 +2206,7 @@ msgstr ""
 "связь в своей углеводородной цепи (например, олеиновая кислота C18:1, "
 "пальмитолеиновая кислота C16:1)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:21
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:20
 msgid ""
 "In human nutrition, MUFAs are widely recognized as healthy dietary fats. "
 "Replacing saturated fats with MUFAs helps lower low-density lipoprotein "
@@ -2146,7 +2222,7 @@ msgstr ""
 "сосудистых заболеваний. Они также способствуют улучшению чувствительности к "
 "инсулину и снижению системного воспаления."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:25
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:24
 msgid ""
 "In fuel applications, MUFAs provide an optimal balance between cold flow "
 "properties and oxidation stability. Compared to saturated fatty acids, they "
@@ -2166,120 +2242,124 @@ msgstr ""
 "МНЖК (например, высокоолеиновые масла), считается наиболее предпочтительным "
 "для производства высококачественного биодизеля."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:10
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:3
+msgid "$$\\sum NUFA$$"
+msgstr "$$\\sum NUFA$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:9
 msgid "2UFA"
 msgstr "2ННЖК"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:11
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:10
 msgid "3UFA"
 msgstr "3ННЖК"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:12
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:11
 msgid "4UFA"
 msgstr "4ННЖК"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:13
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:12
 msgid "5UFA"
 msgstr "5ННЖК"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:14
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:13
 msgid "6UFA"
 msgstr "6ННЖК"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:15
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:14
 msgid "7UFA"
 msgstr "7ННЖК"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:16
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:15
 msgid "8UFA"
 msgstr "8ННЖК"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:17
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:16
 msgid "9UFA"
 msgstr "9ННЖК"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:18
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:42
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:17
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:41
 msgid "..."
 msgstr "..."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:23
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:22
 msgid "monoenoic fatty acids, if only double bonds are present"
 msgstr "моноены, если присутствуют только двойные связи"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:24
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:23
 msgid "Diunsaturated fatty acids"
 msgstr "Динеасыщенные жирные кислоты"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:25
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:24
 msgid "dienoic fatty acids, if only double bonds are present"
 msgstr "диены, если присутствуют только двойные связи"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:26
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:25
 msgid "Triunsaturated fatty acids"
 msgstr "Тринеасыщенные жирные кислоты"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:27
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:26
 msgid "trienoic fatty acids, if only double bonds are present"
 msgstr "триены, если присутствуют только двойные связи"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:28
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:27
 msgid "Tetraunsaturated fatty acids"
 msgstr "Тетранеасыщенные жирные кислоты"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:29
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:28
 msgid "tetraenoic fatty acids, if only double bonds are present"
 msgstr "тетраены, если присутствуют только двойные связи"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:30
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:29
 msgid "Pentaunsaturated fatty acids"
 msgstr "Пентанеасыщенные жирные кислоты"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:31
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:30
 msgid "pentaenoic fatty acids, if only double bonds are present"
 msgstr "пентаены, если присутствуют только двойные связи"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:32
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:31
 msgid "Hexaunsaturated fatty acids"
 msgstr "Гексанеасыщенные жирные кислоты"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:33
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:32
 msgid "hexaenoic fatty acids, if only double bonds are present"
 msgstr "гексаены, если присутствуют только двойные связи"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:34
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:33
 msgid "Heptaunsaturated fatty acids"
 msgstr "Гептанеасыщенные жирные кислоты"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:35
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:34
 msgid "heptaenoic fatty acids, if only double bonds are present"
 msgstr "гептаены, если присутствуют только двойные связи"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:36
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:35
 msgid "Octaunsaturated fatty acids"
 msgstr "Октанеасыщенные жирные кислоты"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:37
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:36
 msgid "octaenoic fatty acids, if only double bonds are present"
 msgstr "октаены, если присутствуют только двойные связи"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:38
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:37
 msgid "Nonaunsaturated fatty acids"
 msgstr "Нонанеасыщенные жирные кислоты"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:39
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:38
 msgid "nonaenoic fatty acids, if only double bonds are present"
 msgstr "нонаены, если присутствуют только двойные связи"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:40
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:39
 msgid "Decaunsaturated fatty acids"
 msgstr "Деканеасыщенные жирные кислоты"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:41
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:40
 msgid "decaenoic fatty acids, if only double bonds are present"
 msgstr "декаены, если присутствуют только двойные связи"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:46
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:45
 msgid ""
 "Represents the sum of all fatty acids that contain exactly N unsaturated "
 "bond in their hydrocarbon chain."
@@ -2287,11 +2367,15 @@ msgstr ""
 "Представляет собой сумму всех жирных кислот, содержащих ровно N двойных "
 "связей в своей углеводородной цепи."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:12
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:3
+msgid "$$\\sum PUFA$$"
+msgstr "$$\\sum PUFA$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:11
 msgid "Polyunsaturated Fats, Polyenoic fatty acids"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:16
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:15
 msgid ""
 "Represents the sum of all fatty acids that contain two or more double bonds "
 "in their hydrocarbon chain (e.g., linoleic acid C18:2, α-linolenic acid "
@@ -2301,7 +2385,7 @@ msgstr ""
 "двойных связей в своей углеводородной цепи (например, линолевая кислота "
 "C18:2, α-линоленовая кислота C18:3, ЭПК, ДГК)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:20
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:19
 msgid ""
 "In human nutrition, PUFAs are essential fats, meaning the body cannot "
 "synthesize them and they must be obtained through diet (primarily omega -3 "
@@ -2319,7 +2403,7 @@ msgstr ""
 "болезни сердца. Однако для оптимального здоровья важно поддерживать "
 "правильный баланс между потреблением омега -6 и омега -3."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:24
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:23
 msgid ""
 "In fuel applications, a high PUFA content is generally undesirable for fuel "
 "stability. The multiple double bonds are highly reactive, making the "
@@ -2338,11 +2422,15 @@ msgstr ""
 "значительно улучшает характеристики топлива в холодную погоду за счет "
 "снижения предельной температуры фильтруемости (CFPP)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:12
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:3
+msgid "$$\\sum UFA$$"
+msgstr "$$\\sum UFA$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:11
 msgid "Unsaturated Fats"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:16
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:15
 msgid ""
 "Represents the sum of all fatty acids that contain at least one double bond "
 "in their hydrocarbon chain (the sum of monounsaturated and polyunsaturated "
@@ -2352,7 +2440,7 @@ msgstr ""
 "связь в своей углеводородной цепи (сумма мононенасыщенных и полиненасыщенных "
 "жирных кислот)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:20
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:19
 msgid ""
 "In human nutrition, unsaturated fats are generally considered beneficial for "
 "heart health. Replacing saturated fats with unsaturated fats in the diet "
@@ -2364,7 +2452,7 @@ msgstr ""
 "снизить уровень общего холестерина и холестерина липопротеинов низкой "
 "плотности (ЛПНП), тем самым снижая риск сердечно-сосудистых заболеваний."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:24
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:23
 msgid ""
 "In fuel applications, a higher proportion of unsaturated fatty acids "
 "significantly improves cold flow properties, lowering the cold filter "
@@ -2382,7 +2470,7 @@ msgstr ""
 "правило, снижает цетановое число (CN), что влияет на качество воспламенения. "
 "Общее влияние зависит от конкретной степени ненасыщенности (DU)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:28
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:27
 msgid ""
 "[Mensink _et al._, 2003](https://doi.org/10.1093/ajcn/77.5.1146 \"Effects of "
 "dietary fatty acids and carbohydrates on the ratio of serum total to HDL "
@@ -2390,7 +2478,11 @@ msgid ""
 "controlled trials\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:15
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:3
+msgid "$$\\sum UFA\\[\\\\Delta9\\]$$"
+msgstr "$$\\sum UFA\\[\\\\Delta9\\]$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:14
 msgid ""
 "Represents a broad class of unsaturated fatty acids that contain a double "
 "bond at the 9th carbon from the carboxyl end. This is the most common "
@@ -2400,7 +2492,7 @@ msgid ""
 "($C16:1\\[\\\\Delta9\\]$) and others."
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:19
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:18
 msgid ""
 "Delta 9 monounsaturated fatty acids are widely recognized for their "
 "cardiovascular benefits. They help lower LDL cholesterol, improve insulin "
@@ -2415,7 +2507,7 @@ msgstr ""
 "в положении дельта 9, они не считаются незаменимыми, но крайне полезны при "
 "замене насыщенных жиров в рационе."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:23
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:22
 msgid ""
 "Feedstocks rich in delta 9 monounsaturated fatty acids (such as high-oleic "
 "sunflower or canola oil) are considered the gold standard for biodiesel "
@@ -2430,13 +2522,17 @@ msgstr ""
 "окислительной стабильностью (OS), сохраняя при этом хорошее цетановое число "
 "(CN)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:27
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:26
 msgid ""
 "[Ntambi _et al._, 2004](https://doi.org/10.1016/j.plipres.2003.10.001 \"Role "
 "of stearoyl-CoA desaturase in lipid metabolism\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:15
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:3
+msgid "$$\\sum UFA\\[\\\\Delta12\\]$$"
+msgstr "$$\\sum UFA\\[\\\\Delta12\\]$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:14
 msgid ""
 "Represents unsaturated fatty acids that contain a double bond at the 12th "
 "carbon from the carboxyl end. The most prominent and abundant example in "
@@ -2448,7 +2544,7 @@ msgstr ""
 "распространенным в природе примером является линолевая кислота ($C18:2\\[\\"
 "\\Delta9,12\\]$), которая также является основной омега -6 жирной кислотой."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:19
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:18
 msgid ""
 "Mammals, including humans, lack the $\\Delta12$-desaturase enzyme required "
 "to insert a double bond at this specific position. As a result, delta 12 "
@@ -2465,7 +2561,7 @@ msgstr ""
 "барьерной функции кожи и служат предшественниками биологически активных "
 "сигнальных молекул (эйкозаноидов)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:23
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:22
 msgid ""
 "Because delta 12 fatty acids in nature are almost exclusively "
 "polyunsaturated (typically dienes or trienes, as the delta 12 bond usually "
@@ -2484,14 +2580,18 @@ msgstr ""
 "(низкая окислительная стабильность, OS) и снижают цетановое число (CN), что "
 "негативно сказывается на качестве воспламенения."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:27
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:26
 msgid ""
 "[Okuley _et al._, 1994](https://doi.org/10.1105/tpc.6.1.147 \"Arabidopsis "
 "FAD2 gene encodes the enzyme that is essential for polyunsaturated lipid "
 "synthesis\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:15
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:3
+msgid "$$\\sum UFA\\[\\\\omega-3\\]$$"
+msgstr "$$\\sum UFA\\[\\\\omega-3\\]$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:14
 msgid ""
 "Represents a family of polyunsaturated fatty acids characterized by the "
 "presence of a double bond three atoms away from the terminal methyl group in "
@@ -2505,7 +2605,7 @@ msgstr ""
 "являются альфа-линоленовая кислота (АЛК, C18:3), эйкозапентаеновая кислота "
 "(ЭПК, C20:5) и докозагексаеновая кислота (ДГК, C22:6)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:19
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:18
 msgid ""
 "Omega -3 fatty acids are essential fats that the body cannot produce on its "
 "own (specifically ALA, from which EPA and DHA are synthesized in limited "
@@ -2524,7 +2624,7 @@ msgstr ""
 "также критически важны для здоровья мозга, когнитивных функций и развития "
 "плода."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:23
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:22
 msgid ""
 "Due to their high degree of polyunsaturation, omega -3 fatty acids present "
 "significant challenges for biodiesel production. While they drastically "
@@ -2548,7 +2648,11 @@ msgstr ""
 "добавления антиоксидантов для использования в качестве стандартного "
 "биодизеля."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:15
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:3
+msgid "$$\\sum UFA\\[\\\\omega-6\\]$$"
+msgstr "$$\\sum UFA\\[\\\\omega-6\\]$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:14
 msgid ""
 "Represents a family of polyunsaturated fatty acids that have their final "
 "carbon-carbon double bond in the omega -6 position (the sixth bond from the "
@@ -2561,7 +2665,7 @@ msgstr ""
 "распространенной пищевой омега -6 жирной кислотой является линолевая кислота "
 "(C18:2)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:19
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:18
 msgid ""
 "Omega -6 fatty acids are essential fats, meaning the human body cannot "
 "synthesize them and they must be obtained through diet. They play a crucial "
@@ -2583,7 +2687,7 @@ msgstr ""
 "сбалансированного соотношения омега -6 и омега -3 жизненно важно для "
 "оптимального здоровья."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:23
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:22
 msgid ""
 "Because omega -6 fatty acids are polyunsaturated, their presence in "
 "biodiesel feedstocks presents a trade-off. On the positive side, they "
@@ -2602,13 +2706,17 @@ msgstr ""
 "снижают цетановое число (CN), что негативно сказывается на качестве "
 "воспламенения."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:27
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:26
 msgid ""
 "[Simopoulos _et al._, 2002](https://doi.org/10.1016/S0753-3322(02)00253-6 "
 "\"The importance of the ratio of omega-6/omega-3 essential fatty acids\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:15
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:3
+msgid "$$\\sum UFA\\[\\\\omega-9\\]$$"
+msgstr "$$\\sum UFA\\[\\\\omega-9\\]$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:14
 msgid ""
 "Represents a family of unsaturated fatty acids that have a final carbon-"
 "carbon double bond in the omega -9 position (the ninth bond from the methyl "
@@ -2620,7 +2728,7 @@ msgstr ""
 "связь от метильного конца цепи жирной кислоты). Наиболее распространенной "
 "омега -9 жирной кислотой является олеиновая кислота ($C18:1$)."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:19
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:18
 msgid ""
 "Unlike omega -3 and omega -6, omega -9 fatty acids are non-essential because "
 "the human body can synthesize them from other unsaturated fats. However, "
@@ -2640,7 +2748,7 @@ msgstr ""
 "модулировать воспалительную реакцию организма и улучшают чувствительность к "
 "инсулину."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:23
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:22
 msgid ""
 "Because omega -9 fatty acids are predominantly monounsaturated (e.g., oleic "
 "acid), feedstocks rich in them are highly desirable for biodiesel "
@@ -2657,7 +2765,7 @@ msgstr ""
 "(устойчивостью к деградации с течением времени), сохраняя при этом хорошее "
 "цетановое число (CN) для эффективного воспламенения."
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:28
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:27
 msgid ""
 "[Mohamed _et al._, 2022](https://doi.org/10.1186/s43141-022-00329-0 "
 "\"Omega-9 fatty acids: potential roles in inflammation and cancer "
@@ -2665,22 +2773,26 @@ msgid ""
 msgstr ""
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/index.md:4
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:8
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:7
 msgid "TFA"
 msgstr "ТЖК"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:12
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:3
+msgid "$$\\sum TFA$$"
+msgstr "$$\\sum TFA$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:11
 msgid "Trans fats, Trans-unsaturated fatty acids"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:16
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:15
 msgid ""
 "Represents unsaturated fatty acids that contain at least one double bond in "
 "the _trans_ configuration, resulting in a straighter hydrocarbon chain "
 "compared to the bent _cis_ configuration."
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:20
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:19
 msgid ""
 "In human nutrition, artificial trans fats (often created through the partial "
 "hydrogenation of vegetable oils) are widely recognized as highly detrimental "
@@ -2693,7 +2805,7 @@ msgid ""
 "though generally less harmful, health impact."
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:24
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:23
 msgid ""
 "In fuel applications, the straight-chain structure of trans fatty acids "
 "makes their physical properties more similar to saturated fats than to cis-"
@@ -2706,7 +2818,7 @@ msgid ""
 "operability."
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:28
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:27
 msgid ""
 "[Mozaffarian _et al._, 2006](https://doi.org/10.1056/NEJMra054035 \"Trans "
 "Fatty Acids and Cardiovascular Disease\")"
@@ -2714,62 +2826,66 @@ msgstr ""
 "[Mozaffarian _et al._, 2006](https://doi.org/10.1056/NEJMra054035 \"Trans "
 "Fatty Acids and Cardiovascular Disease\")"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:31
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:30
 msgid ""
 "[Paiva _et al._, 2016](https://doi.org/10.1016/j.foodres.2016.08.007 \"Paiva "
 "(2016)\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:32
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:31
 msgid ""
 "[Farajzadeh Alan _et al._, 2019](https://doi.org/10.1002/fsn3.1231 "
 "\"Farajzadeh Alan (2019)\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:33
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:32
 msgid ""
 "[Filip _et al._, 2011](https://doi.org/10.1002/ejlt.200900231 \"Filip "
 "(2011)\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:34
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:33
 msgid ""
 "[Mishra _et al._, 2014](https://doi.org/10.1007/s13197-011-0602-y \"Mishra "
 "(2014)\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:35
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:34
 msgid ""
 "[Skałecki _et al._, 2020](https://doi.org/10.3390/ani10050778 \"Skałecki "
 "(2020)\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:36
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:35
 msgid ""
 "[Brogna _et al._, 2011](https://doi.org/10.1017/S1751731111000048 \"Brogna "
 "(2011)\")"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:37
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByParity/Trans.md:36
 msgid ""
 "[Ivanova _et al._, 2017](https://doi.org/10.11648/j.mc.20170506.11 \"Ivanova "
 "(2017)\")"
 msgstr ""
 
 #: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/index.md:4
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:8
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:7
 msgid "CFA"
 msgstr "СЖК"
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:9
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:3
+msgid "$$\\sum CFA$$"
+msgstr "$$\\sum CFA$$"
+
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:8
 msgid "CLA (for Conjugated Linoleic Acid)"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:13
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:12
 msgid "Conjugated fats"
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:17
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:16
 msgid ""
 "Represents polyunsaturated fatty acids in which at least one pair of double "
 "bonds is separated by only one single bond (a conjugated diene/triene "
@@ -2777,7 +2893,7 @@ msgid ""
 "widely studied is conjugated linoleic acid (CLA, C18:2)."
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:21
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:20
 msgid ""
 "CFAs, particularly CLAs, are primarily found in the meat and dairy products "
 "of ruminant animals. They have been extensively studied for their potential "
@@ -2787,7 +2903,7 @@ msgid ""
 "sometimes mixed compared to animal models)."
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:25
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:24
 msgid ""
 "The presence of conjugated double bonds makes these fatty acids highly "
 "reactive. In fuel applications, this is generally highly undesirable. While "
@@ -2798,7 +2914,7 @@ msgid ""
 "tung oil) are typically avoided for standard biodiesel production."
 msgstr ""
 
-#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:29
+#: src/FattyAcids/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:28
 msgid ""
 "[Bhattacharya _et al._, 2006](https://doi.org/10.1016/j.jnutbio.2006.02.009 "
 "\"Biological effects of conjugated linoleic acids in health and disease\")"
@@ -2842,7 +2958,7 @@ msgstr ""
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:3
 msgid "$$CN = -0.1209 * DU + 65.0958$$"
-msgstr ""
+msgstr "$$CN = -0.1209 * DU + 65.0958$$"
 
 #: src/FattyAcids/Ratio/Biodiesel/CetaneNumber.md:7
 msgid "CN"
@@ -2957,7 +3073,7 @@ msgstr ""
 
 #: src/FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md:3
 msgid "$$DU = 1-UFA + 2 * 2-UFA + 3 * 3-UFA + 4 * 4-UFA$$"
-msgstr ""
+msgstr "$$DU = 1-UFA + 2 * 2-UFA + 3 * 3-UFA + 4 * 4-UFA$$"
 
 #: src/FattyAcids/Ratio/Biodiesel/DegreeOfUnsaturation.md:7
 msgid "DU"
@@ -2974,7 +3090,7 @@ msgstr ""
 
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:3
 msgid "$$IV = 0.6683 * DU + 25.0364$$"
-msgstr ""
+msgstr "$$IV = 0.6683 * DU + 25.0364$$"
 
 #: src/FattyAcids/Ratio/Biodiesel/IodineValue.md:7
 msgid "IV"
@@ -3007,7 +3123,7 @@ msgstr ""
 
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:3
 msgid "$$OS = -0.0384 * DU + 7.770$$"
-msgstr ""
+msgstr "$$OS = -0.0384 * DU + 7.770$$"
 
 #: src/FattyAcids/Ratio/Biodiesel/OxidationStability.md:7
 msgid "OS"
@@ -3049,27 +3165,38 @@ msgstr ""
 msgid "`metabolic`"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:11
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:5
+msgid ""
+"$$\\frac{C18:1\\[\\\\omega-9\\]}{C18:0 + C18:1\\[\\\\omega-9\\]} \\tag{1}$$"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:7
+msgid ""
+"$$\\frac{C16:1\\[\\\\omega-7\\] + C18:1\\[\\\\omega-9\\]}{C16:0 + C18:0 + "
+"C16:1\\[\\\\omega-7\\] + C18:1\\[\\\\omega-9\\]} \\tag{2}$$"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:9
 msgid ""
 "\\[!NOTE\\] There are different versions of this index calculation. The "
 "first version calculates only the conversion from $C18:0$ to $C18:1$, while "
 "the second calculates the total conversion of $C16:0$ and $C18:0$."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:16
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:14
 msgid "$\\Delta 9$-desaturase"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:17
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:15
 msgid "$\\Delta 9$-DI"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:21
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:19
 #, fuzzy
 msgid "Delta 9 desaturase"
 msgstr "Дельта 9 жирные кислоты"
 
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:25
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:23
 msgid ""
 "Represents the estimated activity of the delta 9 desaturase enzyme (also "
 "known as stearoyl-CoA desaturase) in tissues, calculated using the product/"
@@ -3080,7 +3207,7 @@ msgid ""
 "oleic acid ($C18:1\\[\\\\omega-9\\]$)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:27
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:25
 msgid ""
 "This is a metabolic indicator used to evaluate the endogenous synthesis of "
 "monounsaturated fatty acids from saturated precursors. It is widely used in "
@@ -3091,29 +3218,29 @@ msgid ""
 "laboratory."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:31
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:29
 msgid ""
 "[Vessby _et al._, 2002](https://doi.org/10.1111/j.1749-6632.2002.tb04275.x "
 "\"Desaturation and elongation of fatty acids and insulin action\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:32
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:24
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:24
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:30
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:23
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:23
 msgid ""
 "[Zhang _et al._, 2007](https://doi.org/10.2527/jas.2006-239 \"Effects of "
 "breed, sex, and halothane genotype on fatty acid composition of pork "
 "longissimus muscle\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:33
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:34
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:25
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:25
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:25
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:29
-#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:24
-#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:22
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:31
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:32
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:24
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:24
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:24
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:28
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:22
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:20
 msgid ""
 "[Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 \"Indexing of "
 "Fatty Acids in Poultry Meat for Its Characterization in Healthy Human "
@@ -3121,28 +3248,32 @@ msgid ""
 "Proposals\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:35
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:26
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:26
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:26
-#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:28
-#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:25
-#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:22
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:27
+#: src/FattyAcids/Ratio/Metabolic/Delta9DesaturaseIndex.md:33
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:25
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:25
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:25
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:26
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:23
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:21
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:26
 msgid ""
 "[Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 \"A Fatty acid "
 "profile and THE Health Lipid Indices in Table Eggs\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:10
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:5
+msgid "$$\\frac{C18:0}{C16:0}$$"
+msgstr "$$\\frac{C18:0}{C16:0}$$"
+
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:9
 msgid "EI"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:14
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:13
 msgid "Elongase"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:18
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:17
 msgid ""
 "Represents the elongase index, which is used to estimate the activity of "
 "elongase enzymes in tissues (such as muscle or egg yolk) using the product/"
@@ -3150,7 +3281,7 @@ msgid ""
 "palmitic acid ($C16:0$) to stearic acid ($C18:0$)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:20
+#: src/FattyAcids/Ratio/Metabolic/ElongaseIndex.md:19
 msgid ""
 "Unlike nutritional indices (such as AI or HPI), the elongase index is "
 "primarily a metabolic indicator. It was developed to identify and evaluate "
@@ -3163,15 +3294,19 @@ msgid ""
 "expensive laboratory analyses."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:10
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:5
+msgid "$$\\frac{\\sum PUFA\\[\\\\omega-3\\]}{C18:3\\[\\\\omega-3\\]}$$"
+msgstr "$$\\frac{\\sum PUFA\\[\\\\omega-3\\]}{C18:3\\[\\\\omega-3\\]}$$"
+
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:9
 msgid "KAI"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:14
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:13
 msgid "Activity index"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:18
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:17
 msgid ""
 "Represents the activity index (also referred to as the kinetic activity "
 "index, KAI), which is based on the indirect evaluation of $\\beta$-oxidation "
@@ -3180,7 +3315,7 @@ msgid ""
 "\\omega-3\\]$) to $\\alpha$-linolenic acid (ALA, $C18:3\\[\\\\omega-3\\]$)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:20
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:19
 msgid ""
 "This index is a metabolic indicator that describes the mobilization of n-3 "
 "long-chain PUFAs used for energy production (i.e., movement) and the "
@@ -3193,21 +3328,25 @@ msgid ""
 "animal's life and can be used for _ex post_ animal welfare assessment."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:24
+#: src/FattyAcids/Ratio/Metabolic/KineticActivityIndex.md:23
 msgid ""
 "[Failla _et al._, 2021](https://doi.org/10.1016/j.psj.2021.101279 \"An index "
 "to measure the activity attitude of broilers in extensive system\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:10
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:5
+msgid "$$\\frac{C16:0}{C14:0}$$"
+msgstr "$$\\frac{C16:0}{C14:0}$$"
+
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:9
 msgid "THI"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:14
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:13
 msgid "Thioesterase"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:18
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:17
 msgid ""
 "Represents the thioesterase index, which is used to estimate the activity of "
 "the thioesterase enzyme in tissues using the product/substrate ratio "
@@ -3217,7 +3356,7 @@ msgid ""
 "fatty acid."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:20
+#: src/FattyAcids/Ratio/Metabolic/ThioesteraseIndex.md:19
 msgid ""
 "Like the elongase index, the thioesterase index is a metabolic indicator "
 "rather than a direct measure of human nutritional quality. It is "
@@ -3272,24 +3411,31 @@ msgstr ""
 msgid "`nutritional`"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:12
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:5
+msgid ""
+"$$\\frac{C12:0 + 4 \\cdot C14:0 + C16:0}{\\sum MUFA + \\sum PUFA\\[\\"
+"\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}$$ $$\\frac{C12:0 + 4 \\cdot "
+"C14:0 + C16:0}{\\sum UFA}$$"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:10
 msgid "AI"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:13
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:11
 #: src/FattyAcids/Ratio/Intraposition/index.md:12
-#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:8
+#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:7
 msgid "IA"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:21
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:19
 msgid ""
 "Represents the atherogenic index, which indicates the relationship between "
 "the main saturated fatty acids (which have a pro-atherogenic effect) and "
 "unsaturated fatty acids (which have an anti-atherogenic effect)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:23
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:21
 msgid ""
 "From a human health perspective, the AI value should be as low as possible. "
 "This index evaluates the risk of cardiovascular diseases by comparing fatty "
@@ -3301,26 +3447,31 @@ msgid ""
 "low-density lipoprotein (LDL) cholesterol in human plasma."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:27
-#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:25
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:25
+#: src/FattyAcids/Ratio/Nutritional/AtherogenicIndex.md:25
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:24
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:24
 msgid ""
 "[Ulbricht _et al._, 1991](https://doi.org/10.1016/0140-6736(91)91846-M "
 "\"Coronary heart disease: seven dietary factors\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:10
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:5
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:3
+msgid "$$\\frac{C20:5\\[\\\\omega-3\\] + C22:6\\[\\\\omega-3\\]}{\\sum FA}$$"
+msgstr "$$\\frac{C20:5\\[\\\\omega-3\\] + C22:6\\[\\\\omega-3\\]}{\\sum FA}$$"
+
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:9
 #: src/FattyAcids/Ratio/Intraposition/index.md:6
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:8
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:7
 msgid "FLQ"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:14
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:12
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:13
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:11
 msgid "Flesh lipid quality"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:18
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:17
 msgid ""
 "Represents the fish/flesh lipid quality index, originally used to assess the "
 "lipid quality of fish or flesh. It evaluates the proportion of the two most "
@@ -3329,7 +3480,7 @@ msgid ""
 "acid (DHA, $C22:6\\[\\\\omega-3\\]$)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:20
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:19
 msgid ""
 "From a human health perspective, a higher FLQ value is more desirable. EPA "
 "and DHA play essential roles in biological processes, including reducing the "
@@ -3340,48 +3491,55 @@ msgid ""
 "fraction."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:24
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:23
 msgid ""
 "[Abrami _et al._, 1992](https://doi.org/10.1016/0305-0491(92)90161-J \"A "
 "comparison of highly unsaturated fatty acid levels in wild and farmed eels "
 "(Anguilla Anguilla)\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:25
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:24
 msgid ""
 "[Krajnović-Ozretic _et al._, 1994](https://doi."
 "org/10.1016/0300-9629(94)90200-3 \"Fatty acids in liver and muscle of farmed "
 "and wild sea bass (Dicentrarchus labrax L.)\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:26
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:25
 msgid ""
 "[Łuczyńska _et al._, 2019](https://doi.org/10.3390/ijerph16193780 \"Health "
 "Risk Assessment of Heavy Metals and Lipid Quality Indexes in Freshwater Fish "
 "from Lakes of Warmia and Mazury Region, Poland\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:27
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:26
 msgid ""
 "[Senso _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.036 \"On "
 "the possible effects of harvesting season and chilled storage on the fatty "
 "acid profile of the fillet of farmed gilthead sea bream (Sparus aurata)\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:28
-#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:23
+#: src/FattyAcids/Ratio/Nutritional/FishLipidQuality.md:27
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:21
 msgid ""
 "[Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional "
 "Indices for Assessing Fatty Acids: A Mini-Review\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:12
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:5
+msgid ""
+"$$\\frac{\\sum UFA}{C12:0 + 4 \\cdot C14:0 + C16:0} \\tag{1}$$ $$"
+"\\frac{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\"
+"\\omega-3\\]}{C12:0 + 4 \\cdot C14:0 + C16:0} \\tag{2}$$"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:10
 #: src/FattyAcids/Ratio/Intraposition/index.md:8
-#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:8
+#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:7
 msgid "HPI"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:16
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:14
 msgid ""
 "Represents the health-promoting index, which was proposed to assess the "
 "nutritional value of dietary fat, with particular emphasis on the effects of "
@@ -3389,7 +3547,7 @@ msgid ""
 "inverse of the index of atherogenicity (IA)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:18
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:16
 msgid ""
 "From a human health perspective, the HPI value should be as high as "
 "possible. This index evaluates the risk of cardiovascular diseases by "
@@ -3401,18 +3559,25 @@ msgid ""
 "diseases and is assumed to be more beneficial to human health."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:22
+#: src/FattyAcids/Ratio/Nutritional/HealthPromotingIndex.md:20
 msgid ""
 "[Chen _et al._, 2004](https://doi.org/10.1021/jf035193z \"Physical and "
 "sensory properties of dairy products from cows with various milk fatty acid "
 "compositions\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:12
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:5
+msgid ""
+"$$\\frac{C18:1\\[\\\\omega-9\\] + \\sum PUFA\\[\\\\omega-6\\] + \\sum "
+"PUFA\\[\\\\omega-9\\]}{C12:0 + C14:0 + C16:0}$$ $$\\frac{C18:1\\[\\"
+"\\omega-9\\] + \\sum PUFA}{C12:0 + C14:0 + C16:0}$$"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:10
 msgid "HHI"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:16
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:14
 msgid ""
 "Represents the hypocholesterolemic/hypercholesterolemic index, which "
 "evaluates the specific effect of fatty acids on cholesterol metabolism. It "
@@ -3422,7 +3587,7 @@ msgid ""
 "lauric $C12:0$, myristic $C14:0$, and palmitic $C16:0$ acids)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:18
+#: src/FattyAcids/Ratio/Nutritional/HypocholesterolemicToHypercholesterolemicIndex.md:16
 msgid ""
 "From a nutritional point of view, **high** HHI values are highly desirable. "
 "Unlike the atherogenic (AI) and thrombogenic (TI) indices where lower values "
@@ -3433,11 +3598,15 @@ msgid ""
 "protective role against cardiovascular diseases."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:10
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:5
+msgid "$$\\frac{C18:0 + C18:1\\[\\\\omega-9\\]}{C16:0}$$"
+msgstr "$$\\frac{C18:0 + C18:1\\[\\\\omega-9\\]}{C16:0}$$"
+
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:9
 msgid "NVI"
 msgstr "NVI"
 
-#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:14
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:13
 msgid ""
 "Represents the nutritional value index, a metric developed to evaluate the "
 "nutritional quality of lipids, particularly in foods of animal origin where "
@@ -3446,7 +3615,7 @@ msgid ""
 "\\omega-9\\]$) to palmitic acid ($C16:0$)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:16
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:15
 msgid ""
 "From a human health perspective, a higher NVI value is considered more "
 "favorable. Palmitic acid ($C16:0$) is known to be atherogenic and is "
@@ -3458,37 +3627,41 @@ msgid ""
 "atherogenic palmitic acid indicates a healthier lipid profile."
 msgstr ""
 
+#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:19
+msgid ""
+"[Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in "
+"Physicochemical and Nutritional Properties of Breast and Thigh Meat from "
+"Crossbred Chickens, Commercial Broilers, and Spent Hens\")"
+msgstr ""
+"[Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in "
+"Physicochemical and Nutritional Properties of Breast and Thigh Meat from "
+"Crossbred Chickens, Commercial Broilers, and Spent Hens\")"
+
 #: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:20
 msgid ""
-"[Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in "
-"Physicochemical and Nutritional Properties of Breast and Thigh Meat from "
-"Crossbred Chickens, Commercial Broilers, and Spent Hens\")"
-msgstr ""
-"[Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in "
-"Physicochemical and Nutritional Properties of Breast and Thigh Meat from "
-"Crossbred Chickens, Commercial Broilers, and Spent Hens\")"
-
-#: src/FattyAcids/Ratio/Nutritional/NutritionalValueIndex.md:21
-msgid ""
 "[Banskalieva _et al._, 2000](https://doi.org/10.1016/s0921-4488(00)00128-0 "
 "\"Fatty acid composition of goat muscles and fat depots: a review\")"
 msgstr ""
 "[Banskalieva _et al._, 2000](https://doi.org/10.1016/s0921-4488(00)00128-0 "
 "\"Fatty acid composition of goat muscles and fat depots: a review\")"
 
-#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:10
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:5
+msgid "$$\\frac{C14:0 + C16:0 + C18:0}{\\sum MUFA + \\sum PUFA}$$"
+msgstr "$$\\frac{C14:0 + C16:0 + C18:0}{\\sum MUFA + \\sum PUFA}$$"
+
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:9
 msgid "SI"
 msgstr "SI"
 
-#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:11
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:10
 msgid "IS"
 msgstr "IS"
 
-#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:15
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:14
 msgid "Index of saturation"
 msgstr "Индекс насыщения"
 
-#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:19
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:18
 msgid ""
 "Represents the saturation index, which evaluates the relationship between "
 "specific saturated fatty acids (myristic C14:0, palmitic C16:0, and stearic "
@@ -3496,7 +3669,7 @@ msgid ""
 "and polyunsaturated)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:21
+#: src/FattyAcids/Ratio/Nutritional/SaturationIndex.md:20
 msgid ""
 "From a nutritional point of view, the SI value should be as low as possible. "
 "This index serves as a straightforward indicator of the overall saturation "
@@ -3507,24 +3680,32 @@ msgid ""
 "cardiovascular health and reduce the risk of related diseases."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:10
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:5
+#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:3
+msgid ""
+"$$\\frac{C14:0 + C16:0 + C18:0}{0.5 \\cdot \\sum MUFA + 0.5 \\cdot \\sum "
+"PUFA\\[\\\\omega-6\\] + 3 \\cdot \\sum PUFA\\[\\\\omega-3\\] + \\frac{\\sum "
+"PUFA\\[\\\\omega-3\\]}{\\sum PUFA\\[\\\\omega-6\\]}}$$"
+msgstr ""
+
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:9
 msgid "TI"
 msgstr "TI"
 
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:11
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:10
 #: src/FattyAcids/Ratio/Intraposition/index.md:14
-#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:8
+#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:7
 msgid "IT"
 msgstr "IT"
 
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:19
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:18
 msgid ""
 "Represents the thrombogenic index, which characterizes the thrombogenic "
 "potential of fatty acids. It defines the ratio between pro-thrombogenic "
 "saturated fatty acids and anti-thrombogenic unsaturated fatty acids."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:21
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:20
 msgid ""
 "From a human health perspective, the TI value should be as low as possible. "
 "This index separates fatty acids into pro-thrombogenic ones (myristic C14:0, "
@@ -3536,7 +3717,7 @@ msgid ""
 "of atrial fibrillation and other heart-related conditions."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:26
+#: src/FattyAcids/Ratio/Nutritional/ThrombogenicIndex.md:25
 msgid ""
 "[Watson _et al._, 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 "
 "\"Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad "
@@ -3559,215 +3740,235 @@ msgid "H/H"
 msgstr "H/H"
 
 #: src/FattyAcids/Ratio/Intraposition/index.md:16
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:8
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:7
 msgid "LA/ALA"
 msgstr "LA/ALA"
 
 #: src/FattyAcids/Ratio/Intraposition/index.md:18
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:8
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:7
 msgid "$PUFA\\[\\\\omega-6\\]/PUFA\\[\\\\omega-3\\]$"
 msgstr ""
 
 #: src/FattyAcids/Ratio/Intraposition/index.md:20
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:8
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:7
 msgid "PUFA/SFA"
 msgstr "ПНЖК/НЖК"
 
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:16
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:15
 msgid "Calculates the sum of EPA and DHA as a percentage of total fatty acids."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:20
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:19
 msgid ""
 "[Abrami _et al._, 1992](https://doi.org/10.1016/0305-0491(92)90161-J \"107\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:21
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:20
 msgid ""
 "[Krajnović-Ozretic _et al._, 1994](https://doi."
 "org/10.1016/0300-9629(94)90200-3 \"108\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:22
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:21
 msgid ""
 "[Łuczyńska _et al._, 2017](https://doi.org/10.3390/ijerph14101120 \"66\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:23
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:22
 msgid ""
 "[Łuczyńska _et al._, 2019](https://doi.org/10.3390/ijerph16193780 \"65\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:24
+#: src/FattyAcids/Ratio/Intraposition/FishLipidQuality.md:23
 msgid ""
 "[Senso _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.036 \"73\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:12
+#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:3
+msgid "$$\\frac{\\sum UFA}{C12:0 + 4 \\cdot C14:0 + C16:0}$$"
+msgstr "$$\\frac{\\sum UFA}{C12:0 + 4 \\cdot C14:0 + C16:0}$$"
+
+#: src/FattyAcids/Ratio/Intraposition/HealthPromotingIndex.md:11
 msgid ""
 "Assesses the nutritional value of dietary fat, focusing on the effect of "
 "fatty acid composition on cardiovascular disease."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:8
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:3
+msgid "$$\\frac{C18:1\\[\\\\omega-9\\] + \\sum PUFA}{C12:0 + C14:0 + C16:0}$$"
+msgstr "$$\\frac{C18:1\\[\\\\omega-9\\] + \\sum PUFA}{C12:0 + C14:0 + C16:0}$$"
+
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:7
 msgid "HH"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:12
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:11
 msgid ""
 "Characterizes the relationship between hypocholesterolemic and "
 "hypercholesterolemic fatty acids."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:16
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:15
 msgid "[Ahmad _et al._, 2019](https://doi.org/10.1002/fsn3.1302 \"86\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:17
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:26
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:16
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:25
 msgid ""
 "[Correa _et al._, 2012](https://doi.org/10.1016/j.meatsci.2012.02.033 \"46\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:18
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:17
 msgid "[Dal Bosco et al. (2013)](## \"72\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:20
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:29
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:19
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:28
 msgid ""
 "[Fernández _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.006 "
 "\"47\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:22
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:21
 msgid ""
 "[Ivanova _et al._, 2017](https://doi.org/10.11648/j.mc.20170506.11 \"78\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:23
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:34
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:22
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:33
 msgid ""
 "[Lorenzo _et al._, 2014](https://doi.org/10.1017/S175173111300236X \"52\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:24
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:22
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:36
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:23
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:21
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:35
 msgid ""
 "[Mierliță _et al._, 2018](https://doi.org/10.4314/sajas.v48i3.11 \"55\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:25
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:24
 msgid ""
 "[Paiva _et al._, 2016](https://doi.org/10.1016/j.foodres.2016.08.007 \"90\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:26
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:25
 msgid "[Ratusz _et al._, 2018](https://doi.org/10.3390/app8122606 \"62\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:28
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:27
 msgid "[Salles _et al._, 2019](https://doi.org/10.3390/nu11020481 \"87\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:29
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:28
 msgid ""
 "[Santos-Silva _et al._, 2002](https://doi.org/10.1016/S0301-6226(02)00059-3 "
 "\"91\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:30
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:43
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:29
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:42
 msgid ""
 "[Sinanoglou _et al._, 2015](https://doi.org/10.1007/s13594-015-0234-5 \"54\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:31
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:45
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:30
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:44
 msgid ""
 "[Sreelakshmi _et al._, 2019](https://doi.org/10.1080/10498850.2018.1559905 "
 "\"38\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:32
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:46
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:31
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:45
 msgid "[Tonial _et al._, 2014](https://doi.org/10.5539/jfr.v3n3p105 \"39\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:33
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:48
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:32
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:47
 msgid ""
 "[Winiarska-Mieczan _et al._, 2020](https://doi.org/10.1071/AN19305 \"48\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:34
+#: src/FattyAcids/Ratio/Intraposition/HypocholesterolemicToHypercholesterolemic.md:33
 msgid ""
 "[Wójciak _et al._, 2019](https://doi.org/10.1016/j.meatsci.2018.10.010 "
 "\"77\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:12
+#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:3
+msgid "$$\\frac{C12:0 + 4 \\cdot C14:0 + C16:0}{\\sum UFA}$$"
+msgstr "$$\\frac{C12:0 + 4 \\cdot C14:0 + C16:0}{\\sum UFA}$$"
+
+#: src/FattyAcids/Ratio/Intraposition/IndexOfAtherogenicity.md:11
 msgid "Characterizes the atherogenic potential of fatty acids."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:12
+#: src/FattyAcids/Ratio/Intraposition/IndexOfThrombogenicity.md:11
 msgid "Characterizes the thrombogenic potential of fatty acids."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:12
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:3
+msgid "$$\\frac{C18:2\\[\\\\omega-6\\]}{C18:3\\[\\\\omega-3\\]}$$"
+msgstr "$$\\frac{C18:2\\[\\\\omega-6\\]}{C18:3\\[\\\\omega-3\\]}$$"
+
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:11
 msgid "Used for guiding infant formula development."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:14
-#: src/Interposition/EnrichmentFactor.md:14
-#: src/Interposition/SelectivityFactor.md:16
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:13
+#: src/Interposition/EnrichmentFactor.md:13
+#: src/Interposition/SelectivityFactor.md:15
 msgid "**Interpretation**:"
 msgstr "**Интерпретация**:"
 
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:16
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:15
 msgid "from 5:1 to 15:1 (\\[Einerhand (2023)\\])"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:17
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:16
 msgid "below 4:1 is not recommended (\\[Clark (1992)\\])"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:21
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:35
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:20
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:34
 msgid ""
 "[Majdoub-Mathlouthi _et al._, 2015](https://doi.org/10.1017/"
 "S1751731115001731 \"43\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:23
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:22
 msgid ""
 "[Sharma _et al._, 2018](https://doi.org/10.1007/s13197-018-3360-2 \"109\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:24
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:23
 msgid ""
 "[Clark _et al._, 1992](https://doi.org/10.1016/s0022-3476(05)81250-8 "
 "\"Clark1992\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:25
+#: src/FattyAcids/Ratio/Intraposition/LinoleicToAlphaLinolenic.md:24
 msgid ""
 "[Einerhand _et al._, 2023](https://doi.org/10.3390/nu15092187 "
 "\"Einerhand2023\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:12
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:3
+msgid "$$\\frac{\\sum PUFA\\[\\\\omega-6\\]}{\\sum PUFA\\[\\\\omega-3\\]}$$"
+msgstr "$$\\frac{\\sum PUFA\\[\\\\omega-6\\]}{\\sum PUFA\\[\\\\omega-3\\]}$$"
+
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:11
 msgid "Omega -6 to omega -3"
 msgstr "Омега -6 жирные кислоты к омега -3 жирным кислотам"
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:15
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:14
 msgid ""
 "Indicates the balance between these two types of essential polyunsaturated "
 "fatty acids in the body."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:17
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:16
 msgid ""
 "_Inflammatory Balance_: Omega -6 and omega -3 fatty acids are precursors to "
 "molecules that regulate inflammation. While omega -6 fatty acids are "
@@ -3777,7 +3978,7 @@ msgid ""
 "chronic diseases."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:18
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:17
 msgid ""
 "_Risk of Chronic Diseases_: A high n-6/n-3 ratio is linked to an increased "
 "risk of cardiovascular disease, obesity, and other inflammatory conditions. "
@@ -3785,7 +3986,7 @@ msgid ""
 "preventing these health issues."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:19
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:18
 msgid ""
 "_Cellular Health_: Both omega -6 and omega -3 fatty acids are crucial "
 "components of cell membranes and are necessary for regulating blood pressure "
@@ -3793,125 +3994,129 @@ msgid ""
 "cellular function."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:21
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:20
 msgid "**Value**:"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:22
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:21
 msgid "from 1:1 to 5:1 (\\[Gonzalez-Becerra2023\\])"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:26
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:25
 msgid ""
 "[Gonzalez-Becerra _et al._, 2023](https://doi.org/10.3390/healthcare11162333 "
 "\"Gonzalez-Becerra2023\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:27
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:26
 msgid ""
 "[Russo _et al._, 2009](https://doi.org/10.1016/j.bcp.2008.10.020 "
 "\"Russo2009\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:28
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:27
 msgid ""
 "[Strobel _et al._, 2012](https://doi.org/10.1186/1476-511X-11-144 "
 "\"Strobel2012\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:29
+#: src/FattyAcids/Ratio/Intraposition/Polyunsaturated-6ToPolyunsaturated-3.md:28
 msgid ""
 "[Yang _et al._, 2023](https://doi.org/10.3389/fnut.2023.1166702 \"Yang2023\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:12
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:3
+msgid "$$\\frac{\\sum PUFA}{\\sum SFA}$$"
+msgstr "$$\\frac{\\sum PUFA}{\\sum SFA}$$"
+
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:11
 msgid "Assesses the impact of diet on cardiovascular health (CVH)."
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:16
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:15
 msgid "[Yousefi _et al._, 2012](https://doi.org/10.1016/j.meatsci.2012.05.004)"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:18
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:17
 msgid ""
 "[Alvarenga _et al._, 2014](https://doi.org/10.1017/S1751731114000093 \"49\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:19
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:18
 msgid ""
 "[Bonanno _et al._, 2016](https://doi.org/10.1017/S1751731116001130 \"57\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:20
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:19
 msgid ""
 "[Brogna _et al._, 2011](https://doi.org/10.1017/S1751731111000048 \"45\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:21
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:20
 msgid "[Calabrò _et al._, 2015](https://doi.org/10.1002/jsfa.7049 \"30\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:22
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:21
 msgid ""
 "[Castro _et al._, 2016](https://doi.org/10.1017/S1751731115002554 \"42\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:23
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:22
 msgid ""
 "[Chan _et al._, 2017](https://doi.org/10.1016/j.foodchem.2016.10.066 \"28\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:24
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:23
 msgid "[Chen _et al._, 2016](https://doi.org/10.3390/md14040068 \"29\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:25
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:24
 msgid "[Chiofalo _et al._, 2018](https://doi.org/10.1111/jpn.12687 \"31\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:27
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:26
 msgid ""
 "[Farajzadeh Alan _et al._, 2019](https://doi.org/10.1002/fsn3.1231 \"32\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:30
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:29
 msgid "[Filip _et al._, 2011](https://doi.org/10.1002/ejlt.200900231 \"33\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:31
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:30
 msgid "[Hao _et al._, 2019](https://doi.org/10.1111/asj.13266 \"41\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:33
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:32
 msgid ""
 "[Kumar _et al._, 2011](https://doi.org/10.1007/s10811-010-9578-7 \"27\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:37
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:36
 msgid "[Mir _et al._, 2018](https://doi.org/10.1002/ejlt.201700470 \"50\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:38
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:37
 msgid ""
 "[Nantapo _et al._, 2014](https://doi.org/10.1016/j.foodchem.2013.09.009 "
 "\"56\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:39
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:38
 msgid "[Pires _et al._, 2020](https://doi.org/10.1002/jsfa.10070 \"53\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:40
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:39
 msgid ""
 "[Realini _et al._, 2013](https://doi.org/10.1016/j.meatsci.2013.03.007 "
 "\"44\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:44
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:43
 msgid "[Skałecki _et al._, 2020](https://doi.org/10.3390/ani10050778 \"35\")"
 msgstr ""
 
-#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:47
+#: src/FattyAcids/Ratio/Intraposition/PolyunsaturatedToSaturated.md:46
 msgid ""
 "[Turner _et al._, 2011](https://doi.org/10.1080/09064702.2011.560179 \"51\")"
 msgstr ""
@@ -3924,11 +4129,15 @@ msgstr ""
 msgid "The ratio between fatty acids in different stereospecific positions."
 msgstr ""
 
-#: src/Interposition/EnrichmentFactor.md:8
+#: src/Interposition/EnrichmentFactor.md:3
+msgid "$$EF_I = \\frac{{2:I}}{{1:I | 2:I | 3:I}}$$"
+msgstr "$$EF_I = \\frac{{2:I}}{{1:I | 2:I | 3:I}}$$"
+
+#: src/Interposition/EnrichmentFactor.md:7
 msgid "EF"
 msgstr "EF"
 
-#: src/Interposition/EnrichmentFactor.md:12
+#: src/Interposition/EnrichmentFactor.md:11
 msgid ""
 "The enrichment factor (EF) measures how much a specific fatty acid is "
 "enriched at the sn-2 position of a triacylglycerol (TAG) compared to its "
@@ -3940,23 +4149,23 @@ msgstr ""
 "Более высокий фактор указывает на большее конкурентное преимущество "
 "конкретной жирной кислоты для этой позиции."
 
-#: src/Interposition/EnrichmentFactor.md:16
-#: src/Interposition/SelectivityFactor.md:18
+#: src/Interposition/EnrichmentFactor.md:15
+#: src/Interposition/SelectivityFactor.md:17
 msgid "`0..1` indicates a preference for sn-1 and sn-3 positions;"
 msgstr "`0..1` указывает на предпочтение позиций sn-1 и sn-3;"
 
-#: src/Interposition/EnrichmentFactor.md:17
-#: src/Interposition/SelectivityFactor.md:19
+#: src/Interposition/EnrichmentFactor.md:16
+#: src/Interposition/SelectivityFactor.md:18
 msgid "`1` indicates no preference for sn positions;"
 msgstr "`1` указывает на отсутствие предпочтений в отношении позиций sn;"
 
-#: src/Interposition/EnrichmentFactor.md:18
-#: src/Interposition/SelectivityFactor.md:20
+#: src/Interposition/EnrichmentFactor.md:17
+#: src/Interposition/SelectivityFactor.md:19
 msgid "`1..3` indicates a preference for the sn-2 position."
 msgstr "`1..3` указывает на предпочтение позиции sn-2."
 
-#: src/Interposition/EnrichmentFactor.md:22
-#: src/Interposition/SelectivityFactor.md:24
+#: src/Interposition/EnrichmentFactor.md:21
+#: src/Interposition/SelectivityFactor.md:23
 msgid ""
 "[Верещагин, 1972, стр. 176](https://doi.org/404.html \"Биохимия "
 "триглицеридов\")"
@@ -3964,11 +4173,17 @@ msgstr ""
 "[Верещагин, 1972, стр. 176](https://doi.org/404.html \"Биохимия "
 "триглицеридов\")"
 
-#: src/Interposition/SelectivityFactor.md:8
+#: src/Interposition/SelectivityFactor.md:3
+msgid ""
+"$$SF_I = \\frac{{2:I}}{{1:I | 2:I | 3:I}} \\cdot \\frac{\\sum {1:U | 2:U | 3:"
+"U}}{\\sum {2:U}}$$"
+msgstr ""
+
+#: src/Interposition/SelectivityFactor.md:7
 msgid "SF"
 msgstr "SF"
 
-#: src/Interposition/SelectivityFactor.md:12
+#: src/Interposition/SelectivityFactor.md:11
 msgid ""
 "Selectivity factor (SF) quantifies the relative preference for that specific "
 "fatty acid at the sn-2 position compared to other fatty acids that are also "
@@ -3981,7 +4196,7 @@ msgstr ""
 "положении. Более высокий фактор селективности указывает на большее "
 "конкурентное преимущество данной жирной кислоты в этом положении."
 
-#: src/Interposition/SelectivityFactor.md:14
+#: src/Interposition/SelectivityFactor.md:13
 msgid ""
 "It provides a comparative measure of how strongly a specific fatty acid "
 "competes for the sn-2 position relative to other fatty acids that show a "

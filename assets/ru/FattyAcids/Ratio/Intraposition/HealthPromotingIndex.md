@@ -1,8 +1,6 @@
 # Health-promoting index
  
- <!-- i18n:skip -->
- 
- $$\frac{\sum UFA}{C12:0 + 4 \cdot C14:0 + C16:0}$$
+ $$\frac{\sum UFA}{C12:0 + 4 \times C14:0 + C16:0}$$
  
  ## Сокращения
  

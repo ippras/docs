@@ -1,6 +1,6 @@
 # Степень ненасыщенности
  
- $$DU = 1-UFA + 2 * 2-UFA + 3 * 3-UFA + 4 * 4-UFA$$
+ $$DU = 1-UFA + 2 \times 2-UFA + 3 \times 3-UFA + 4 \times 4-UFA$$
  
  ## Сокращения
  
@@ -12,4 +12,4 @@
  
  ## Ссылки
  
- - [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
+ 1. [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")

@@ -2,7 +2,6 @@
  
  `nutritional`
  
- <!-- i18n:skip -->
  $$\frac{C14:0 + C16:0 + C18:0}{\sum MUFA + \sum PUFA}$$
  
  ## Abbreviations

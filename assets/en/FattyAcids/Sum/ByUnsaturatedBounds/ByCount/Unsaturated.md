@@ -1,6 +1,5 @@
 # Unsaturated fatty acids
  
- <!-- i18n:skip -->
  $$\sum UFA$$
  
  ## Abbreviations

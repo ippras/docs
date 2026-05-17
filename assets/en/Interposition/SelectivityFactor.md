@@ -1,6 +1,5 @@
 # Selectivity factor
  
- <!-- i18n:skip -->
  $$SF_I = \frac{\{2:I\}}{\{1:I | 2:I | 3:I\}} \cdot \frac{\sum \{1:U | 2:U | 3:U\}}{\sum \{2:U\}}$$
  
  ## Abbreviations

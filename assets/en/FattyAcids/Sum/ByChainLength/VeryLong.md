@@ -1,6 +1,5 @@
 # Very long chain fatty acids
  
- <!-- i18n:skip -->
  $$\sum VLCFA$$
  
  ## Abbreviations

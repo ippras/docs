@@ -1,6 +1,5 @@
 # Medium chain fatty acids
  
- <!-- i18n:skip -->
  $$\sum MCFA$$
  
  ## Abbreviations

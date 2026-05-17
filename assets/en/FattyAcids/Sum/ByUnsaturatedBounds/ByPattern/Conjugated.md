@@ -1,6 +1,5 @@
 # Conjugated fatty acids
  
- <!-- i18n:skip -->
  $$\sum CFA$$
  
  ## Abbreviations

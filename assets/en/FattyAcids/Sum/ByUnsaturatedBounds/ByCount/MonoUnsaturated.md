@@ -1,6 +1,5 @@
 # Monounsaturated fatty acids
  
- <!-- i18n:skip -->
  $$\sum MUFA$$
  
  ## Abbreviations

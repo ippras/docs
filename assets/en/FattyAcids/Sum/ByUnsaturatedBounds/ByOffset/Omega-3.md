@@ -1,6 +1,5 @@
 # Omega -3 fatty acids
  
- <!-- i18n:skip -->
  $$\sum UFA[\omega-3]$$
  
  ## Abbreviations

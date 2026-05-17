@@ -2,8 +2,6 @@
  
  `nutritional`
  
- <!-- i18n:skip -->
- 
  $$\frac{C20:5\[\\omega-3\] + C22:6\[\\omega-3\]}{\sum FA}$$
  
  ## Сокращения

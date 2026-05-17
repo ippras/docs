@@ -1,6 +1,6 @@
 # Коэффициент насыщенности длинноцепочечных жирных кислот
  
- $$LCSF = 0.1 * C16:0 + 0.5 * C18:0 + 1 * C20:0 + 1.5 * C22:0 + 2 * C24:0$$
+ $$LCSF = 0.1 \times C16:0 + 0.5 \times C18:0 + 1 \times C20:0 + 1.5 \times C22:0 + 2 \times C24:0$$
  
  ## Сокращения
  
@@ -10,4 +10,4 @@
  
  ## Ссылки
  
- - [Ramos _et al._, 2009](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
+ 1. [Ramos _et al._, 2009](https://doi.org/10.1016/j.biortech.2008.06.039 "Influence of fatty acid composition of raw materials on biodiesel properties")

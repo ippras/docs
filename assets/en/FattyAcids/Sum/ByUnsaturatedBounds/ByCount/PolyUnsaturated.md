@@ -1,6 +1,5 @@
 # Polyunsaturated fatty acids
  
- <!-- i18n:skip -->
  $$\sum PUFA$$
  
  ## Abbreviations

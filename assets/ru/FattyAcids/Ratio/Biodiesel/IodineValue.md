@@ -1,6 +1,6 @@
 # Iodine value
  
- $$IV = 0.6683 * DU + 25.0364$$
+ $$IV = 0.6683 \times DU + 25.0364$$
  
  ## Сокращения
  
@@ -10,13 +10,13 @@
  
  The iodine value is an index of numbers of double bonds in biodiesel, and therefore is a parameter that quantifies the degree of unsaturation (DU) of biodiesel.
  
- __Стандарты биодизельного топлива__:
+ __Стандарты биодизеля__:
  
- |__Стандарт биодизельного топлива__:|Limit|
- |-------------------------------|-----|
- |Europe (EN 14214-2005)|\[\-∞;120\]|
- |Russia (ГОСТ Р 53605-2009)|\[\-∞;120\]|
+ |__Стандарт биодизеля__:|Границы|
+ |-------------------|-------|
+ |Европейский союз (EN 14214-2005)|\[\-∞;120\]|
+ |Россия (ГОСТ Р 53605-2009)|\[\-∞;120\]|
  
  ## Ссылки
  
- - [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
+ 1. [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")

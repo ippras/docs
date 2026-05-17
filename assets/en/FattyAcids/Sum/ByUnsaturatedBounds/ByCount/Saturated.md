@@ -1,6 +1,5 @@
 # Saturated fatty acids
  
- <!-- i18n:skip -->
  $$\sum SFA$$
  
  ## Abbreviations

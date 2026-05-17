@@ -2,13 +2,7 @@
  
  `nutritional`
  
- <!-- i18n:skip -->
- 
- $$\frac{C12:0 + 4 \cdot C14:0 + C16:0}{\sum MUFA + \sum PUFA\[\\omega-6\] + \sum PUFA\[\\omega-3\]}$$
- 
- <!-- i18n:skip -->
- 
- $$\frac{C12:0 + 4 \cdot C14:0 + C16:0}{\sum UFA}$$
+ $$\frac{C12:0 + 4 \times C14:0 + C16:0}{\sum MUFA + \sum PUFA\[\\omega-6\] + \sum PUFA\[\\omega-3\]}$$ $$\frac{C12:0 + 4 \times C14:0 + C16:0}{\sum UFA}$$
  
  ## Сокращения
  

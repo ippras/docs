@@ -1,6 +1,5 @@
 # Trans fatty acids
  
- <!-- i18n:skip -->
  $$\sum TFA$$
  
  ## Abbreviations

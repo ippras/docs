@@ -1,6 +1,5 @@
 # Delta 12 fatty acids
  
- <!-- i18n:skip -->
  $$\sum UFA[\Delta12]$$
  
  ## Abbreviations

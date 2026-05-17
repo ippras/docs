@@ -1,6 +1,5 @@
 # N unsaturated fatty acids
  
- <!-- i18n:skip -->
  $$\sum NUFA$$
  
  ## Abbreviations

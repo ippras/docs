@@ -2,10 +2,8 @@
  
  `metabolic`
  
- <!-- i18n:skip -->
  $$\frac{C18:1[\omega-9]}{C18:0 + C18:1[\omega-9]} \tag{1}$$
  
- <!-- i18n:skip -->
  $$\frac{C16:1[\omega-7] + C18:1[\omega-9]}{C16:0 + C18:0 + C16:1[\omega-7] + C18:1[\omega-9]} \tag{2}$$
  
  > [!NOTE]

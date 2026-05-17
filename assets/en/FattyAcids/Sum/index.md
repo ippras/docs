@@ -1,4 +1,4 @@
 # Sum
-
-- Sum by chain length
-- Sum by unsaturated bounds
+ 
+ - Sum by chain length
+ - Sum by unsaturated bounds

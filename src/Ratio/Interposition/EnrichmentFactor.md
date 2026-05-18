@@ -1,6 +1,8 @@
 # Enrichment factor
 
-$$EF_I = \frac{\{2:I\}}{\{1:I | 2:I | 3:I\}}$$
+`triacylglycerols`
+
+$$EF_{FA} = \frac{\{2:FA\}}{\{1:FA | 2:FA | 3:FA\}}$$
 
 ## Abbreviations
 

@@ -1,6 +1,8 @@
 # Selectivity factor
 
-$$SF_I = \frac{\{2:I\}}{\{1:I | 2:I | 3:I\}} \cdot \frac{\sum \{1:U | 2:U | 3:U\}}{\sum \{2:U\}}$$
+`triacylglycerols`
+
+$$SF_{FA} = \frac{\{2:FA\}}{\{1:FA | 2:FA | 3:FA\}} \times \frac{\sum \{1:U | 2:U | 3:U\}}{\sum \{2:U\}}$$
 
 ## Abbreviations
 

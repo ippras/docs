@@ -1,4 +1,4 @@
-# Hypocholesterolemic to hypercholesterolemic index
+# Hypo to hypercholesterolemic index
 
 `nutritional`
 

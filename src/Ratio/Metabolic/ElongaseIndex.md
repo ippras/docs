@@ -14,7 +14,7 @@ $$\frac{C18:0}{C16:0}$$
 
 ## Description
 
-Represents the elongase index, which is used to estimate the activity of elongase enzymes in tissues (such as muscle or egg yolk) using the product/substrate ratio approach. Specifically, it measures the elongation of palmitic acid ($C16:0$) to stearic acid ($C18:0$).
+Represents the elongase index, which is used to estimate the activity of elongase enzymes in tissues (such as muscle or egg yolk) using the product/substrate ratio approach. Specifically, it measures the elongation of palmitic acid ($\ce{C{16:0}}$) to stearic acid ($\ce{C{18:0}}$).
 
 Unlike nutritional indices (such as AI or HPI), the elongase index is primarily a metabolic indicator. It was developed to identify and evaluate the lipid metabolism of animals and their capacity to synthesize longer-chain fatty acids from precursors. While it may have lower direct relevance for evaluating the nutritional quality of food for human consumption, it is a valuable tool for researchers to discriminate metabolic changes in animals due to dietary effects, genetic strains, or rearing systems. It serves as a practical surrogate for measuring true enzyme activity, avoiding complex and expensive laboratory analyses.
 

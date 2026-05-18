@@ -18,7 +18,7 @@ $$\frac{\sum \ce{MUFA} + \sum \ce{PUFA[\omega-6]} + \sum \ce{PUFA[\omega-3]}}{\c
 
 Represents the health-promoting index, which was proposed to assess the nutritional value of dietary fat, with particular emphasis on the effects of fatty acid composition on cardiovascular diseases (CVD). It is the exact inverse of the index of atherogenicity (IA).
 
-From a human health perspective, the HPI value should be as high as possible. This index evaluates the risk of cardiovascular diseases by comparing fatty acids that inhibit plaque accumulation and lower levels of phospholipids and cholesterol (MUFAs and PUFAs) against those that promote lipid and plaque accumulation in blood vessels (such as lauric $C12:0$, myristic $C14:0$, and palmitic $C16:0$ acids). Consuming foods with a higher HPI value provides a very high degree of protection against atherogenic diseases and is assumed to be more beneficial to human health.
+From a human health perspective, the HPI value should be as high as possible. This index evaluates the risk of cardiovascular diseases by comparing fatty acids that inhibit plaque accumulation and lower levels of phospholipids and cholesterol (MUFAs and PUFAs) against those that promote lipid and plaque accumulation in blood vessels (such as lauric $\ce{C{12:0}}$, myristic $\ce{C{14:0}}$, and palmitic $\ce{C{16:0}}$ acids). Consuming foods with a higher HPI value provides a very high degree of protection against atherogenic diseases and is assumed to be more beneficial to human health.
 
 ## References
 

@@ -11,7 +11,7 @@ $$\sum UFA[\omega-9]$$
 
 ## Description
 
-Represents a family of unsaturated fatty acids that have a final carbon-carbon double bond in the omega -9 position (the ninth bond from the methyl end of the fatty acid chain). The most common and abundant omega -9 fatty acid is oleic acid ($C18:1$).
+Represents a family of unsaturated fatty acids that have a final carbon-carbon double bond in the omega -9 position (the ninth bond from the methyl end of the fatty acid chain). The most common and abundant omega -9 fatty acid is oleic acid ($\ce{C{18:1}}$).
 
 **Nutritional potential**:
 

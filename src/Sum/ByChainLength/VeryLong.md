@@ -1,18 +1,14 @@
 # Very long chain fatty acids
 
-$$\sum VLCFA$$
+$$\sum \ce{VLCFA}$$
 
 ## Abbreviations
 
 - VLCFA
 
-## Synonyms
-
-- Very-long-chain fats
-
 ## Description
 
-Represents a sub-group of fatty acids with aliphatic tails of 22 or more carbon atoms (e.g., behenic acid C22:0, lignoceric acid C24:0, erucic acid C22:1, docosahexaenoic acid C22:6).
+Represents a sub-group of fatty acids with aliphatic tails of 22 or more carbon atoms (e.g., behenic acid $\ce{C{22:0}}$, lignoceric acid $\ce{C{24:0}}$, erucic acid $\ce{C{22:1}}$, docosahexaenoic acid $\ce{C{22:6}}$).
 
 **Nutritional potential**:
 
@@ -24,6 +20,6 @@ In fuel applications, the presence of VLCFAs significantly increases the kinemat
 
 ## References
 
+- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 - [Wanders _et al._, 2010](https://doi.org/10.1016/j.ymgme.2004.08.016 "Peroxisomes, lipid metabolism, and peroxisomal disorders")
 - [Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 "Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis")
-- [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")

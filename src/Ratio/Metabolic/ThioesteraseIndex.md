@@ -14,7 +14,7 @@ $$\frac{C16:0}{C14:0}$$
 
 ## Description
 
-Represents the thioesterase index, which is used to estimate the activity of the thioesterase enzyme in tissues using the product/substrate ratio approach. Specifically, it measures the ratio of palmitic acid ($C16:0$) to myristic acid ($C14:0$). In fatty acid synthesis, the thioesterase enzyme is responsible for terminating the reaction and releasing the newly synthesized fatty acid. 
+Represents the thioesterase index, which is used to estimate the activity of the thioesterase enzyme in tissues using the product/substrate ratio approach. Specifically, it measures the ratio of palmitic acid ($\ce{C{16:0}}$) to myristic acid ($\ce{C{14:0}}$). In fatty acid synthesis, the thioesterase enzyme is responsible for terminating the reaction and releasing the newly synthesized fatty acid. 
 
 Like the elongase index, the thioesterase index is a metabolic indicator rather than a direct measure of human nutritional quality. It is particularly useful for understanding the selective cleavage of thioesterase on the C14-acyl-acyl carrier protein versus the C16-acyl-acyl carrier protein. Researchers use this index to evaluate the lipid metabolism of animals (such as poultry or pigs) and to discriminate metabolic changes due to dietary effects, genetic strains, or rearing systems. It serves as a practical and cost-effective surrogate for measuring true enzyme activity in the laboratory.
 
